@@ -1,0 +1,112 @@
+[
+  {
+    "id": "tw_law",
+    "name": "全國法規資料庫",
+    "url": "https://law.moj.gov.tw/",
+    "kind": "web",
+    "region": "台灣",
+    "defaultCategory": "法規更新",
+    "priority": "high",
+    "enabled": true
+  },
+  {
+    "id": "tw_thb",
+    "name": "交通部公路局",
+    "url": "https://www.thb.gov.tw/",
+    "kind": "web",
+    "region": "台灣",
+    "defaultCategory": "法規更新",
+    "priority": "high",
+    "enabled": true
+  },
+  {
+    "id": "eu_transport",
+    "name": "European Commission — Urban transport",
+    "url": "https://transport.ec.europa.eu/transport-themes/urban-transport_en",
+    "kind": "web",
+    "region": "歐盟",
+    "defaultCategory": "法規更新",
+    "priority": "high",
+    "enabled": true
+  },
+  {
+    "id": "eur_lex",
+    "name": "EUR-Lex",
+    "url": "https://eur-lex.europa.eu/homepage.html?locale=en",
+    "kind": "web",
+    "region": "歐盟",
+    "defaultCategory": "法規更新",
+    "priority": "high",
+    "enabled": true
+  },
+  {
+    "id": "cpsc_recalls",
+    "name": "U.S. CPSC — Recalls",
+    "url": "https://www.cpsc.gov/Recalls",
+    "kind": "web",
+    "region": "美國",
+    "defaultCategory": "安全召回",
+    "priority": "urgent",
+    "enabled": true
+  },
+  {
+    "id": "cpsc_micro",
+    "name": "U.S. CPSC — Micromobility Information Center",
+    "url": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Micromobility-Information-Center",
+    "kind": "web",
+    "region": "美國",
+    "defaultCategory": "安全召回",
+    "priority": "urgent",
+    "enabled": true
+  },
+  {
+    "id": "bosch_ebike",
+    "name": "Bosch eBike Systems",
+    "url": "https://www.bosch-ebike.com/en/news",
+    "kind": "web",
+    "region": "全球",
+    "defaultCategory": "技術元件",
+    "priority": "normal",
+    "enabled": true
+  },
+  {
+    "id": "shimano",
+    "name": "Shimano Bike News",
+    "url": "https://bike.shimano.com/en-US/information/news.html",
+    "kind": "web",
+    "region": "全球",
+    "defaultCategory": "技術元件",
+    "priority": "normal",
+    "enabled": true
+  },
+  {
+    "id": "giant_group",
+    "name": "Giant Group News",
+    "url": "https://www.giantgroup-cycling.com/global/news",
+    "kind": "web",
+    "region": "台灣／全球",
+    "defaultCategory": "品牌新品",
+    "priority": "normal",
+    "enabled": true
+  },
+  {
+    "id": "bafang",
+    "name": "Bafang News",
+    "url": "https://bafang-e.com/en/oem-area/news",
+    "kind": "web",
+    "region": "全球",
+    "defaultCategory": "技術元件",
+    "priority": "normal",
+    "enabled": true
+  },
+  {
+    "id": "niu",
+    "name": "NIU News",
+    "url": "https://www.niu.com/en/news",
+    "kind": "web",
+    "region": "全球",
+    "defaultCategory": "品牌新品",
+    "priority": "normal",
+    "enabled": true
+  }
+]

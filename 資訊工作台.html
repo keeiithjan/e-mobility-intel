@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>電動微移動情報工作台</title>
+  <style>
+    :root { --ink:#17251f; --muted:#64736a; --canvas:#f5f7f3; --line:#dbe2dc; --panel:#ffffff; --green:#1e5a45; --mint:#dcefe2; --amber:#fff1c7; --red:#fee0dd; --blue:#ddecf7; }
+    * { box-sizing:border-box; }
+    body { margin:0; color:var(--ink); background:var(--canvas); font-family:"Segoe UI","Noto Sans TC",Arial,sans-serif; }
+    .shell { min-height:100vh; display:grid; grid-template-columns:250px minmax(0,1fr); }
+    .sidebar { color:#eef6f0; background:#173d31; padding:30px 22px; display:flex; flex-direction:column; gap:28px; }
+    .brand { font-weight:800; font-size:21px; line-height:1.25; letter-spacing:-.3px; }
+    .brand small { display:block; margin-top:7px; color:#a9c9b5; font-size:12px; font-weight:600; letter-spacing:.8px; }
+    .nav { display:grid; gap:5px; }
+    .nav a { color:#c9ded0; padding:10px 11px; border-radius:9px; font-size:14px; text-decoration:none; }
+    .nav a.active, .nav a:hover { color:#fff; background:rgba(255,255,255,.12); }
+    .side-note { margin-top:auto; border-top:1px solid rgba(255,255,255,.16); padding-top:18px; color:#b4cbbd; font-size:12px; line-height:1.6; }
+    main { padding:34px 42px 52px; max-width:1480px; width:100%; margin:0 auto; }
+    .eyebrow { color:var(--green); font-size:12px; letter-spacing:1.2px; font-weight:800; }
+    h1 { margin:8px 0 4px; font-size:36px; letter-spacing:-1px; }
+    .subtitle { margin:0; color:var(--muted); font-size:15px; }
+    .hero { display:flex; justify-content:space-between; align-items:flex-end; gap:16px; margin-bottom:28px; }
+    .date { padding:9px 12px; border:1px solid var(--line); border-radius:9px; background:#fff; color:#496056; font-size:13px; white-space:nowrap; }
+    .stats { display:grid; grid-template-columns:repeat(4,minmax(130px,1fr)); gap:14px; margin:22px 0 32px; }
+    .stat { min-height:112px; padding:17px 18px; background:var(--panel); border:1px solid var(--line); border-radius:13px; box-shadow:0 2px 10px rgba(31,50,39,.035); }
+    .stat .label { color:var(--muted); font-size:13px; }
+    .stat .value { margin-top:9px; font-size:30px; font-weight:800; letter-spacing:-.6px; }
+    .stat .hint { margin-top:4px; color:var(--muted); font-size:12px; }
+    .section-head { display:flex; align-items:center; justify-content:space-between; gap:14px; margin:34px 0 13px; }
+    h2 { margin:0; font-size:20px; letter-spacing:-.25px; }
+    .tool-row { display:flex; gap:8px; flex-wrap:wrap; }
+    input { min-width:220px; padding:10px 12px; border:1px solid var(--line); border-radius:9px; background:#fff; font:inherit; color:var(--ink); }
+    .filters { display:flex; gap:7px; flex-wrap:wrap; }
+    .filter { cursor:pointer; padding:7px 10px; border:1px solid var(--line); border-radius:99px; background:#fff; color:#53645a; font:inherit; font-size:12px; }
+    .filter.active { background:var(--green); border-color:var(--green); color:#fff; }
+    .cards { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; }
+    .card { display:flex; flex-direction:column; min-height:278px; overflow:hidden; border:1px solid var(--line); border-radius:13px; background:#fff; box-shadow:0 2px 10px rgba(31,50,39,.035); }
+    .visual { height:72px; padding:15px 17px; display:flex; justify-content:space-between; align-items:flex-start; font-size:12px; font-weight:800; letter-spacing:.5px; }
+    .visual .symbol { font-size:25px; line-height:1; }
+    .visual.safety { background:var(--red); color:#8b2f2b; }.visual.law { background:var(--amber); color:#775507; }.visual.component { background:var(--blue); color:#1d5f84; }.visual.product { background:var(--mint); color:#1d6b4f; }.visual.trend { background:#e7e2fa; color:#58458c; }
+    .card-body { display:flex; flex:1; flex-direction:column; padding:16px 17px 15px; }
+    .meta { color:var(--muted); font-size:12px; }
+    .card h3 { margin:9px 0 9px; font-size:18px; line-height:1.38; letter-spacing:-.25px; }
+    .summary { margin:0; color:#516158; font-size:13px; line-height:1.58; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+    .card-footer { display:flex; justify-content:space-between; align-items:center; gap:10px; margin-top:auto; padding-top:14px; }
+    .tag { display:inline-flex; align-items:center; padding:5px 8px; border-radius:99px; font-size:11px; font-weight:800; }.tag.urgent { background:#fee0dd; color:#9d2f29; }.tag.high { background:#fff1c7; color:#785809; }.tag.normal { background:#e7eef0; color:#49616b; }.tag.low { background:#edf0ee; color:#617067; }
+    .link { color:var(--green); font-size:12px; font-weight:800; text-decoration:none; }.link:hover { text-decoration:underline; }
+    .empty { grid-column:1 / -1; padding:44px 28px; color:var(--muted); border:1px dashed #b9c7bd; border-radius:13px; background:rgba(255,255,255,.6); text-align:center; }
+    .lower { display:grid; grid-template-columns:1.1fr .9fr; gap:18px; margin-top:34px; }
+    .panel { border:1px solid var(--line); border-radius:13px; background:#fff; padding:18px; }
+    .queue { display:grid; gap:10px; }.queue-item { display:flex; align-items:center; gap:11px; padding:10px 0; border-bottom:1px solid #edf1ee; }.queue-item:last-child { border-bottom:0; }.queue-dot { width:10px; height:10px; border-radius:50%; background:#d0d9d3; }.queue-dot.urgent { background:#d44c43; }.queue-dot.high { background:#d6a928; }.queue-text { min-width:0; flex:1; }.queue-title { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:13px; font-weight:700; }.queue-meta { color:var(--muted); margin-top:3px; font-size:11px; }
+    .sources { display:grid; gap:8px; max-height:275px; overflow:auto; }.source-row { display:flex; justify-content:space-between; align-items:center; gap:12px; padding:8px 0; border-bottom:1px solid #edf1ee; font-size:13px; }.source-row:last-child { border-bottom:0; }.status { font-size:11px; font-weight:800; }.status.ok { color:#20704c; }.status.failed { color:#a43c35; }.status.neutral { color:#737d76; }
+    .note { margin-top:26px; color:#6f7d74; font-size:12px; line-height:1.55; }
+    @media (max-width:1000px) { .shell { grid-template-columns:1fr; }.sidebar { display:none; } main { padding:28px 22px; }.cards { grid-template-columns:repeat(2,minmax(0,1fr)); }.stats { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+    @media (max-width:620px) { h1 { font-size:29px; }.hero { align-items:flex-start; flex-direction:column; }.cards,.lower { grid-template-columns:1fr; }.stats { grid-template-columns:1fr 1fr; }.tool-row,input { width:100%; }.section-head { align-items:flex-start; flex-direction:column; } }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">電動微移動<br>情報工作台<small>E-BIKE · E-SCOOTER</small></div>
+      <nav class="nav"><a class="active" href="#today">今日情報</a><a href="#queue">PPT 候選</a><a href="#sources">來源健康</a><a href="#how">工作方式</a></nav>
+      <div class="side-note">這是每日工作介面。原始 CSV、Markdown 與 JSON 仍保留在 daily-output，作為匯出與稽核紀錄。</div>
+    </aside>
+    <main>
+      <section class="hero" id="today"><div><div class="eyebrow">INTELLIGENCE RADAR</div><h1>今天值得處理的情報</h1><p class="subtitle" id="subtitle"></p></div><div class="date" id="date"></div></section>
+      <section class="stats" id="stats"></section>
+      <section><div class="section-head"><h2>今日情報流</h2><div class="tool-row"><input id="search" aria-label="搜尋標題或來源" placeholder="搜尋標題、來源或關鍵字"><div class="filters" id="filters"></div></div></div><div class="cards" id="cards"></div></section>
+      <section class="lower"><div class="panel" id="queue"><div class="section-head"><h2>PPT 候選</h2><span class="meta">優先處理 urgent / high</span></div><div class="queue" id="queue-list"></div></div><div class="panel" id="sources"><div class="section-head"><h2>來源健康</h2><span class="meta" id="source-summary"></span></div><div class="sources" id="source-list"></div></div></section>
+      <p class="note" id="how">使用原文連結確認法規、安全與發布日期。外部圖片與截圖在確認授權前，不會自動嵌入工作台或簡報。</p>
+    </main>
+  </div>
+  <script>
+    const data = {"date":"2026-08-05","mode":"demo","modeLabel":"示例模式","items":[{"編號":"2026-08-05-001","擷取日期":"2026-08-05","發布日期":"2026-08-05","類別":"安全召回","重要性":"urgent","區域":"美國","來源名稱":"U.S. CPSC — Recalls","標題":"示例：電池安全公告追蹤","原文摘要":"示例資料，請以官方原文確認安全、維修與召回資訊。","原文網址":"https://example.com/demo-safety","PPT狀態":"優先製作","素材授權":"待確認原始來源授權","引用格式":"U.S. CPSC — Recalls（2026-08-05），〈示例：電池安全公告追蹤〉，https://example.com/demo-safety（擷取：2026-08-05）。","審核狀態":"示例資料"},{"編號":"2026-08-05-002","擷取日期":"2026-08-05","發布日期":"2026-08-05","類別":"法規更新","重要性":"high","區域":"歐盟","來源名稱":"European Commission — Urban transport","標題":"示例：微型移動法規變更檢視","原文摘要":"示例資料，用來驗證法規高優先度標記。此內容不是法律意見。","原文網址":"https://example.com/demo-regulation","PPT狀態":"優先製作","素材授權":"待確認原始來源授權","引用格式":"European Commission — Urban transport（2026-08-05），〈示例：微型移動法規變更檢視〉，https://example.com/demo-regulation（擷取：2026-08-05）。","審核狀態":"示例資料"},{"編號":"2026-08-05-003","擷取日期":"2026-08-05","發布日期":"2026-08-05","類別":"技術元件","重要性":"normal","區域":"全球","來源名稱":"Bosch eBike Systems","標題":"示例：電動輔助自行車驅動系統技術更新","原文摘要":"示例資料，用來驗證技術元件分類與 PPT 素材輸出流程。","原文網址":"https://example.com/demo-component","PPT狀態":"待挑選","素材授權":"待確認原始來源授權","引用格式":"Bosch eBike Systems（2026-08-05），〈示例：電動輔助自行車驅動系統技術更新〉，https://example.com/demo-component（擷取：2026-08-05）。","審核狀態":"示例資料"}],"sources":[{"id":"tw_law","name":"全國法規資料庫","status":"skipped_demo"},{"id":"tw_thb","name":"交通部公路局","status":"skipped_demo"},{"id":"eu_transport","name":"European Commission — Urban transport","status":"skipped_demo"},{"id":"eur_lex","name":"EUR-Lex","status":"skipped_demo"},{"id":"cpsc_recalls","name":"U.S. CPSC — Recalls","status":"skipped_demo"},{"id":"cpsc_micro","name":"U.S. CPSC — Micromobility Information Center","status":"skipped_demo"},{"id":"bosch_ebike","name":"Bosch eBike Systems","status":"skipped_demo"},{"id":"shimano","name":"Shimano Bike News","status":"skipped_demo"},{"id":"giant_group","name":"Giant Group News","status":"skipped_demo"},{"id":"bafang","name":"Bafang News","status":"skipped_demo"},{"id":"niu","name":"NIU News","status":"skipped_demo"}]};
+    const categories = ['全部','安全召回','法規更新','技術元件','品牌新品','產業趨勢'];
+    const meta = { '安全召回':['safety','安全','⚠'], '法規更新':['law','法規','§'], '技術元件':['component','元件','◈'], '品牌新品':['product','新品','✦'], '產業趨勢':['trend','趨勢','↗'] };
+    const escapeHtml = (value='') => String(value).replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
+    const statusClass = (status) => status === 'ok' ? 'ok' : status === 'failed' ? 'failed' : 'neutral';
+    const count = (importance) => data.items.filter(item => item['重要性'] === importance).length;
+    const sourceOk = data.sources.filter(source => source.status === 'ok').length;
+    document.getElementById('date').textContent = `${data.date} · ${data.modeLabel}`;
+    document.getElementById('subtitle').textContent = data.mode === 'demo' ? '示例卡片：用來確認工作台的呈現方式。' : (data.items.length ? '已依重要性與類別整理，先處理需要行動的項目。' : '目前沒有新項目；來源監測仍持續執行。');
+    const statRows = [['新情報',data.items.length,'今天輸出'],['urgent',count('urgent'),'安全／立即行動'],['high',count('high'),'法規／重要追蹤'],['來源成功',data.mode === 'demo' ? '—' : `${sourceOk}/${data.sources.length}`,'失敗來源可於來源健康查看']];
+    document.getElementById('stats').innerHTML = statRows.map(([label,value,hint]) => `<div class="stat"><div class="label">${label}</div><div class="value">${value}</div><div class="hint">${hint}</div></div>`).join('');
+    let activeCategory = '全部'; let searchTerm = '';
+    function card(item) { const [kind,label,symbol] = meta[item['類別']] || ['trend','情報','•']; return `<article class="card"><div class="visual ${kind}"><span>${symbol} ${label}</span><span>${escapeHtml(item['區域'])}</span></div><div class="card-body"><div class="meta">${escapeHtml(item['來源名稱'])} · ${escapeHtml(item['發布日期'] || '日期待確認')}</div><h3>${escapeHtml(item['標題'])}</h3><p class="summary">${escapeHtml(item['原文摘要'])}</p><div class="card-footer"><span class="tag ${escapeHtml(item['重要性'])}">${escapeHtml(item['重要性'])}</span><a class="link" href="${escapeHtml(item['原文網址'])}" target="_blank" rel="noreferrer">查看原文 ↗</a></div></div></article>`; }
+    function renderCards() { const rows = data.items.filter(item => (activeCategory === '全部' || item['類別'] === activeCategory) && `${item['標題']} ${item['來源名稱']} ${item['原文摘要']}`.toLowerCase().includes(searchTerm)); document.getElementById('cards').innerHTML = rows.length ? rows.map(card).join('') : `<div class="empty">沒有符合條件的資訊。<br><small>若剛建立基準或今天沒有新公告，這是正常結果。</small></div>`; }
+    document.getElementById('filters').innerHTML = categories.map(category => `<button class="filter ${category === activeCategory ? 'active' : ''}" data-category="${category}">${category}</button>`).join('');
+    document.getElementById('filters').addEventListener('click', event => { const button = event.target.closest('button'); if (!button) return; activeCategory = button.dataset.category; document.querySelectorAll('.filter').forEach(node => node.classList.toggle('active',node === button)); renderCards(); });
+    document.getElementById('search').addEventListener('input', event => { searchTerm = event.target.value.trim().toLowerCase(); renderCards(); });
+    renderCards();
+    const queue = data.items.filter(item => ['urgent','high'].includes(item['重要性']));
+    document.getElementById('queue-list').innerHTML = queue.length ? queue.map(item => `<div class="queue-item"><span class="queue-dot ${escapeHtml(item['重要性'])}"></span><div class="queue-text"><div class="queue-title">${escapeHtml(item['標題'])}</div><div class="queue-meta">${escapeHtml(item['類別'])} · ${escapeHtml(item['來源名稱'])} · ${escapeHtml(item['PPT狀態'])}</div></div><a class="link" href="${escapeHtml(item['原文網址'])}" target="_blank" rel="noreferrer">原文</a></div>`).join('') : '<div class="empty">今天沒有需要優先做成 PPT 的新項目。</div>';
+    document.getElementById('source-summary').textContent = data.mode === 'demo' ? '示例模式' : `${sourceOk}/${data.sources.length} 成功`;
+    document.getElementById('source-list').innerHTML = data.sources.map(source => `<div class="source-row"><span>${escapeHtml(source.name)}</span><span class="status ${statusClass(source.status)}">${source.status === 'ok' ? '正常' : source.status === 'failed' ? '需檢查' : '未連線'}</span></div>`).join('');
+  </script>
+</body>
+</html>

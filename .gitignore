@@ -1,0 +1,12 @@
+# Local dependencies and editor files
+node_modules/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Archives and local credentials must not enter GitHub
+*.zip
+.env
+.env.*
+!.env.example
+
