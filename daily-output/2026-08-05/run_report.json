@@ -1,29 +1,29 @@
 {
   "runDate": "2026-08-05",
   "mode": "live",
-  "fetchedAt": "2026-08-05T07:59:54.338Z",
+  "fetchedAt": "2026-08-05T09:24:14.788Z",
   "sources": [
     {
-      "id": "tw_thb",
-      "name": "交通部公路局",
+      "id": "eur_lex",
+      "name": "EUR-Lex",
       "status": "ok",
       "candidates": 0
     },
     {
-      "id": "bosch_ebike",
-      "name": "Bosch eBike Systems",
-      "status": "failed",
-      "error": "HTTP 403"
-    },
-    {
-      "id": "tw_law",
-      "name": "全國法規資料庫",
-      "status": "ok",
-      "candidates": 11
-    },
-    {
       "id": "cpsc_micro",
       "name": "U.S. CPSC — Micromobility Information Center",
+      "status": "ok",
+      "candidates": 35
+    },
+    {
+      "id": "cpsc_recalls",
+      "name": "U.S. CPSC — Recalls",
+      "status": "ok",
+      "candidates": 35
+    },
+    {
+      "id": "tw_thb",
+      "name": "交通部公路局",
       "status": "ok",
       "candidates": 35
     },
@@ -34,8 +34,14 @@
       "error": "HTTP 404"
     },
     {
-      "id": "cpsc_recalls",
-      "name": "U.S. CPSC — Recalls",
+      "id": "bosch_ebike",
+      "name": "Bosch eBike Systems",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "eu_transport",
+      "name": "European Commission — Urban transport",
       "status": "ok",
       "candidates": 35
     },
@@ -46,6 +52,12 @@
       "candidates": 35
     },
     {
+      "id": "tw_law",
+      "name": "全國法規資料庫",
+      "status": "ok",
+      "candidates": 11
+    },
+    {
       "id": "bafang",
       "name": "Bafang News",
       "status": "failed",
@@ -54,24 +66,12 @@
     {
       "id": "niu",
       "name": "NIU News",
-      "status": "failed",
-      "error": "fetch failed"
-    },
-    {
-      "id": "eu_transport",
-      "name": "European Commission — Urban transport",
       "status": "ok",
-      "candidates": 35
-    },
-    {
-      "id": "eur_lex",
-      "name": "EUR-Lex",
-      "status": "failed",
-      "error": "fetch failed"
+      "candidates": 19
     }
   ],
-  "totalCandidates": 151,
-  "totalRelevant": 8,
-  "totalNew": 0,
-  "totalExported": 0
+  "totalCandidates": 205,
+  "totalRelevant": 10,
+  "totalNew": 2,
+  "totalExported": 2
 }
