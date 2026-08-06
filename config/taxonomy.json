@@ -1,14 +1,16 @@
 {
   "relevanceTerms": [
-    "e-bike", "ebike", "electric bike", "electric bicycle", "pedal assist", "pedelec",
-    "e-scooter", "electric scooter", "micromobility", "micro-mobility", "電動輔助自行車", "電動自行車", "電動滑板車", "微型移動"
+    "e-bike", "e bike", "ebike", "electric bike", "electric bicycle", "e-bicycle",
+    "pedal assist", "pedelec", "speed pedelec", "e-scooter", "e scooter",
+    "electric scooter", "electric kick scooter", "micromobility", "micro-mobility",
+    "電動輔助自行車", "電動自行車", "電動滑板車", "微型移動"
   ],
   "categories": [
-    { "name": "法規更新", "terms": ["regulation", "legislation", "law", "legal", "standard", "directive", "rule", "policy", "法規", "規範", "標準", "公告"] },
-    { "name": "安全召回", "terms": ["recall", "warning", "safety", "fire", "hazard", "battery", "召回", "警告", "安全", "火災", "危害"] },
-    { "name": "技術元件", "terms": ["battery", "bms", "motor", "drive unit", "controller", "charger", "cell", "inverter", "brake", "tire", "firmware", "電池", "馬達", "控制器", "充電", "煞車", "軟體"] },
-    { "name": "品牌新品", "terms": ["launch", "new model", "introduces", "unveils", "release", "product", "新品", "推出", "發表", "上市"] },
-    { "name": "產業趨勢", "terms": ["market", "trend", "investment", "partnership", "supply chain", "市場", "趨勢", "投資", "合作", "供應鏈"] }
+    { "name": "法規更新", "terms": ["regulation", "legislation", "law", "legal", "standard", "directive", "rule", "policy", "ordinance", "compliance", "法規", "規範", "標準"] },
+    { "name": "安全召回", "terms": ["recall", "warning", "safety", "fire", "hazard", "battery fire", "injury", "crash", "安全", "召回", "火災"] },
+    { "name": "技術元件", "terms": ["battery", "bms", "motor", "drive unit", "drive system", "controller", "charger", "cell", "inverter", "brake", "tire", "firmware", "sensor", "torque", "電池", "馬達", "控制器"] },
+    { "name": "品牌新品", "terms": ["launch", "new model", "introduces", "unveils", "release", "product", "debut", "announces", "新品", "上市", "發表"] },
+    { "name": "產業趨勢", "terms": ["market", "trend", "investment", "partnership", "supply chain", "funding", "sales", "demand", "industry", "市場", "趨勢", "投資", "供應鏈"] }
   ],
-  "urgencyTerms": ["recall", "warning", "fire", "injury", "crash", "停止使用", "召回", "警告", "火災", "傷害", "事故"]
+  "urgencyTerms": ["recall", "warning", "fire", "injury", "crash", "fatal", "hazard", "召回", "警告", "火災", "事故"]
 }
