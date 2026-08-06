@@ -1,0 +1,77 @@
+{
+  "runDate": "2026-08-06",
+  "mode": "live",
+  "fetchedAt": "2026-08-06T03:34:27.981Z",
+  "sources": [
+    {
+      "id": "cpsc_recalls",
+      "name": "U.S. CPSC — Recalls",
+      "status": "ok",
+      "candidates": 35
+    },
+    {
+      "id": "tw_thb",
+      "name": "交通部公路局",
+      "status": "ok",
+      "candidates": 35
+    },
+    {
+      "id": "cpsc_micro",
+      "name": "U.S. CPSC — Micromobility Information Center",
+      "status": "ok",
+      "candidates": 35
+    },
+    {
+      "id": "eur_lex",
+      "name": "EUR-Lex",
+      "status": "ok",
+      "candidates": 35
+    },
+    {
+      "id": "bosch_ebike",
+      "name": "Bosch eBike Systems",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "tw_law",
+      "name": "全國法規資料庫",
+      "status": "ok",
+      "candidates": 8
+    },
+    {
+      "id": "eu_transport",
+      "name": "European Commission — Urban transport",
+      "status": "ok",
+      "candidates": 35
+    },
+    {
+      "id": "shimano",
+      "name": "Shimano Bike News",
+      "status": "ok",
+      "candidates": 35
+    },
+    {
+      "id": "giant_group",
+      "name": "Giant Group News",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "bafang",
+      "name": "Bafang News",
+      "status": "failed",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "niu",
+      "name": "NIU News",
+      "status": "ok",
+      "candidates": 19
+    }
+  ],
+  "totalCandidates": 237,
+  "totalRelevant": 10,
+  "totalNew": 0,
+  "totalExported": 0
+}
