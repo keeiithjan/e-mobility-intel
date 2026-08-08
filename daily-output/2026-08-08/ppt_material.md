@@ -1,0 +1,531 @@
+# PowerPoint 素材候選｜2026-08-08
+
+請優先使用 urgent／high 項目；每張投影片保留來源與擷取日期。
+
+## 1. Experts issue e-bike warnings in advance of San Diego's new safety ordinance taking effect - KPBS
+
+- 分類／優先級：安全召回／urgent
+- 中文判讀：自動判讀焦點：電動輔助自行車、安全風險、法規／政策。本則屬安全訊號，應先確認涉及的產品、地點、批次與事故／召回範圍。
+- 建議行動：先開啟原文核對型號、受影響市場與官方處置；若涉及自家產品，立即建立內部追蹤。
+- PPT 切角：可作為安全風險、使用情境或品質管理頁面的佐證。
+- 原文摘要：Experts issue e-bike warnings in advance of San Diego's new safety ordinance taking effect &nbsp;&nbsp; KPBS
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[KPBS](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYmJONmF4SFoxbzY2VTR5U0JONWhCZzBPWHFHUnhPQmtDVlg4dU1LMlNFdTBvNG43cVk2bUdXb1JLejl1cEZKT0JIQ2ZTMTN0b0RVczNFSDRVaXZISUxlbS1KYWdjVW0xSW9GODhyWjRMRGE1WXdmeFFSdjFvSlNTclpQRmUyU19WYVpSVnB1b1BoMDJ3XzdmSXU0d2stVVdLQ0dXQVM5Z3hWQjR1YlJqX205WnZfaEMxU2FUWThIT3BRMUJlVmJnUXZWdkFBamIzZzNxYjdjZw?oc=5)
+- 引用：KPBS｜Sat, 08 Aug 2026 01:11:00 GMT｜Experts issue e-bike warnings in advance of San Diego's new safety ordinance taking effect - KPBS｜https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYmJONmF4SFoxbzY2VTR5U0JONWhCZzBPWHFHUnhPQmtDVlg4dU1LMlNFdTBvNG43cVk2bUdXb1JLejl1cEZKT0JIQ2ZTMTN0b0RVczNFSDRVaXZISUxlbS1KYWdjVW0xSW9GODhyWjRMRGE1WXdmeFFSdjFvSlNTclpQRmUyU19WYVpSVnB1b1BoMDJ3XzdmSXU0d2stVVdLQ0dXQVM5Z3hWQjR1YlJqX205WnZfaEMxU2FUWThIT3BRMUJlVmJnUXZWdkFBamIzZzNxYjdjZw?oc=5｜擷取日 2026-08-08
+
+## 2. Electric-bicycle rider seriously injured in collision with parked pickup - mlive.com
+
+- 分類／優先級：產業趨勢／normal
+- 中文判讀：自動判讀焦點：電動輔助自行車。本則提供市場、投資、通路或合作的早期訊號。
+- 建議行動：辨識消息是官方公告、媒體觀察或單一市場事件；以第二來源交叉驗證。
+- PPT 切角：可作為市場趨勢、機會假設或高階主管簡報的觀察素材。
+- 原文摘要：Electric-bicycle rider seriously injured in collision with parked pickup &nbsp;&nbsp; mlive.com
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[mlive.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSWlEV050TngtZEFETUgxNmVVTW1fcGxXVVR3ZTFUTlNlR3FpYWdrRk1wblUxNktIdmVsR2I2OVVUUFh0VjMxYnVtOVJORFZXR0JmMDItQWFlRnZvdXE2UnJMLUxJaXpqTGtMVlYxN2ZVZDJtRzVaU2tITXhsVEtuYmFPaHFlRnlWTlpWRW5yd3dTQUpzLWp2TDJ6VE5kRW5pVWlDdjUyb2RrS1FpYjJOYkpNWEw3UjROdkdvV9IB0AFBVV95cUxOWS1kZjVnNmlGV2R0aVpFU1RzdHYwYjE1MklkQng0ZkJ1MTk3dFg4cDhMNnVHa2pvTjZURkxVdVZOenBCelF6TjRXX0NuWTNmRjN1Vmc5WTFrV3k5X1JYTXBCNlQ1SmZGNjRhMVhkWkpKOWFBR2dsc1doY1ZyUjFocVk3Y05MWGVUaFhCU2VCcldkRXNVb3VXSUFzSVdFZmROd0dwWmMxVjh0RGt1Ql9LLVlubHB4TnhDUkJxNU84RThIMTZpNnV4Zm5DVHBoSkU3?oc=5)
+- 引用：mlive.com｜Sat, 08 Aug 2026 00:48:00 GMT｜Electric-bicycle rider seriously injured in collision with parked pickup - mlive.com｜https://news.google.com/rss/articles/CBMivAFBVV95cUxQSWlEV050TngtZEFETUgxNmVVTW1fcGxXVVR3ZTFUTlNlR3FpYWdrRk1wblUxNktIdmVsR2I2OVVUUFh0VjMxYnVtOVJORFZXR0JmMDItQWFlRnZvdXE2UnJMLUxJaXpqTGtMVlYxN2ZVZDJtRzVaU2tITXhsVEtuYmFPaHFlRnlWTlpWRW5yd3dTQUpzLWp2TDJ6VE5kRW5pVWlDdjUyb2RrS1FpYjJOYkpNWEw3UjROdkdvV9IB0AFBVV95cUxOWS1kZjVnNmlGV2R0aVpFU1RzdHYwYjE1MklkQng0ZkJ1MTk3dFg4cDhMNnVHa2pvTjZURkxVdVZOenBCelF6TjRXX0NuWTNmRjN1Vmc5WTFrV3k5X1JYTXBCNlQ1SmZGNjRhMVhkWkpKOWFBR2dsc1doY1ZyUjFocVk3Y05MWGVUaFhCU2VCcldkRXNVb3VXSUFzSVdFZmROd0dwWmMxVjh0RGt1Ql9LLVlubHB4TnhDUkJxNU84RThIMTZpNnV4Zm5DVHBoSkU3?oc=5｜擷取日 2026-08-08
+
+## 3. New e-bike law takes effect Thursday in San Diego - cbs8.com
+
+- 分類／優先級：法規更新／high
+- 中文判讀：自動判讀焦點：電動輔助自行車、法規／政策。本則可能牽動上路資格、產品規格、補助或營運規則。
+- 建議行動：核對適用國家／城市、生效日期與是否影響速度、功率、保險或認證。
+- PPT 切角：可作為法規地圖、合規風險或市場進入策略頁面的來源。
+- 原文摘要：New e-bike law takes effect Thursday in San Diego &nbsp;&nbsp; cbs8.com
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[cbs8.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxQbVVtRFBYbzJfR0xmdC04dTNpc2R0OXVfRDFhQ2N1QkpYaWlOVDhjaHdMN2pLeUdSY1N5Ty1sdWpiTm5TQzUybjlfMnpVdWR1Z3ktR3Y4RmRoclpKdTJUeWNhSFVGZGxHYkVwQkpIQ0ZjQlR5QjA0X2tPZHZOZkNkOEc0ZDh5UUh6TDZXY3h1VUlaRm1zSzNGd1NCLWRHYVZDMGU5NExXS1A5TWZtZlVoUTBVVjNfQlh2UnVGUzhxQjlnLVJVdnZB?oc=5)
+- 引用：cbs8.com｜Fri, 07 Aug 2026 23:51:00 GMT｜New e-bike law takes effect Thursday in San Diego - cbs8.com｜https://news.google.com/rss/articles/CBMixwFBVV95cUxQbVVtRFBYbzJfR0xmdC04dTNpc2R0OXVfRDFhQ2N1QkpYaWlOVDhjaHdMN2pLeUdSY1N5Ty1sdWpiTm5TQzUybjlfMnpVdWR1Z3ktR3Y4RmRoclpKdTJUeWNhSFVGZGxHYkVwQkpIQ0ZjQlR5QjA0X2tPZHZOZkNkOEc0ZDh5UUh6TDZXY3h1VUlaRm1zSzNGd1NCLWRHYVZDMGU5NExXS1A5TWZtZlVoUTBVVjNfQlh2UnVGUzhxQjlnLVJVdnZB?oc=5｜擷取日 2026-08-08
+
+## 4. San Diego launches public education campaign ahead of new e-bike rules - fox5sandiego.com
+
+- 分類／優先級：法規更新／high
+- 中文判讀：自動判讀焦點：電動輔助自行車、新品上市。本則可能牽動上路資格、產品規格、補助或營運規則。
+- 建議行動：核對適用國家／城市、生效日期與是否影響速度、功率、保險或認證。
+- PPT 切角：可作為法規地圖、合規風險或市場進入策略頁面的來源。
+- 原文摘要：San Diego launches public education campaign ahead of new e-bike rules &nbsp;&nbsp; fox5sandiego.com
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[fox5sandiego.com](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3T1JyY0w3MjdrZGRPQU5aY05VY0MxOUpVTGJGZ1NUa3FiS2ZldmVGY3dsYnhVMXRqUmlhZXdHVm03N1Q1WFAtQVBYRlFRS2tRSVBfZk82WkM1UFFBdnhLbTNqTzNzWExVZ3NkUXRoMjEwTUxGUHlPd2h0UTlwQdIBgwFBVV95cUxPSHpDdVljLXJMLVhUQWVMMUdfV0ZYenhvSjhVR2E0bXRNLUhIbUxoT1ZPQndZallqeGlxRS1uVGNMTEVBdjEwYUg2bFVUS3hGcjJBalFGRUhJSm9PY0xzM05PZjNVSWxvcU55d2dCNWI5NFQweFg0WUpHcTM4SG4zUXdZYw?oc=5)
+- 引用：fox5sandiego.com｜Fri, 07 Aug 2026 23:43:29 GMT｜San Diego launches public education campaign ahead of new e-bike rules - fox5sandiego.com｜https://news.google.com/rss/articles/CBMifkFVX3lxTFA3T1JyY0w3MjdrZGRPQU5aY05VY0MxOUpVTGJGZ1NUa3FiS2ZldmVGY3dsYnhVMXRqUmlhZXdHVm03N1Q1WFAtQVBYRlFRS2tRSVBfZk82WkM1UFFBdnhLbTNqTzNzWExVZ3NkUXRoMjEwTUxGUHlPd2h0UTlwQdIBgwFBVV95cUxPSHpDdVljLXJMLVhUQWVMMUdfV0ZYenhvSjhVR2E0bXRNLUhIbUxoT1ZPQndZallqeGlxRS1uVGNMTEVBdjEwYUg2bFVUS3hGcjJBalFGRUhJSm9PY0xzM05PZjNVSWxvcU55d2dCNWI5NFQweFg0WUpHcTM4SG4zUXdZYw?oc=5｜擷取日 2026-08-08
+
+## 5. A Comfortable Cruiser E-Bike Packed With Tech | Troxus Trax Whim IQ Review
+
+- 分類／優先級：產業趨勢／normal
+- 中文判讀：自動判讀焦點：電動輔助自行車。本則提供市場、投資、通路或合作的早期訊號。
+- 建議行動：辨識消息是官方公告、媒體觀察或單一市場事件；以第二來源交叉驗證。
+- PPT 切角：可作為市場趨勢、機會假設或高階主管簡報的觀察素材。
+- 原文摘要：This Dutch-style cruiser blends classic comfort with modern innovations. One of the recent topics of conversation here at the Electric Bike Report office has been about the blinding pace of technology. It’s almost difficult to comprehend how modern innovations are even possible – now commonplace tech was considered the stuff of fantasy not long ago. […] The post A Comfortable Cruiser E-Bike Packed With Tech | Troxus Trax Whim IQ Review first appeared on Electric Bike Reviews, News, & Testing .
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://electricbikereport.com/wp-content/uploads/Troxus-Trax-Whim-IQ-Hero-3.jpg)
+- 原文：[Electric Bike Report](https://electricbikereport.com/troxus-trax-whim-iq-review/)
+- 引用：Electric Bike Report｜Fri, 07 Aug 2026 23:07:54 +0000｜A Comfortable Cruiser E-Bike Packed With Tech | Troxus Trax Whim IQ Review｜https://electricbikereport.com/troxus-trax-whim-iq-review/｜擷取日 2026-08-08
+
+## 6. JusticeWorks announces electric scooter winner from National Night Out - The Punxsutawney Spirit
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：JusticeWorks announces electric scooter winner from National Night Out &nbsp;&nbsp; The Punxsutawney Spirit
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[The Punxsutawney Spirit](https://news.google.com/rss/articles/CBMi7wFBVV95cUxOX09WcnBOckVuTUtRUmxybDlySWNkRTJ0MjAxTUZHRXhjM3lqNzg4ak42c2xVajlUWXhheGI2ZlBVNkdJaG4xQjduS2tQUFN3dktNZVdwSGNtZzBmN05LUHNPWHFKMUJsTzRuQ2w2dWdzZlZEdXA4T2FJUjRjam85MWVUcTRzNl9FT0FIeG9GaEdmOVpNZC0xUUJ0MllrSklPY3RlVnBmTGFKcVVvVFJ6eGljNkVFQi10SmVGY0l1Vm9kUDZUY0tVSTZJNTludGdRb1BnOEVQNzNWNFNMUU5NZGlrTmRyck1jYU5YNFotcw?oc=5)
+- 引用：The Punxsutawney Spirit｜Fri, 07 Aug 2026 22:45:00 GMT｜JusticeWorks announces electric scooter winner from National Night Out - The Punxsutawney Spirit｜https://news.google.com/rss/articles/CBMi7wFBVV95cUxOX09WcnBOckVuTUtRUmxybDlySWNkRTJ0MjAxTUZHRXhjM3lqNzg4ak42c2xVajlUWXhheGI2ZlBVNkdJaG4xQjduS2tQUFN3dktNZVdwSGNtZzBmN05LUHNPWHFKMUJsTzRuQ2w2dWdzZlZEdXA4T2FJUjRjam85MWVUcTRzNl9FT0FIeG9GaEdmOVpNZC0xUUJ0MllrSklPY3RlVnBmTGFKcVVvVFJ6eGljNkVFQi10SmVGY0l1Vm9kUDZUY0tVSTZJNTludGdRb1BnOEVQNzNWNFNMUU5NZGlrTmRyck1jYU5YNFotcw?oc=5｜擷取日 2026-08-08
+
+## 7. Shared Micromobility Posts New Records in North America - GovTech
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動微型移動市場動態。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：Shared Micromobility Posts New Records in North America &nbsp;&nbsp; GovTech
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[GovTech](https://news.google.com/rss/articles/CBMimgFBVV95cUxORDdwQ3VqN0tsVFpacXYxNWhZd2hOQmZ4ZWx2Mm1UN29Fbl9yakViT2huRTQ4NGZ1Rm9iX3JuWVlMRXUxQWlMTzJnamxuWlg5M2JIMFdaNVVEeGdfd2Q5QzB3Qy05RXRuZng4STZlNDBXVG1rcWtQVGwzWFFvYmpmd1oyS1k1dWF6MTZUbGw0RWVXVVFwX0piNVd3?oc=5)
+- 引用：GovTech｜Fri, 07 Aug 2026 22:36:06 GMT｜Shared Micromobility Posts New Records in North America - GovTech｜https://news.google.com/rss/articles/CBMimgFBVV95cUxORDdwQ3VqN0tsVFpacXYxNWhZd2hOQmZ4ZWx2Mm1UN29Fbl9yakViT2huRTQ4NGZ1Rm9iX3JuWVlMRXUxQWlMTzJnamxuWlg5M2JIMFdaNVVEeGdfd2Q5QzB3Qy05RXRuZng4STZlNDBXVG1rcWtQVGwzWFFvYmpmd1oyS1k1dWF6MTZUbGw0RWVXVVFwX0piNVd3?oc=5｜擷取日 2026-08-08
+
+## 8. S.F.’s e-scooter wars are back. Riders are racking up thousands of violations - sfchronicle.com
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：S.F.’s e-scooter wars are back. Riders are racking up thousands of violations &nbsp;&nbsp; sfchronicle.com
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[sfchronicle.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE5yTDRGd0hSdU9JMHlvcnEwMWV5OWJWUGEwQ0o3c2N5d3FxUnpRRmZ6bTVWLUo4VEFNNE0yU2daa0tySzdBSG1FZ1kxeEhEWVUwZWtvbklFWWMyS1dJQkJEWjZuSHlyWUxIOEtoQ3VmcElmeXc3UXlnUm5YMzk?oc=5)
+- 引用：sfchronicle.com｜Fri, 07 Aug 2026 22:09:25 GMT｜S.F.’s e-scooter wars are back. Riders are racking up thousands of violations - sfchronicle.com｜https://news.google.com/rss/articles/CBMifEFVX3lxTE5yTDRGd0hSdU9JMHlvcnEwMWV5OWJWUGEwQ0o3c2N5d3FxUnpRRmZ6bTVWLUo4VEFNNE0yU2daa0tySzdBSG1FZ1kxeEhEWVUwZWtvbklFWWMyS1dJQkJEWjZuSHlyWUxIOEtoQ3VmcElmeXc3UXlnUm5YMzk?oc=5｜擷取日 2026-08-08
+
+## 9. Frisco ISD approves e-scooter ban for student commutes - Community Impact
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：Frisco ISD approves e-scooter ban for student commutes &nbsp;&nbsp; Community Impact
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Community Impact](https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDVhTkd0YVVVcEJfVE12NFFBVXVrNm94UGJNOE83Vm1Ma2J0eW52cEtlakxTNjcyTTlrS3JPbzZndlNUMWQ2SngyQlItMkhoU1c1eXd3VFFqNGJSaUNQT0ZVRlhwV3VqWE81S2kzLXFJWlJ4V25tSnV4Smx4cGhFeGRaZzExRFItekVmOUsyRXN6QWVFMVFYTkJHNEZ6Wlg0d3c?oc=5)
+- 引用：Community Impact｜Fri, 07 Aug 2026 21:15:52 GMT｜Frisco ISD approves e-scooter ban for student commutes - Community Impact｜https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDVhTkd0YVVVcEJfVE12NFFBVXVrNm94UGJNOE83Vm1Ma2J0eW52cEtlakxTNjcyTTlrS3JPbzZndlNUMWQ2SngyQlItMkhoU1c1eXd3VFFqNGJSaUNQT0ZVRlhwV3VqWE81S2kzLXFJWlJ4V25tSnV4Smx4cGhFeGRaZzExRFItekVmOUsyRXN6QWVFMVFYTkJHNEZ6Wlg0d3c?oc=5｜擷取日 2026-08-08
+
+## 10. New E-Bike Regulations to Take Effect in San Diego - Inside San Diego
+
+- 分類／優先級：法規更新／high
+- 中文判讀：自動判讀焦點：電動輔助自行車、法規／政策。本則可能牽動上路資格、產品規格、補助或營運規則。
+- 建議行動：核對適用國家／城市、生效日期與是否影響速度、功率、保險或認證。
+- PPT 切角：可作為法規地圖、合規風險或市場進入策略頁面的來源。
+- 原文摘要：New E-Bike Regulations to Take Effect in San Diego &nbsp;&nbsp; Inside San Diego
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Inside San Diego](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGF4TWdTV1NLS3pXeFpHZWlPNGhLSmdWS2REQVZCQk9sSVhTRmp0Qnk0M0FENG1OTzluYnVpendTWEs3X2xXOTNkRExKN0ZXaUNNNU1DdUNCTzlCNjhrNEI3bHRadmZPbkNPbElIa1hpUEs3UEMxUkhDYldkZEZrTA?oc=5)
+- 引用：Inside San Diego｜Fri, 07 Aug 2026 21:09:57 GMT｜New E-Bike Regulations to Take Effect in San Diego - Inside San Diego｜https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGF4TWdTV1NLS3pXeFpHZWlPNGhLSmdWS2REQVZCQk9sSVhTRmp0Qnk0M0FENG1OTzluYnVpendTWEs3X2xXOTNkRExKN0ZXaUNNNU1DdUNCTzlCNjhrNEI3bHRadmZPbkNPbElIa1hpUEs3UEMxUkhDYldkZEZrTA?oc=5｜擷取日 2026-08-08
+
+## 11. E-scooter rider killed in downtown San Francisco crash - KRON4
+
+- 分類／優先級：安全召回／urgent
+- 中文判讀：自動判讀焦點：電動滑板車、安全風險。本則屬安全訊號，應先確認涉及的產品、地點、批次與事故／召回範圍。
+- 建議行動：先開啟原文核對型號、受影響市場與官方處置；若涉及自家產品，立即建立內部追蹤。
+- PPT 切角：可作為安全風險、使用情境或品質管理頁面的佐證。
+- 原文摘要：E-scooter rider killed in downtown San Francisco crash &nbsp;&nbsp; KRON4
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[KRON4](https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1BKYS1ZOW9LTmpFMVlxdzBFeEcxRzg5RWYzOEVCdUxpNHFhR3VlRzBoTE5sRF9iN01oOUxYLTE5NTRRUUZKTDFSNjJtSnNYNmVKWThtaWpnYXkybHR0YlNwY0ZhYlFPbVl4V0NOZlg2LWVmc2sycml0cVlhekJlbGxDUFVMLVZPWnE5a1U3OW1IUTBOcXdr?oc=5)
+- 引用：KRON4｜Fri, 07 Aug 2026 21:08:28 GMT｜E-scooter rider killed in downtown San Francisco crash - KRON4｜https://news.google.com/rss/articles/CBMilwFBVV95cUxNX1BKYS1ZOW9LTmpFMVlxdzBFeEcxRzg5RWYzOEVCdUxpNHFhR3VlRzBoTE5sRF9iN01oOUxYLTE5NTRRUUZKTDFSNjJtSnNYNmVKWThtaWpnYXkybHR0YlNwY0ZhYlFPbVl4V0NOZlg2LWVmc2sycml0cVlhekJlbGxDUFVMLVZPWnE5a1U3OW1IUTBOcXdr?oc=5｜擷取日 2026-08-08
+
+## 12. Watch: Scene of fatal crash involving e-scooter rider on San Francisco’s Market Street - KION Central Coast
+
+- 分類／優先級：安全召回／urgent
+- 中文判讀：自動判讀焦點：電動滑板車、安全風險、產業動態。本則屬安全訊號，應先確認涉及的產品、地點、批次與事故／召回範圍。
+- 建議行動：先開啟原文核對型號、受影響市場與官方處置；若涉及自家產品，立即建立內部追蹤。
+- PPT 切角：可作為安全風險、使用情境或品質管理頁面的佐證。
+- 原文摘要：Watch: Scene of fatal crash involving e-scooter rider on San Francisco’s Market Street &nbsp;&nbsp; KION Central Coast
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[KION Central Coast](https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXk5TGxBdG9kQ1B5S0cxYllMSm1HcW1jLWU0LXZIUWx1X2Y4c0ZHZWdtRkJtX1BnS0VrcmtUcWU0WWVsOUh4SXR6V3Q1MFlCam1xUHVoaHZ6eElhVUhHemU2Z1JLdUE2YUdwUm1FMV80WHl5UlN6VENNc2JWX3ZXN0FYZTFaUTRjaGFmcU1TQzhtTF9CVDg1di1vU01KOXlZNEl0RnVteEFJMl9tcDAzVU9GUFBBUzMwckVjbHMxZWJjM2xkMkdnQzRR?oc=5)
+- 引用：KION Central Coast｜Fri, 07 Aug 2026 20:09:28 GMT｜Watch: Scene of fatal crash involving e-scooter rider on San Francisco’s Market Street - KION Central Coast｜https://news.google.com/rss/articles/CBMiygFBVV95cUxOVXk5TGxBdG9kQ1B5S0cxYllMSm1HcW1jLWU0LXZIUWx1X2Y4c0ZHZWdtRkJtX1BnS0VrcmtUcWU0WWVsOUh4SXR6V3Q1MFlCam1xUHVoaHZ6eElhVUhHemU2Z1JLdUE2YUdwUm1FMV80WHl5UlN6VENNc2JWX3ZXN0FYZTFaUTRjaGFmcU1TQzhtTF9CVDg1di1vU01KOXlZNEl0RnVteEFJMl9tcDAzVU9GUFBBUzMwckVjbHMxZWJjM2xkMkdnQzRR?oc=5｜擷取日 2026-08-08
+
+## 13. Law enforcement begins e-bike safety campaign for City of San Diego - NBC 7 San Diego
+
+- 分類／優先級：法規更新／high
+- 中文判讀：自動判讀焦點：電動輔助自行車、法規／政策。本則可能牽動上路資格、產品規格、補助或營運規則。
+- 建議行動：核對適用國家／城市、生效日期與是否影響速度、功率、保險或認證。
+- PPT 切角：可作為法規地圖、合規風險或市場進入策略頁面的來源。
+- 原文摘要：Law enforcement begins e-bike safety campaign for City of San Diego &nbsp;&nbsp; NBC 7 San Diego
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[NBC 7 San Diego](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUpBOWZ6SVNQZ1RzeEtEcXhkb2JBRk05c0txbzVQbjl0Ty1zQVpaTUVBZGQ0NVc3aGFXejRQaHFGVjNzMzFQdnRfN0k2Wjg2LXBwejF2bkk3TkN0Z0t3WV9PUHdBdG1vZDV4NkhnY3p6WUhwLWhKekJLMHFidTV1dzJkRzFlTXlFY0JPcnpxQW9xT3lqanROYW15Z0dQRDF0S2N6WTVUSTc5SVpBNVRrRjR5S29zZ9IBvgFBVV95cUxOSkpiazlnSUY5S053Mi1YYXBtNkVqTnRPbXk4NE9YWDE2NHYwaldXMTYwNnVnZC1VcFVnVmxHbzRNalRJdi11SWowY1VkMGc2WW9LYlFLSHVyTXN6b1laU2VabGhBOHFycFE3VHhUdTllWE5LTlVyZlNFQWtKVmxKZ0dkSzZRQ1ppWEhzeUQ0REttSzg2di1FREUzVnFmQkpUejZRZENVNnlnOVNIX3kxQ01QbTY4MnVhbWlxOUxB?oc=5)
+- 引用：NBC 7 San Diego｜Fri, 07 Aug 2026 19:05:01 GMT｜Law enforcement begins e-bike safety campaign for City of San Diego - NBC 7 San Diego｜https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUpBOWZ6SVNQZ1RzeEtEcXhkb2JBRk05c0txbzVQbjl0Ty1zQVpaTUVBZGQ0NVc3aGFXejRQaHFGVjNzMzFQdnRfN0k2Wjg2LXBwejF2bkk3TkN0Z0t3WV9PUHdBdG1vZDV4NkhnY3p6WUhwLWhKekJLMHFidTV1dzJkRzFlTXlFY0JPcnpxQW9xT3lqanROYW15Z0dQRDF0S2N6WTVUSTc5SVpBNVRrRjR5S29zZ9IBvgFBVV95cUxOSkpiazlnSUY5S053Mi1YYXBtNkVqTnRPbXk4NE9YWDE2NHYwaldXMTYwNnVnZC1VcFVnVmxHbzRNalRJdi11SWowY1VkMGc2WW9LYlFLSHVyTXN6b1laU2VabGhBOHFycFE3VHhUdTllWE5LTlVyZlNFQWtKVmxKZ0dkSzZRQ1ppWEhzeUQ0REttSzg2di1FREUzVnFmQkpUejZRZENVNnlnOVNIX3kxQ01QbTY4MnVhbWlxOUxB?oc=5｜擷取日 2026-08-08
+
+## 14. Electric bikes have city leaders pushing safety - The Monroe Times
+
+- 分類／優先級：安全召回／high
+- 中文判讀：自動判讀焦點：電動輔助自行車。本則屬安全訊號，應先確認涉及的產品、地點、批次與事故／召回範圍。
+- 建議行動：先開啟原文核對型號、受影響市場與官方處置；若涉及自家產品，立即建立內部追蹤。
+- PPT 切角：可作為安全風險、使用情境或品質管理頁面的佐證。
+- 原文摘要：Electric bikes have city leaders pushing safety &nbsp;&nbsp; The Monroe Times
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[The Monroe Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmh5RlRMeFdWZXZ1V1hrZGlSQVh5QkozMDBkT1g0d1ZSSW9xRjF0bG1fbTRDeTE0cW5SQzRFenJiQ3lweHhPRWdGVlA5QTdyWkt3Z2IwSjJ1dDk3Q2NQOE53cng4S3VlOVVyRFUzMnBpVFA2VkNfRHFGQXRBLXdyNV9HVHhDc2Q0bVZhMXNRdw?oc=5)
+- 引用：The Monroe Times｜Fri, 07 Aug 2026 19:02:38 GMT｜Electric bikes have city leaders pushing safety - The Monroe Times｜https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmh5RlRMeFdWZXZ1V1hrZGlSQVh5QkozMDBkT1g0d1ZSSW9xRjF0bG1fbTRDeTE0cW5SQzRFenJiQ3lweHhPRWdGVlA5QTdyWkt3Z2IwSjJ1dDk3Q2NQOE53cng4S3VlOVVyRFUzMnBpVFA2VkNfRHFGQXRBLXdyNV9HVHhDc2Q0bVZhMXNRdw?oc=5｜擷取日 2026-08-08
+
+## 15. What parents need to know about San Diego's new e-bike rules taking effect Aug. 13 - cbs8.com
+
+- 分類／優先級：法規更新／high
+- 中文判讀：自動判讀焦點：電動輔助自行車。本則可能牽動上路資格、產品規格、補助或營運規則。
+- 建議行動：核對適用國家／城市、生效日期與是否影響速度、功率、保險或認證。
+- PPT 切角：可作為法規地圖、合規風險或市場進入策略頁面的來源。
+- 原文摘要：What parents need to know about San Diego's new e-bike rules taking effect Aug. 13 &nbsp;&nbsp; cbs8.com
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[cbs8.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRHdTQktoUnZ0RGR3VXhfeWRjMjVwdEVadHZNSHRPVkZrc2F3TUdNakJSVnY0aldqRjByaEZSdklael9qeWxUTmZEV1VBVGpyc1RXV3dPblpXdjZmN3Nzd2tQN0ZSZzhXcHdXTGtfbk10V0s1azhJVEgwVFI0Tk5iVmRpYk93SDl0Ym5pVEs2TWZYbFN5V2J2U2pDLUVjMHZhelgtcm1OejhZZkRBdUZBRDRWcy1oTTNBTndONU4zUGszUFZseDR6S3RKMkdDQ3E3NjUwSjRJZw?oc=5)
+- 引用：cbs8.com｜Fri, 07 Aug 2026 19:01:00 GMT｜What parents need to know about San Diego's new e-bike rules taking effect Aug. 13 - cbs8.com｜https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRHdTQktoUnZ0RGR3VXhfeWRjMjVwdEVadHZNSHRPVkZrc2F3TUdNakJSVnY0aldqRjByaEZSdklael9qeWxUTmZEV1VBVGpyc1RXV3dPblpXdjZmN3Nzd2tQN0ZSZzhXcHdXTGtfbk10V0s1azhJVEgwVFI0Tk5iVmRpYk93SDl0Ym5pVEs2TWZYbFN5V2J2U2pDLUVjMHZhelgtcm1OejhZZkRBdUZBRDRWcy1oTTNBTndONU4zUGszUFZseDR6S3RKMkdDQ3E3NjUwSjRJZw?oc=5｜擷取日 2026-08-08
+
+## 16. Truck hits, kills e-scooter rider in downtown San Francisco on Market Street - cbsnews.com
+
+- 分類／優先級：產業趨勢／normal
+- 中文判讀：自動判讀焦點：電動滑板車、產業動態。本則提供市場、投資、通路或合作的早期訊號。
+- 建議行動：辨識消息是官方公告、媒體觀察或單一市場事件；以第二來源交叉驗證。
+- PPT 切角：可作為市場趨勢、機會假設或高階主管簡報的觀察素材。
+- 原文摘要：Truck hits, kills e-scooter rider in downtown San Francisco on Market Street &nbsp;&nbsp; cbsnews.com
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[cbsnews.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDZ1YUJNcXBKWkFlYXdJeGtqajdJamZzU3RwUzFIYXlQbi1GaXpwbjNIUF9taDF3NE5kcUJnUnpRYnJfbjVMZGUxcVVnYWNHZkRwd0t1UU42bm9sQk9kZVdtNV9VTGoxY2pLbFdNbnhKajIzbDd6amlFTXJ3YTlFeEE0TDVBUW1pTXpSRU9ndXlJZWY4RFRTdkhwMU0wMWlyRzZzbnpOVFdhTW1G?oc=5)
+- 引用：cbsnews.com｜Fri, 07 Aug 2026 18:53:00 GMT｜Truck hits, kills e-scooter rider in downtown San Francisco on Market Street - cbsnews.com｜https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDZ1YUJNcXBKWkFlYXdJeGtqajdJamZzU3RwUzFIYXlQbi1GaXpwbjNIUF9taDF3NE5kcUJnUnpRYnJfbjVMZGUxcVVnYWNHZkRwd0t1UU42bm9sQk9kZVdtNV9VTGoxY2pLbFdNbnhKajIzbDd6amlFTXJ3YTlFeEE0TDVBUW1pTXpSRU9ndXlJZWY4RFRTdkhwMU0wMWlyRzZzbnpOVFdhTW1G?oc=5｜擷取日 2026-08-08
+
+## 17. Watch: Scene of fatal crash involving e-scooter rider on San Francisco's Market Street - cbsnews.com
+
+- 分類／優先級：安全召回／urgent
+- 中文判讀：自動判讀焦點：電動滑板車、安全風險、產業動態。本則屬安全訊號，應先確認涉及的產品、地點、批次與事故／召回範圍。
+- 建議行動：先開啟原文核對型號、受影響市場與官方處置；若涉及自家產品，立即建立內部追蹤。
+- PPT 切角：可作為安全風險、使用情境或品質管理頁面的佐證。
+- 原文摘要：Watch: Scene of fatal crash involving e-scooter rider on San Francisco's Market Street &nbsp;&nbsp; cbsnews.com
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[cbsnews.com](https://news.google.com/rss/articles/CBMixwFBVV95cUxNT0JtN0x4SXJmWE41XzY5RlpQV0doTmNWbHk1ZVVJODhNYVRPc1Q0SkhpVk1WTV9mTUdpWXNKYUUtZ3c2Umk1RGVISW5fX3hOaVJPY0ZmM0xVdHFMdDB2aVZpd0RING5CXzlMNFAwbnZNQ0k0Q1BTZ19qRnNNOFo4NlU2XzByelVSSl9SU1puWU1wOUlfRlRobWxpa3cxUm9BV1NkZ0pIYVFwcEdpaVRwYkVNMS1QMFY4cjZLdWFBQmtBMWM5SG1F?oc=5)
+- 引用：cbsnews.com｜Fri, 07 Aug 2026 18:48:00 GMT｜Watch: Scene of fatal crash involving e-scooter rider on San Francisco's Market Street - cbsnews.com｜https://news.google.com/rss/articles/CBMixwFBVV95cUxNT0JtN0x4SXJmWE41XzY5RlpQV0doTmNWbHk1ZVVJODhNYVRPc1Q0SkhpVk1WTV9mTUdpWXNKYUUtZ3c2Umk1RGVISW5fX3hOaVJPY0ZmM0xVdHFMdDB2aVZpd0RING5CXzlMNFAwbnZNQ0k0Q1BTZ19qRnNNOFo4NlU2XzByelVSSl9SU1puWU1wOUlfRlRobWxpa3cxUm9BV1NkZ0pIYVFwcEdpaVRwYkVNMS1QMFY4cjZLdWFBQmtBMWM5SG1F?oc=5｜擷取日 2026-08-08
+
+## 18. Auburn City Council approves new rules for e-bikes and electric motorcycles - Auburn Examiner
+
+- 分類／優先級：法規更新／high
+- 中文判讀：自動判讀焦點：電動輔助自行車、動力與控制。本則可能牽動上路資格、產品規格、補助或營運規則。
+- 建議行動：核對適用國家／城市、生效日期與是否影響速度、功率、保險或認證。
+- PPT 切角：可作為法規地圖、合規風險或市場進入策略頁面的來源。
+- 原文摘要：Auburn City Council approves new rules for e-bikes and electric motorcycles &nbsp;&nbsp; Auburn Examiner
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Auburn Examiner](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzZyRXJBS3NsTlBvY3JJRHByNlViQnZZbVRCTk9wUkYxYW5YeExPWDlpcGVnNTdEbFg2ano3aTZqeTExaGpkMHNyRmRjWDY3UW5RNi1tRnhSaWhXNWZGb2JDcW1sSmhvT3JVdmctNng1cjVubk9DWWNNQUJlU2F4M0NSY0FWd3d1c1VGUUViZ184QW5BbWdqdXJlM3hMLV9adUhZVm93?oc=5)
+- 引用：Auburn Examiner｜Fri, 07 Aug 2026 17:59:21 GMT｜Auburn City Council approves new rules for e-bikes and electric motorcycles - Auburn Examiner｜https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzZyRXJBS3NsTlBvY3JJRHByNlViQnZZbVRCTk9wUkYxYW5YeExPWDlpcGVnNTdEbFg2ano3aTZqeTExaGpkMHNyRmRjWDY3UW5RNi1tRnhSaWhXNWZGb2JDcW1sSmhvT3JVdmctNng1cjVubk9DWWNNQUJlU2F4M0NSY0FWd3d1c1VGUUViZ184QW5BbWdqdXJlM3hMLV9adUhZVm93?oc=5｜擷取日 2026-08-08
+
+## 19. Electric scooter rider struck, killed in San Francisco, police believe - NBC Bay Area
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：Electric scooter rider struck, killed in San Francisco, police believe &nbsp;&nbsp; NBC Bay Area
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[NBC Bay Area](https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3dRTDcwRjBQejFYSVU4ajNPNlNudWs5Y21GX0FSTU0yVWFzVVp1ZS1MeGVXUWFqUVhXZlVNZ3hKQWVXV29fRmI4S2pYcEtrclRFY013Y2taUzh1S1BXLTFGZDdqdjlqMlpnckpja3RBMm9VRXFXbHVDa2JlUFZEaTlLTzRWeGNFa3V5a0J3UGFwdGJpQTR2UjlrRHNyVXJs0gGoAUFVX3lxTE1Md1huajZRbzZfZFdtbzBsOWduM0FqRWw0ZFVsQ2RPTFZ1YmUxYl8xOEN1anBCZU1ZVmt4enBmUjlKVVVhVUJUSTI2QmlhR3NfbFpLT01oY3RWN1Qtc1NQV2gyMmtORWowb0dZSlpKUmlGcmlEN3BpdEY2UUhWZnl1bl9Bcm1yN1A3YzdBekpKZkQyRHd3R0Y1SkZRTy1UanhTVEt2anc2aQ?oc=5)
+- 引用：NBC Bay Area｜Fri, 07 Aug 2026 17:15:29 GMT｜Electric scooter rider struck, killed in San Francisco, police believe - NBC Bay Area｜https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3dRTDcwRjBQejFYSVU4ajNPNlNudWs5Y21GX0FSTU0yVWFzVVp1ZS1MeGVXUWFqUVhXZlVNZ3hKQWVXV29fRmI4S2pYcEtrclRFY013Y2taUzh1S1BXLTFGZDdqdjlqMlpnckpja3RBMm9VRXFXbHVDa2JlUFZEaTlLTzRWeGNFa3V5a0J3UGFwdGJpQTR2UjlrRHNyVXJs0gGoAUFVX3lxTE1Md1huajZRbzZfZFdtbzBsOWduM0FqRWw0ZFVsQ2RPTFZ1YmUxYl8xOEN1anBCZU1ZVmt4enBmUjlKVVVhVUJUSTI2QmlhR3NfbFpLT01oY3RWN1Qtc1NQV2gyMmtORWowb0dZSlpKUmlGcmlEN3BpdEY2UUhWZnl1bl9Bcm1yN1A3YzdBekpKZkQyRHd3R0Y1SkZRTy1UanhTVEt2anc2aQ?oc=5｜擷取日 2026-08-08
+
+## 20. Woman on electric scooter killed in San Francisco - KTVU
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：Woman on electric scooter killed in San Francisco &nbsp;&nbsp; KTVU
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[KTVU](https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZVHBCMU5iOXUtRGw0LW1ZR180MENyUHA4MldIcTN1YWlySDVRV0IxVHBEY1lYM2JRRjZiNzkyczBqYktVQUU4WHNGSFNKd2NXQ09EdEVBS0s1dW92TkVTR05RU29acUVwdElyY0V0MWNCRktfMjdBcQ?oc=5)
+- 引用：KTVU｜Fri, 07 Aug 2026 16:53:24 GMT｜Woman on electric scooter killed in San Francisco - KTVU｜https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZVHBCMU5iOXUtRGw0LW1ZR180MENyUHA4MldIcTN1YWlySDVRV0IxVHBEY1lYM2JRRjZiNzkyczBqYktVQUU4WHNGSFNKd2NXQ09EdEVBS0s1dW92TkVTR05RU29acUVwdElyY0V0MWNCRktfMjdBcQ?oc=5｜擷取日 2026-08-08
+
+## 21. Police Advise Of E-Bike Safety & Laws Following Crashes & Fatalities - WHMI
+
+- 分類／優先級：安全召回／urgent
+- 中文判讀：自動判讀焦點：電動輔助自行車、安全風險、法規／政策。本則屬安全訊號，應先確認涉及的產品、地點、批次與事故／召回範圍。
+- 建議行動：先開啟原文核對型號、受影響市場與官方處置；若涉及自家產品，立即建立內部追蹤。
+- PPT 切角：可作為安全風險、使用情境或品質管理頁面的佐證。
+- 原文摘要：Police Advise Of E-Bike Safety & Laws Following Crashes & Fatalities &nbsp;&nbsp; WHMI
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[WHMI](https://news.google.com/rss/articles/CBMihAFBVV95cUxQUXdNc05zMHVBalNFRDRhMkdEN3VBOXNybGNteU5zMnhVaUNNQXN2aUJPUFpsRHAydmhsZmMzeUo5WW5uOTJFbHlqZlFrLVlZQjRCMEliWFRraXFVVHRpLUFxQXpZdk1QRXFtbWtzdWZHMVVKc1U5S0x1RkN6SFcyNVdhTDQ?oc=5)
+- 引用：WHMI｜Fri, 07 Aug 2026 14:06:36 GMT｜Police Advise Of E-Bike Safety & Laws Following Crashes & Fatalities - WHMI｜https://news.google.com/rss/articles/CBMihAFBVV95cUxQUXdNc05zMHVBalNFRDRhMkdEN3VBOXNybGNteU5zMnhVaUNNQXN2aUJPUFpsRHAydmhsZmMzeUo5WW5uOTJFbHlqZlFrLVlZQjRCMEliWFRraXFVVHRpLUFxQXpZdk1QRXFtbWtzdWZHMVVKc1U5S0x1RkN6SFcyNVdhTDQ?oc=5｜擷取日 2026-08-08
+
+## 22. E-bike and e-scooter injuries are surging, Harborview data shows - Axios
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動輔助自行車、電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：E-bike and e-scooter injuries are surging, Harborview data shows &nbsp;&nbsp; Axios
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Axios](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnhFLVJaRGM0c3ZsX25tdzVCRngxVlAyS2I2SWdSaVBvRVRYTld6Z3lNOW50YnEwUHViU18zOGV0Q0l3NFhTSEVVWXA4dkhLeDZMVWtJeDFYU2l4VHhGbGZXY0l0dUNDZkY4d3NFTnhtQXdfVWlMWFpkbnQyc0tGM0RqNmZCUkNYand0dldSa3lCZEtleWJOcTZjNVUzTnhYVU5VbzFBMTZOZw?oc=5)
+- 引用：Axios｜Fri, 07 Aug 2026 13:41:30 GMT｜E-bike and e-scooter injuries are surging, Harborview data shows - Axios｜https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnhFLVJaRGM0c3ZsX25tdzVCRngxVlAyS2I2SWdSaVBvRVRYTld6Z3lNOW50YnEwUHViU18zOGV0Q0l3NFhTSEVVWXA4dkhLeDZMVWtJeDFYU2l4VHhGbGZXY0l0dUNDZkY4d3NFTnhtQXdfVWlMWFpkbnQyc0tGM0RqNmZCUkNYand0dldSa3lCZEtleWJOcTZjNVUzTnhYVU5VbzFBMTZOZw?oc=5｜擷取日 2026-08-08
+
+## 23. Batch eFT.3 Review: A 28 MPH fat tire e-bike built for the streets
+
+- 分類／優先級：技術元件／normal
+- 中文判讀：自動判讀焦點：電動輔助自行車。本則與零組件、電池或驅動系統技術有關。
+- 建議行動：比對規格、供應商、相容性與量產時程；回原文確認數據與測試條件。
+- PPT 切角：可作為技術路線、供應鏈或產品差異化頁面的素材。
+- 原文摘要：Fat tire e-bikes have become synonymous with rugged adventure. Browse the category and you’d think every 20-inch fat tire bike is destined for sandy beaches, forest trails, or rocky singletrack. In reality, though, most of them spend their lives on city streets, bike paths, and neighborhood roads. That’s what makes the Batch Bicycles eFT.3 refreshing. Instead of pretending to be an off-road machine, it embraces what many riders are actually looking for: a comfortable, practical commuter that happens to ride on fat tires.
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://electrek.co/wp-content/uploads/sites/3/2026/08/batch-bicycles-eft-3-e-bike-header-1.jpg?quality=82&strip=all&w=1600)
+- 原文：[Electrek — e-bikes](https://electrek.co/2026/08/07/batch-eft-3-review-a-28-mph-fat-tire-e-bike-built-for-the-streets/)
+- 引用：Electrek — e-bikes｜Fri, 07 Aug 2026 13:15:00 +0000｜Batch eFT.3 Review: A 28 MPH fat tire e-bike built for the streets｜https://electrek.co/2026/08/07/batch-eft-3-review-a-28-mph-fat-tire-e-bike-built-for-the-streets/｜擷取日 2026-08-08
+
+## 24. HOMETOWN HEALTH: E-bike, e-scooter injuries rising nationwide, data shows - WDBJ7
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動輔助自行車、電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：HOMETOWN HEALTH: E-bike, e-scooter injuries rising nationwide, data shows &nbsp;&nbsp; WDBJ7
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[WDBJ7](https://news.google.com/rss/articles/CBMipwFBVV95cUxObkwwRFQ3Y09RbF9qemlHbWtzUmZkNWpSSmkzRzB2b29lUEJiZHBCS01aQjh6ZWZHcFNnTXE3VXFEa0hMdzVULWFOVkR3eGR0dU5uZnJZUS14NXdnaTFWR3Z5VVRYLWtSaENzRUFhNjlSd29EYXlPWlhDMmNmVjR6U3BraWhMbEdoUGQ1dHpKZ3F3TEFCQVRtVTlUY2pRVWtMTlZsTTVRMNIBuwFBVV95cUxQMnhUWHV3TDVpR1lGUzBORTk2YVh0VzlVUExjTWRGbnFWSlB5SC1sdm54MElaX0FQTTVLb2hDOWlYdjI1YmVuYW1CRmdfeVFCRzJlUTE5dzEtclJ6cUpFSWk4UzBLb0hXMG9YeWRtYmt6V0tHODI0TkVjclQ2Z2FsaFVuanFxQ3RiWmJhclZxTFk2VjQ5eG1tWk5rbUVRTU9IZWpnd3k2eGZZNE9icDM5aHU0a0F0ajFVZko0?oc=5)
+- 引用：WDBJ7｜Fri, 07 Aug 2026 13:07:00 GMT｜HOMETOWN HEALTH: E-bike, e-scooter injuries rising nationwide, data shows - WDBJ7｜https://news.google.com/rss/articles/CBMipwFBVV95cUxObkwwRFQ3Y09RbF9qemlHbWtzUmZkNWpSSmkzRzB2b29lUEJiZHBCS01aQjh6ZWZHcFNnTXE3VXFEa0hMdzVULWFOVkR3eGR0dU5uZnJZUS14NXdnaTFWR3Z5VVRYLWtSaENzRUFhNjlSd29EYXlPWlhDMmNmVjR6U3BraWhMbEdoUGQ1dHpKZ3F3TEFCQVRtVTlUY2pRVWtMTlZsTTVRMNIBuwFBVV95cUxQMnhUWHV3TDVpR1lGUzBORTk2YVh0VzlVUExjTWRGbnFWSlB5SC1sdm54MElaX0FQTTVLb2hDOWlYdjI1YmVuYW1CRmdfeVFCRzJlUTE5dzEtclJ6cUpFSWk4UzBLb0hXMG9YeWRtYmt6V0tHODI0TkVjclQ2Z2FsaFVuanFxQ3RiWmJhclZxTFk2VjQ5eG1tWk5rbUVRTU9IZWpnd3k2eGZZNE9icDM5aHU0a0F0ajFVZko0?oc=5｜擷取日 2026-08-08
+
+## 25. Electric Scooter Injury Lawsuit Claims 1PLUS S10 From Amazon Came Apart, Causing Leg Fractures - AboutLawsuits.com
+
+- 分類／優先級：安全召回／urgent
+- 中文判讀：自動判讀焦點：電動滑板車、安全風險、法規／政策。本則屬安全訊號，應先確認涉及的產品、地點、批次與事故／召回範圍。
+- 建議行動：先開啟原文核對型號、受影響市場與官方處置；若涉及自家產品，立即建立內部追蹤。
+- PPT 切角：可作為安全風險、使用情境或品質管理頁面的佐證。
+- 原文摘要：Electric Scooter Injury Lawsuit Claims 1PLUS S10 From Amazon Came Apart, Causing Leg Fractures &nbsp;&nbsp; AboutLawsuits.com
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[AboutLawsuits.com](https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXFzZzk2LXFaZFZ0VGczeXcxRGxGNkk1OEZwQVlUWmVndGE0Wjcyak92WU1ZMXJQbWY1OUlZR1Z0MzM0ZWpiSkFBU3I5X0o0Nk5iak9zQ2pQYW13M3BGNm1Ub19wZi1XQUZ3MkpYTEgzcVNNMUMyd2J4LVhNeXJOaUphN0U2d25ySWd5bzQ1aHNLbmxySWtmNGhUNGwtQ055Tm5DQ0dKaw?oc=5)
+- 引用：AboutLawsuits.com｜Fri, 07 Aug 2026 12:00:00 GMT｜Electric Scooter Injury Lawsuit Claims 1PLUS S10 From Amazon Came Apart, Causing Leg Fractures - AboutLawsuits.com｜https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXFzZzk2LXFaZFZ0VGczeXcxRGxGNkk1OEZwQVlUWmVndGE0Wjcyak92WU1ZMXJQbWY1OUlZR1Z0MzM0ZWpiSkFBU3I5X0o0Nk5iak9zQ2pQYW13M3BGNm1Ub19wZi1XQUZ3MkpYTEgzcVNNMUMyd2J4LVhNeXJOaUphN0U2d25ySWd5bzQ1aHNLbmxySWtmNGhUNGwtQ055Tm5DQ0dKaw?oc=5｜擷取日 2026-08-08
+
+## 26. Geneva City Council advances e-bike law; public hearing set for Aug. 18 - Finger Lakes Times
+
+- 分類／優先級：法規更新／high
+- 中文判讀：自動判讀焦點：電動輔助自行車、法規／政策。本則可能牽動上路資格、產品規格、補助或營運規則。
+- 建議行動：核對適用國家／城市、生效日期與是否影響速度、功率、保險或認證。
+- PPT 切角：可作為法規地圖、合規風險或市場進入策略頁面的來源。
+- 原文摘要：Geneva City Council advances e-bike law; public hearing set for Aug. 18 &nbsp;&nbsp; Finger Lakes Times
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Finger Lakes Times](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY2xVX2IyZkJGdzlNMWRJb25QOEtNdy05YVV4bzhBZWJJY2lMcnhKaFVwNnlNcEp3LUdfNXJrQmhMcnhxekY2SUtmd2JDV2d2bzYzUEdFY24wYWZKWVJqanh5TXdBRm8zMTBrWnFYSnRzQ1hhckxraHB0WWZPZ1BiVVVQMlBkM3RGRk1JTzJuSXpubnVXa1BoU3Njd1hra3IzR2xsWlJHdFAzT3VsWTd3YU0yRWJzdUVUVnVtMmhJeFdnUUtNNHNvRHJTRFZHY29NcTJJeWNkbzg4M0tIZEhjcUZR?oc=5)
+- 引用：Finger Lakes Times｜Fri, 07 Aug 2026 12:00:00 GMT｜Geneva City Council advances e-bike law; public hearing set for Aug. 18 - Finger Lakes Times｜https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY2xVX2IyZkJGdzlNMWRJb25QOEtNdy05YVV4bzhBZWJJY2lMcnhKaFVwNnlNcEp3LUdfNXJrQmhMcnhxekY2SUtmd2JDV2d2bzYzUEdFY24wYWZKWVJqanh5TXdBRm8zMTBrWnFYSnRzQ1hhckxraHB0WWZPZ1BiVVVQMlBkM3RGRk1JTzJuSXpubnVXa1BoU3Njd1hra3IzR2xsWlJHdFAzT3VsWTd3YU0yRWJzdUVUVnVtMmhJeFdnUUtNNHNvRHJTRFZHY29NcTJJeWNkbzg4M0tIZEhjcUZR?oc=5｜擷取日 2026-08-08
+
+## 27. S.F.'s e-scooter wars are back. Riders are racking up thousands of violations - Yahoo
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：S.F.'s e-scooter wars are back. Riders are racking up thousands of violations &nbsp;&nbsp; Yahoo
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Yahoo](https://news.google.com/rss/articles/CBMigAFBVV95cUxNd2tmNXZKU2diNUlXM0JnY2dlTGFTVlhBSHFueFcyRkN6enhpZHFGcDNXbTZGWVc2Zk9tdVVHNWdaOF9KckJnNE9zSWEyMDdVT2FfWHZndURrbVlBWUR2aU9QOHAtMFZORElKNlNYYTh5eUFRejdpZWFoaDFrVkNTbg?oc=5)
+- 引用：Yahoo｜Fri, 07 Aug 2026 12:00:00 GMT｜S.F.'s e-scooter wars are back. Riders are racking up thousands of violations - Yahoo｜https://news.google.com/rss/articles/CBMigAFBVV95cUxNd2tmNXZKU2diNUlXM0JnY2dlTGFTVlhBSHFueFcyRkN6enhpZHFGcDNXbTZGWVc2Zk9tdVVHNWdaOF9KckJnNE9zSWEyMDdVT2FfWHZndURrbVlBWUR2aU9QOHAtMFZORElKNlNYYTh5eUFRejdpZWFoaDFrVkNTbg?oc=5｜擷取日 2026-08-08
+
+## 28. E3 Electric.AI Launches AI-Powered E3 TRION Electric Scooter - Siliconindia
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動滑板車、新品上市。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：E3 Electric.AI Launches AI-Powered E3 TRION Electric Scooter &nbsp;&nbsp; Siliconindia
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Siliconindia](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0FRd2J5MGR4VF9IUGpBbThrVENpVjVwa2ZTdVR5ZFRjWElwckZCRU53dDBpcVByTWFXalRJb3pOTDlhVG5MTEZqdFA1QnlaZ2dyZEF4RjFvQ3I1ZUl2ZlljclRXQ3JEc25UZ2p0d3NrOFNtLS1NaE9SYWtEcGc5QXB3bHJ2MWVqUEF0dktYenFGc1JFR3IzSnBkZDdTZjRMWnBudXpubGh6NEJmMk4zZ2FYVU9kV1luZUxtT3JHdHV6dw?oc=5)
+- 引用：Siliconindia｜Fri, 07 Aug 2026 11:28:10 GMT｜E3 Electric.AI Launches AI-Powered E3 TRION Electric Scooter - Siliconindia｜https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM0FRd2J5MGR4VF9IUGpBbThrVENpVjVwa2ZTdVR5ZFRjWElwckZCRU53dDBpcVByTWFXalRJb3pOTDlhVG5MTEZqdFA1QnlaZ2dyZEF4RjFvQ3I1ZUl2ZlljclRXQ3JEc25UZ2p0d3NrOFNtLS1NaE9SYWtEcGc5QXB3bHJ2MWVqUEF0dktYenFGc1JFR3IzSnBkZDdTZjRMWnBudXpubGh6NEJmMk4zZ2FYVU9kV1luZUxtT3JHdHV6dw?oc=5｜擷取日 2026-08-08
+
+## 29. Kennett man on life support after e-bike crash with on-duty trooper - KFVS12
+
+- 分類／優先級：安全召回／urgent
+- 中文判讀：自動判讀焦點：電動輔助自行車、安全風險。本則屬安全訊號，應先確認涉及的產品、地點、批次與事故／召回範圍。
+- 建議行動：先開啟原文核對型號、受影響市場與官方處置；若涉及自家產品，立即建立內部追蹤。
+- PPT 切角：可作為安全風險、使用情境或品質管理頁面的佐證。
+- 原文摘要：Kennett man on life support after e-bike crash with on-duty trooper &nbsp;&nbsp; KFVS12
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[KFVS12](https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjIwU2QzRDRTRXEzdWZRcV84aW5yZ2NfWkZUNlBBQVI4WDZlU2hvZFZjSTRaUF9EbGF4RVhrZHp0NTRwWFVnbGEzQjJGWHNtMHpiS29vZ3UyMV9sWUJ4cTl1NmhuUlB5Ti1LV1pZTGZQV2M1Q3M3YTNyeHdIZWJTUktMV2dGVHh0d01rMWlMNWxsdjdBQ2hIQmgxQdIBrwFBVV95cUxPSmN5YWpTTGNvb3FDM0VDa2VmNlVJQXNqbjU2X2txM1VhU29fZXBJV2dZQ3B2Xy1PU3NpYk5uRTFZaFVDUXhFejZMR04xWUR3QWlFOVh6WUZLSDkyaXpZbVZsWHRyQkdmUjV3cUxPTWE4RktvQlUzUlpVU0g4RVFlcDNmTVItdkZvTWNfdHYyVzBVbTN3akU4dlNrTy1sN0Q1clZqNmtTc0loY2VtTlA0?oc=5)
+- 引用：KFVS12｜Fri, 07 Aug 2026 10:58:00 GMT｜Kennett man on life support after e-bike crash with on-duty trooper - KFVS12｜https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjIwU2QzRDRTRXEzdWZRcV84aW5yZ2NfWkZUNlBBQVI4WDZlU2hvZFZjSTRaUF9EbGF4RVhrZHp0NTRwWFVnbGEzQjJGWHNtMHpiS29vZ3UyMV9sWUJ4cTl1NmhuUlB5Ti1LV1pZTGZQV2M1Q3M3YTNyeHdIZWJTUktMV2dGVHh0d01rMWlMNWxsdjdBQ2hIQmgxQdIBrwFBVV95cUxPSmN5YWpTTGNvb3FDM0VDa2VmNlVJQXNqbjU2X2txM1VhU29fZXBJV2dZQ3B2Xy1PU3NpYk5uRTFZaFVDUXhFejZMR04xWUR3QWlFOVh6WUZLSDkyaXpZbVZsWHRyQkdmUjV3cUxPTWE4RktvQlUzUlpVU0g4RVFlcDNmTVItdkZvTWNfdHYyVzBVbTN3akU4dlNrTy1sN0Q1clZqNmtTc0loY2VtTlA0?oc=5｜擷取日 2026-08-08
+
+## 30. Kennett man on life support after e-bike crash with on-duty trooper - K8 News | Jonesboro, Arkansas
+
+- 分類／優先級：安全召回／urgent
+- 中文判讀：自動判讀焦點：電動輔助自行車、安全風險。本則屬安全訊號，應先確認涉及的產品、地點、批次與事故／召回範圍。
+- 建議行動：先開啟原文核對型號、受影響市場與官方處置；若涉及自家產品，立即建立內部追蹤。
+- PPT 切角：可作為安全風險、使用情境或品質管理頁面的佐證。
+- 原文摘要：Kennett man on life support after e-bike crash with on-duty trooper &nbsp;&nbsp; K8 News | Jonesboro, Arkansas
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[K8 News | Jonesboro, Arkansas](https://news.google.com/rss/articles/CBMimgFBVV95cUxPcm1OYUVzQWJpZHJyVE5taU01enQ3OU5uV1o0dTZTMUlWMWVEV3lQSE4wcVdtVTZuODhodlFibXhtVDduSWhhUzdkdDRUMkJaWGF4SDNDYldXZ180ZHRTZi1KRTVIYmsxc1ltNW15eGJ6Y3BNbWFGcTdJQW1VYUF6ZXpnX0s3QnhPQVBBT0djN0p4YVp2RG1YRXBB0gGuAUFVX3lxTE9nLVFGNkZwZVJqdmo0TkNqT1Y0N3BLbDl4VXcyZnl0bVVUVnZWY0VlVGdOeXZ1b2wtUzd0dTNsWHUzaFZ6dGpxVG4yZEJYTTNxZ2tIb1h5M1U5WXlEZnlnZzB5YU0wdGpRZnFzRGVsNVp1NUlOTVNCS0RUeGF3VkNvZ1c1YXFzcGdJVnBBaXpZSWVob1dBZDhTUlNDNHRzd1U3MlV5SnZnMV9Cc3dTQQ?oc=5)
+- 引用：K8 News | Jonesboro, Arkansas｜Fri, 07 Aug 2026 10:58:00 GMT｜Kennett man on life support after e-bike crash with on-duty trooper - K8 News | Jonesboro, Arkansas｜https://news.google.com/rss/articles/CBMimgFBVV95cUxPcm1OYUVzQWJpZHJyVE5taU01enQ3OU5uV1o0dTZTMUlWMWVEV3lQSE4wcVdtVTZuODhodlFibXhtVDduSWhhUzdkdDRUMkJaWGF4SDNDYldXZ180ZHRTZi1KRTVIYmsxc1ltNW15eGJ6Y3BNbWFGcTdJQW1VYUF6ZXpnX0s3QnhPQVBBT0djN0p4YVp2RG1YRXBB0gGuAUFVX3lxTE9nLVFGNkZwZVJqdmo0TkNqT1Y0N3BLbDl4VXcyZnl0bVVUVnZWY0VlVGdOeXZ1b2wtUzd0dTNsWHUzaFZ6dGpxVG4yZEJYTTNxZ2tIb1h5M1U5WXlEZnlnZzB5YU0wdGpRZnFzRGVsNVp1NUlOTVNCS0RUeGF3VkNvZ1c1YXFzcGdJVnBBaXpZSWVob1dBZDhTUlNDNHRzd1U3MlV5SnZnMV9Cc3dTQQ?oc=5｜擷取日 2026-08-08
+
+## 31. Children's Wisconsin warns of uptick in e-bike and e-scooter injuries - Milwaukee Journal Sentinel
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動輔助自行車、電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：Children's Wisconsin warns of uptick in e-bike and e-scooter injuries &nbsp;&nbsp; Milwaukee Journal Sentinel
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Milwaukee Journal Sentinel](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjl4YUZKN1c0VTlSUXNBWEVZSnQ4clB6TDJhZzN2OVNXdF9XUEtkQllTMUwyckJKYnpsMzRUYk9zWms0QUtCM2hpNWw2eElWbl9ZT0dyS0M4em1QajlsNjJ1dlhkZlptblhIWUVzNzZpWjNkZ3A5cjNUT1hvNGlGYUVTSFFDb2xTRFRqOTlxcnBxM0hKTWRZSXlCam5iR1FCcjlnczZ1SEU4bG5vcVBsMlpoc0R6RVQwd1h6TUQ3bmk4dVZnWU5TS2NLdkpYTmlSRHZOUnNHY1lNY3JV?oc=5)
+- 引用：Milwaukee Journal Sentinel｜Fri, 07 Aug 2026 10:03:00 GMT｜Children's Wisconsin warns of uptick in e-bike and e-scooter injuries - Milwaukee Journal Sentinel｜https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjl4YUZKN1c0VTlSUXNBWEVZSnQ4clB6TDJhZzN2OVNXdF9XUEtkQllTMUwyckJKYnpsMzRUYk9zWms0QUtCM2hpNWw2eElWbl9ZT0dyS0M4em1QajlsNjJ1dlhkZlptblhIWUVzNzZpWjNkZ3A5cjNUT1hvNGlGYUVTSFFDb2xTRFRqOTlxcnBxM0hKTWRZSXlCam5iR1FCcjlnczZ1SEU4bG5vcVBsMlpoc0R6RVQwd1h6TUQ3bmk4dVZnWU5TS2NLdkpYTmlSRHZOUnNHY1lNY3JV?oc=5｜擷取日 2026-08-08
+
+## 32. Uklon is preparing to launch its own electric scooter service. It will be integrated into the application ecosystem - dev.ua
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動滑板車、新品上市。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：Uklon is preparing to launch its own electric scooter service. It will be integrated into the application ecosystem &nbsp;&nbsp; dev.ua
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[dev.ua](https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xelRyRkp5TlZkaGhtSlBCYmxfaUhScm5MUUJocUFFX0xoUEFkdWZOVHdQa0Vpd05ENEE5YnF2NmxwNm52VmtrSU5sMlpiS0No?oc=5)
+- 引用：dev.ua｜Fri, 07 Aug 2026 10:01:00 GMT｜Uklon is preparing to launch its own electric scooter service. It will be integrated into the application ecosystem - dev.ua｜https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xelRyRkp5TlZkaGhtSlBCYmxfaUhScm5MUUJocUFFX0xoUEFkdWZOVHdQa0Vpd05ENEE5YnF2NmxwNm52VmtrSU5sMlpiS0No?oc=5｜擷取日 2026-08-08
+
+## 33. Memorial grows for two 13-year-old girls killed in Syracuse scooter crash - KUTV
+
+- 分類／優先級：安全召回／urgent
+- 中文判讀：自動判讀焦點：電動滑板車、安全風險。本則屬安全訊號，應先確認涉及的產品、地點、批次與事故／召回範圍。
+- 建議行動：先開啟原文核對型號、受影響市場與官方處置；若涉及自家產品，立即建立內部追蹤。
+- PPT 切角：可作為安全風險、使用情境或品質管理頁面的佐證。
+- 原文摘要：Memorial grows for two 13-year-old girls killed in Syracuse scooter crash &nbsp;&nbsp; KUTV
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[KUTV](https://news.google.com/rss/articles/CBMiowFBVV95cUxPVk9iMTRsbldNN0JOMHk0SGRJSHdna0pPZmVIcnRmQnBYSmN5NmJvTU83WGhXRzVqMm5qSnVValVCQm1QOWZGOWRyenlBNHdOMFJnc3RuLThhX0RYN3J4cl9RdWs5S3RMRXRfZEVaa1dXRlFTbUpGMmVmekFpWU4zcXQzSFppU0Zlb2x3WnVRRWFQSHJPWk5fSjJURks2UTJva0hv?oc=5)
+- 引用：KUTV｜Fri, 07 Aug 2026 07:11:11 GMT｜Memorial grows for two 13-year-old girls killed in Syracuse scooter crash - KUTV｜https://news.google.com/rss/articles/CBMiowFBVV95cUxPVk9iMTRsbldNN0JOMHk0SGRJSHdna0pPZmVIcnRmQnBYSmN5NmJvTU83WGhXRzVqMm5qSnVValVCQm1QOWZGOWRyenlBNHdOMFJnc3RuLThhX0RYN3J4cl9RdWs5S3RMRXRfZEVaa1dXRlFTbUpGMmVmekFpWU4zcXQzSFppU0Zlb2x3WnVRRWFQSHJPWk5fSjJURks2UTJva0hv?oc=5｜擷取日 2026-08-08
+
+## 34. E3 Trion Electric Scooter Launched in India at Rs 1 Lakh - autoX
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動滑板車、新品上市。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：E3 Trion Electric Scooter Launched in India at Rs 1 Lakh &nbsp;&nbsp; autoX
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[autoX](https://news.google.com/rss/articles/CBMiowFBVV95cUxQd29mV3hEV1JpZWFaYkF2WFJQR3p0LXhxbTJqUTR2X29DbUFxQ3FYSjVpSVdadUZhbU5qaGNqRGp5V1FTbEhaam8ycVQ0SGFqQ1RhNUFWenl4T05JREd2c3BUdHZCcjQ4eGR0TjZkZ2hORFNvYk1ORG9ybVdGdk85MWd2cHJ2WDlwNmpwZVcxN2NvbHVRQ3R1NzlZTGw4aHZadEp3?oc=5)
+- 引用：autoX｜Fri, 07 Aug 2026 06:52:00 GMT｜E3 Trion Electric Scooter Launched in India at Rs 1 Lakh - autoX｜https://news.google.com/rss/articles/CBMiowFBVV95cUxQd29mV3hEV1JpZWFaYkF2WFJQR3p0LXhxbTJqUTR2X29DbUFxQ3FYSjVpSVdadUZhbU5qaGNqRGp5V1FTbEhaam8ycVQ0SGFqQ1RhNUFWenl4T05JREd2c3BUdHZCcjQ4eGR0TjZkZ2hORFNvYk1ORG9ybVdGdk85MWd2cHJ2WDlwNmpwZVcxN2NvbHVRQ3R1NzlZTGw4aHZadEp3?oc=5｜擷取日 2026-08-08
+
+## 35. India’s First AI-Powered E3 Trion Electric Scooter Launched At Rs. 99,999 - Gaadiwaadi.com
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動滑板車、新品上市。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：India’s First AI-Powered E3 Trion Electric Scooter Launched At Rs. 99,999 &nbsp;&nbsp; Gaadiwaadi.com
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Gaadiwaadi.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1VoTjJHYk5vTFEtalJLUWZRMzhJZVFxY0dvQmlEOUx1ckgwLTNTMlliNFRNRHQ1Y1cwT0c0d1FROHBwaWc4ZWVLekV6emxkNXpoMlFhQ2FJcDgwSTJjcUNRYUZOSDRyTzZ5WTNYa0VWdDB6NE9tSGhHcTdBeGJxZlljdFF3cjF2Zk1rLXktdE0yRlpYZkROUHBR0gGaAUFVX3lxTE5LVWhOMkdiTm9MUS1qUktRZlEzOEllUXFjR29CaUQ5THVySDAtM1MyWWI0VE1EdDVjVzBPRzR3UVE4cHBpZzhlZUt6RXp6bGQ1emgyUWFDYUlwODBJMmNxQ1FhRk5INHJPNnlZM1hrRVZ0MHo0T21IaEdxN0F4YnFmWWN0UXdyMXZmTWsteS10TTJGWlhmRE5QcFE?oc=5)
+- 引用：Gaadiwaadi.com｜Fri, 07 Aug 2026 04:08:57 GMT｜India’s First AI-Powered E3 Trion Electric Scooter Launched At Rs. 99,999 - Gaadiwaadi.com｜https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1VoTjJHYk5vTFEtalJLUWZRMzhJZVFxY0dvQmlEOUx1ckgwLTNTMlliNFRNRHQ1Y1cwT0c0d1FROHBwaWc4ZWVLekV6emxkNXpoMlFhQ2FJcDgwSTJjcUNRYUZOSDRyTzZ5WTNYa0VWdDB6NE9tSGhHcTdBeGJxZlljdFF3cjF2Zk1rLXktdE0yRlpYZkROUHBR0gGaAUFVX3lxTE5LVWhOMkdiTm9MUS1qUktRZlEzOEllUXFjR29CaUQ5THVySDAtM1MyWWI0VE1EdDVjVzBPRzR3UVE4cHBpZzhlZUt6RXp6bGQ1emgyUWFDYUlwODBJMmNxQ1FhRk5INHJPNnlZM1hrRVZ0MHo0T21IaEdxN0F4YnFmWWN0UXdyMXZmTWsteS10TTJGWlhmRE5QcFE?oc=5｜擷取日 2026-08-08
+
+## 36. Industry Group Wants Mamdani to Push Car Owners to Switch to Micromobility - Streetsblog New York City
+
+- 分類／優先級：產業趨勢／high
+- 中文判讀：自動判讀焦點：產業動態。本則提供市場、投資、通路或合作的早期訊號。
+- 建議行動：辨識消息是官方公告、媒體觀察或單一市場事件；以第二來源交叉驗證。
+- PPT 切角：可作為市場趨勢、機會假設或高階主管簡報的觀察素材。
+- 原文摘要：Industry Group Wants Mamdani to Push Car Owners to Switch to Micromobility &nbsp;&nbsp; Streetsblog New York City
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Streetsblog New York City](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDBONXI2R3lXSkpHcjdFMm04TF9POFd3eXlvZTVLRG1OOFU0X24xODgzdU5YaGxFODV5azdBQ1hXcEtmV3VGVFM2UFNPU3NMNUROY0xJRFZXeDRYejM4LUY0SE5LdE9jWkxRYWpFdXVCTno1NHRwWmFadW16cDNnLWk0UTZYQ1U?oc=5)
+- 引用：Streetsblog New York City｜Fri, 07 Aug 2026 04:05:00 GMT｜Industry Group Wants Mamdani to Push Car Owners to Switch to Micromobility - Streetsblog New York City｜https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDBONXI2R3lXSkpHcjdFMm04TF9POFd3eXlvZTVLRG1OOFU0X24xODgzdU5YaGxFODV5azdBQ1hXcEtmV3VGVFM2UFNPU3NMNUROY0xJRFZXeDRYejM4LUY0SE5LdE9jWkxRYWpFdXVCTno1NHRwWmFadW16cDNnLWk0UTZYQ1U?oc=5｜擷取日 2026-08-08
+
+## 37. Juiced launches dual-battery electric bike, says it can travel up to 200 km per charge - 디지털투데이
+
+- 分類／優先級：技術元件／normal
+- 中文判讀：自動判讀焦點：電動輔助自行車、電池／充電、新品上市。本則與零組件、電池或驅動系統技術有關。
+- 建議行動：比對規格、供應商、相容性與量產時程；回原文確認數據與測試條件。
+- PPT 切角：可作為技術路線、供應鏈或產品差異化頁面的素材。
+- 原文摘要：Juiced launches dual-battery electric bike, says it can travel up to 200 km per charge &nbsp;&nbsp; 디지털투데이
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[디지털투데이](https://news.google.com/rss/articles/CBMiygFBVV95cUxPemJCNDlzS0Nvdm5lMVZyMUcydFBDa0F6WWMwSWptbGMzWGo1emtoMG9iX216THRzbVZ0bHVXMU5GTzhzUC1OM1RmVmJoYmExVlVqSTRxQ3NuUmltZzdkZU1PbGVQdENkMjFjU3BXa29pTWFXeGF6b085cUFqQ3JsM3ZwRXJCVWx1XzZPbktEUkstVWFXNkFpa3RwQjlwUHd1N0k2bHRpWEdJdEd1ZXpWY3ZPVU9IZkVjeG5ueGFCdGZ0VHJOY2ltcTJn?oc=5)
+- 引用：디지털투데이｜Fri, 07 Aug 2026 01:42:11 GMT｜Juiced launches dual-battery electric bike, says it can travel up to 200 km per charge - 디지털투데이｜https://news.google.com/rss/articles/CBMiygFBVV95cUxPemJCNDlzS0Nvdm5lMVZyMUcydFBDa0F6WWMwSWptbGMzWGo1emtoMG9iX216THRzbVZ0bHVXMU5GTzhzUC1OM1RmVmJoYmExVlVqSTRxQ3NuUmltZzdkZU1PbGVQdENkMjFjU3BXa29pTWFXeGF6b085cUFqQ3JsM3ZwRXJCVWx1XzZPbktEUkstVWFXNkFpa3RwQjlwUHd1N0k2bHRpWEdJdEd1ZXpWY3ZPVU9IZkVjeG5ueGFCdGZ0VHJOY2ltcTJn?oc=5｜擷取日 2026-08-08
+
+## 38. Colorado e-bike rebates to return in August - AspenTimes.com
+
+- 分類／優先級：產業趨勢／normal
+- 中文判讀：自動判讀焦點：電動輔助自行車。本則提供市場、投資、通路或合作的早期訊號。
+- 建議行動：辨識消息是官方公告、媒體觀察或單一市場事件；以第二來源交叉驗證。
+- PPT 切角：可作為市場趨勢、機會假設或高階主管簡報的觀察素材。
+- 原文摘要：Colorado e-bike rebates to return in August &nbsp;&nbsp; AspenTimes.com
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[AspenTimes.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTl9yWjl1eWZhUTZWT0FMaWFibGFsM0FZcHZPOUNEdzlERTdqZHFxLVdITDBfV1VJMzZ3ZjljREVZQ2pGcU56bTU1S1RPRVRLMFZSZ2k1aGt5TWN3S2R0Rl9IclNjbGF2MExuYVVwRVFoMkl2eEg5dkkzamN3TW9GM21B?oc=5)
+- 引用：AspenTimes.com｜Thu, 06 Aug 2026 23:26:14 GMT｜Colorado e-bike rebates to return in August - AspenTimes.com｜https://news.google.com/rss/articles/CBMiggFBVV95cUxOTl9yWjl1eWZhUTZWT0FMaWFibGFsM0FZcHZPOUNEdzlERTdqZHFxLVdITDBfV1VJMzZ3ZjljREVZQ2pGcU56bTU1S1RPRVRLMFZSZ2k1aGt5TWN3S2R0Rl9IclNjbGF2MExuYVVwRVFoMkl2eEg5dkkzamN3TW9GM21B?oc=5｜擷取日 2026-08-08
+
+## 39. Preventing E-bike, E-Scooter injuries and deaths - WBRC 6 News
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動輔助自行車、電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：Preventing E-bike, E-Scooter injuries and deaths &nbsp;&nbsp; WBRC 6 News
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[WBRC 6 News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQa0lOS2ZOeXRrT05kdzYwUWRMVEs0UnpyZXUxcmFYbzM0UXNHSGpwai1saE1fQzJzUUZOMWxRYkR6U2VKbS1zWmpDZ2J6Mm16eDFRTWliSldHc2k0LUw5RUpqS3Bkd1lscjdHNUZKSnFiVk5Za1pzYk5KSjBjdlFGWkJST25tTlFjS3c?oc=5)
+- 引用：WBRC 6 News｜Thu, 06 Aug 2026 23:10:18 GMT｜Preventing E-bike, E-Scooter injuries and deaths - WBRC 6 News｜https://news.google.com/rss/articles/CBMiigFBVV95cUxQa0lOS2ZOeXRrT05kdzYwUWRMVEs0UnpyZXUxcmFYbzM0UXNHSGpwai1saE1fQzJzUUZOMWxRYkR6U2VKbS1zWmpDZ2J6Mm16eDFRTWliSldHc2k0LUw5RUpqS3Bkd1lscjdHNUZKSnFiVk5Za1pzYk5KSjBjdlFGWkJST25tTlFjS3c?oc=5｜擷取日 2026-08-08
+
+## 40. Tragic Utah crash leaves two 13-year-old girls dead while riding e-scooter - KATV
+
+- 分類／優先級：安全召回／urgent
+- 中文判讀：自動判讀焦點：電動滑板車、安全風險。本則屬安全訊號，應先確認涉及的產品、地點、批次與事故／召回範圍。
+- 建議行動：先開啟原文核對型號、受影響市場與官方處置；若涉及自家產品，立即建立內部追蹤。
+- PPT 切角：可作為安全風險、使用情境或品質管理頁面的佐證。
+- 原文摘要：Tragic Utah crash leaves two 13-year-old girls dead while riding e-scooter &nbsp;&nbsp; KATV
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[KATV](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakh1aXdvVWw3TS1zVGZPSnBjeWMwYW5zZ1ctUnFfaFJhYXVtWVFNVzMtWkc3QWlOTnRaR0tCZFR6alVlTlZaM25TbGhJOXc2SEUxQTNEZXFIYmJ0SS13dXVYanZ2NTFyWjhBYk4wWXZvYXQ2REJjVW42X3dMcDZFM1A2R3JRb21pZ3AtenFVMDNJb0VtWlNnYUlUdFlNWGpmUG05Ny1Ndkd5VkIxRFQxWThLZEFHZXpmZ1A0?oc=5)
+- 引用：KATV｜Thu, 06 Aug 2026 22:16:57 GMT｜Tragic Utah crash leaves two 13-year-old girls dead while riding e-scooter - KATV｜https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakh1aXdvVWw3TS1zVGZPSnBjeWMwYW5zZ1ctUnFfaFJhYXVtWVFNVzMtWkc3QWlOTnRaR0tCZFR6alVlTlZaM25TbGhJOXc2SEUxQTNEZXFIYmJ0SS13dXVYanZ2NTFyWjhBYk4wWXZvYXQ2REJjVW42X3dMcDZFM1A2R3JRb21pZ3AtenFVMDNJb0VtWlNnYUlUdFlNWGpmUG05Ny1Ndkd5VkIxRFQxWThLZEFHZXpmZ1A0?oc=5｜擷取日 2026-08-08
+
+## 41. E-bike and e-scooter injuries are rising among Connecticut kids as one school district moves to ban - WFSB
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動輔助自行車、電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：E-bike and e-scooter injuries are rising among Connecticut kids as one school district moves to ban &nbsp;&nbsp; WFSB
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[WFSB](https://news.google.com/rss/articles/CBMixwFBVV95cUxNYXUzUFpoYUF1NW9jX2JoUXlQbldFZXlMamI3ZHo1NGgtWE5UOVI5ZEVsV3loOEIwQjVYcnNzOVpmV3RTQzBsSm1WY1dVRU94XzBJemVDRkhleW9EZERpeXpOYkh0eERpdFcwVEZZSkRpZzlqRjhnaWwtSGs4dEpNajB3NlhLQ3hwb3UtYmFTVXZiYUVjOEhzU2tTQk5oY0tlSEN4TkppdnEtU3dwTWctekFvWjhfeHI5YzBfY04td2k2bDl2MVBz?oc=5)
+- 引用：WFSB｜Thu, 06 Aug 2026 21:50:44 GMT｜E-bike and e-scooter injuries are rising among Connecticut kids as one school district moves to ban - WFSB｜https://news.google.com/rss/articles/CBMixwFBVV95cUxNYXUzUFpoYUF1NW9jX2JoUXlQbldFZXlMamI3ZHo1NGgtWE5UOVI5ZEVsV3loOEIwQjVYcnNzOVpmV3RTQzBsSm1WY1dVRU94XzBJemVDRkhleW9EZERpeXpOYkh0eERpdFcwVEZZSkRpZzlqRjhnaWwtSGs4dEpNajB3NlhLQ3hwb3UtYmFTVXZiYUVjOEhzU2tTQk5oY0tlSEN4TkppdnEtU3dwTWctekFvWjhfeHI5YzBfY04td2k2bDl2MVBz?oc=5｜擷取日 2026-08-08
+
+## 42. Nova Scotians under 14 will soon be banned from e-scooters and e-bikes - CBC
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動輔助自行車、電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：Nova Scotians under 14 will soon be banned from e-scooters and e-bikes &nbsp;&nbsp; CBC
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片（內部辨識用）：[原始 RSS／報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[CBC](https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEVYN01OREJLb0RMdXFHeU1WOFNDUFhvQlhGRDJLOFZnT3NhXzZwMkNZNFdkUGxadmFEelJINVYzeE5KVWxULUZLQ09saHRfYVNqcjdzakQ0dlFhZVNtUHRHMTl2WEVsMkN0a0R2aE5obVhsaVNhWC1HdlM2a2ctX0txajdaX2JwS1VmZmgzdGJVN0ROalY3cC1nTEYtVFUyY1E?oc=5)
+- 引用：CBC｜Thu, 06 Aug 2026 18:55:21 GMT｜Nova Scotians under 14 will soon be banned from e-scooters and e-bikes - CBC｜https://news.google.com/rss/articles/CBMiogFBVV95cUxNaEVYN01OREJLb0RMdXFHeU1WOFNDUFhvQlhGRDJLOFZnT3NhXzZwMkNZNFdkUGxadmFEelJINVYzeE5KVWxULUZLQ09saHRfYVNqcjdzakQ0dlFhZVNtUHRHMTl2WEVsMkN0a0R2aE5obVhsaVNhWC1HdlM2a2ctX0txajdaX2JwS1VmZmgzdGJVN0ROalY3cC1nTEYtVFUyY1E?oc=5｜擷取日 2026-08-08
+
+## 43. 2 girls on e-scooter die after being hit by truck in Syracuse - Deseret News
+
+- 分類／優先級：品牌新品／normal
+- 中文判讀：自動判讀焦點：電動滑板車。本則屬產品、服務或品牌動態。
+- 建議行動：核對售價、續航、重量、上市市場與同級競品，再判定是否需要深入追蹤。
+- PPT 切角：可作為新品雷達、競品比較或產品定位頁面的素材。
+- 原文摘要：2 girls on e-scooter die after being hit by truck in Syracuse &nbsp;&nbsp; Deseret News
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片：本則未擷取到可用縮圖。
+- 原文：[Deseret News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRDFnekd5TThxQkZUZkxqZk1RWWNOMUVoNTl2OXJhdXZDV3lkN3owcFNmOWlSa2NJbENpOGFYWXhTaG96OXl1Z0cyY2FQSzgxQzVCSmt5TEg4dHI3UlNIME1TTHB6aWRxNjRiSExkQ2poc3N2OEhGalNBV0Y1eHR6WVlMdVUtYlBoX2dMOUFHQUtDZHo0V1hQM0U2bG9GWmxEcHFsUl9OLWc?oc=5)
+- 引用：Deseret News｜Thu, 06 Aug 2026 16:20:33 GMT｜2 girls on e-scooter die after being hit by truck in Syracuse - Deseret News｜https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRDFnekd5TThxQkZUZkxqZk1RWWNOMUVoNTl2OXJhdXZDV3lkN3owcFNmOWlSa2NJbENpOGFYWXhTaG96OXl1Z0cyY2FQSzgxQzVCSmt5TEg4dHI3UlNIME1TTHB6aWRxNjRiSExkQ2poc3N2OEhGalNBV0Y1eHR6WVlMdVUtYlBoX2dMOUFHQUtDZHo0V1hQM0U2bG9GWmxEcHFsUl9OLWc?oc=5｜擷取日 2026-08-08
+
+## 44. Bicycle Tires Market to Reach USD 11.52 Billion by 2035 Says Radial Insights - FinanzNachrichten.de
+
+- 分類／優先級：產業趨勢／normal
+- 中文判讀：自動判讀焦點：產業動態。本則提供市場、投資、通路或合作的早期訊號。
+- 建議行動：辨識消息是官方公告、媒體觀察或單一市場事件；以第二來源交叉驗證。
+- PPT 切角：可作為市場趨勢、機會假設或高階主管簡報的觀察素材。
+- 原文摘要：Bicycle Tires Market to Reach USD 11.52 Billion by 2035 Says Radial Insights &nbsp;&nbsp; FinanzNachrichten.de
+- 素材建議：先確認原文授權；簡報請保留來源名稱與網址。
+- 圖片：本則未擷取到可用縮圖。
+- 原文：[FinanzNachrichten.de](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUtTZ1A3NU1jQTBBUVJEZ1VWdXRZcXVRNHdtakVKcmhhM1Y4akNGX2lHTF9kS2VPb3k5cDB6TzR1bnpWWjVnUWhhTVlIUmJaTzcxd2xIdTRyaTROR3UwekdzWFRNT041djNHRTAzUFM1WnliRmNTSmVuM1p1b2NwZ2hlNEt0N2tFVjJGQzhxYnM4Zi1kZkJYd2tvVzcteWJQZVotblg2c2MzNUFnWG9xc0FqUDBhaGJlc0NYajJFcjJxMXZGMWtMaVN3dHZjbjlKcDlOb00xXzNvYVg3emdN?oc=5)
+- 引用：FinanzNachrichten.de｜Thu, 06 Aug 2026 15:36:00 GMT｜Bicycle Tires Market to Reach USD 11.52 Billion by 2035 Says Radial Insights - FinanzNachrichten.de｜https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeUtTZ1A3NU1jQTBBUVJEZ1VWdXRZcXVRNHdtakVKcmhhM1Y4akNGX2lHTF9kS2VPb3k5cDB6TzR1bnpWWjVnUWhhTVlIUmJaTzcxd2xIdTRyaTROR3UwekdzWFRNT041djNHRTAzUFM1WnliRmNTSmVuM1p1b2NwZ2hlNEt0N2tFVjJGQzhxYnM4Zi1kZkJYd2tvVzcteWJQZVotblg2c2MzNUFnWG9xc0FqUDBhaGJlc0NYajJFcjJxMXZGMWtMaVN3dHZjbjlKcDlOb00xXzNvYVg3emdN?oc=5｜擷取日 2026-08-08

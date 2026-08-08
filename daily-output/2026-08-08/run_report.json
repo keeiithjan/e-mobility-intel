@@ -1,0 +1,118 @@
+{
+  "runDate": "2026-08-08",
+  "mode": "live",
+  "fetchedAt": "2026-08-08T02:20:17.604Z",
+  "sources": [
+    {
+      "id": "eu_transport",
+      "name": "European Commission — Urban transport",
+      "status": "ok",
+      "candidates": 45
+    },
+    {
+      "id": "cpsc_micro",
+      "name": "U.S. CPSC — Micromobility Information Center",
+      "status": "ok",
+      "candidates": 45
+    },
+    {
+      "id": "cpsc_recalls",
+      "name": "U.S. CPSC — Recalls",
+      "status": "ok",
+      "candidates": 45
+    },
+    {
+      "id": "electrek_ebikes",
+      "name": "Electrek — e-bikes",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "cycling_industry",
+      "name": "Cycling Industry News",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "electricbike_report",
+      "name": "Electric Bike Report",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "bikerumor",
+      "name": "BikeRumor",
+      "status": "ok",
+      "candidates": 10
+    },
+    {
+      "id": "tw_thb",
+      "name": "交通部公路局",
+      "status": "ok",
+      "candidates": 45
+    },
+    {
+      "id": "eur_lex",
+      "name": "EUR-Lex",
+      "status": "ok",
+      "candidates": 45
+    },
+    {
+      "id": "shimano",
+      "name": "Shimano Bike News",
+      "status": "ok",
+      "candidates": 45
+    },
+    {
+      "id": "news_components",
+      "name": "Google News — 電池與驅動技術（近 30 日）",
+      "status": "ok",
+      "candidates": 58
+    },
+    {
+      "id": "news_regulation",
+      "name": "Google News — 法規與安全（近 30 日）",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "news_ebike",
+      "name": "Google News — e-bike 綜覽（近 14 日）",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "news_market",
+      "name": "Google News — 品牌與產業（近 30 日）",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "news_scooter",
+      "name": "Google News — e-scooter 綜覽（近 14 日）",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "tw_law",
+      "name": "全國法規資料庫",
+      "status": "ok",
+      "candidates": 11
+    },
+    {
+      "id": "electrek_scooters",
+      "name": "Electrek — electric scooters",
+      "status": "ok",
+      "candidates": 100
+    }
+  ],
+  "totalCandidates": 1049,
+  "totalRelevant": 644,
+  "totalNew": 44,
+  "totalExported": 44,
+  "totalHistory": 127,
+  "imageEnrichment": {
+    "attempted": 60,
+    "found": 60
+  }
+}
