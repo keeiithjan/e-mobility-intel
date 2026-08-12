@@ -20,73 +20,45 @@
     "enabled": true
   },
   {
-    "id": "eu_transport",
-    "name": "European Commission — Urban transport",
-    "url": "https://transport.ec.europa.eu/transport-themes/urban-transport_en",
-    "kind": "web",
-    "region": "歐盟",
-    "defaultCategory": "法規更新",
-    "priority": "high",
-    "enabled": true
-  },
-  {
-    "id": "eur_lex",
-    "name": "EUR-Lex",
-    "url": "https://eur-lex.europa.eu/homepage.html?locale=en",
-    "kind": "web",
-    "region": "歐盟",
-    "defaultCategory": "法規更新",
-    "priority": "high",
-    "enabled": true
-  },
-  {
     "id": "cpsc_recalls",
-    "name": "U.S. CPSC — Recalls",
+    "name": "U.S. CPSC Recalls",
     "url": "https://www.cpsc.gov/Recalls",
     "kind": "web",
     "region": "美國",
     "defaultCategory": "安全召回",
-    "priority": "urgent",
+    "priority": "high",
     "enabled": true
   },
   {
     "id": "cpsc_micro",
-    "name": "U.S. CPSC — Micromobility Information Center",
+    "name": "U.S. CPSC Micromobility",
     "url": "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Micromobility-Information-Center",
     "kind": "web",
     "region": "美國",
     "defaultCategory": "安全召回",
-    "priority": "urgent",
-    "enabled": true
-  },
-  {
-    "id": "shimano",
-    "name": "Shimano Bike News",
-    "url": "https://bike.shimano.com/en-US/information/news.html",
-    "kind": "web",
-    "region": "全球",
-    "defaultCategory": "技術元件",
-    "priority": "normal",
+    "priority": "high",
     "enabled": true
   },
   {
     "id": "electrek_ebikes",
-    "name": "Electrek — e-bikes",
+    "name": "Electrek e-bikes",
     "url": "https://electrek.co/guides/ebikes/feed/",
     "kind": "rss",
     "region": "全球",
-    "defaultCategory": "技術元件",
+    "defaultCategory": "品牌新品",
     "priority": "normal",
+    "requiredTerms": ["e-bike", "e bike", "ebike", "electric", "bosch", "shimano", "bafang", "fazua", "mahle", "tq"],
     "enabled": true
   },
   {
     "id": "electrek_scooters",
-    "name": "Electrek — electric scooters",
+    "name": "Electrek electric scooters",
     "url": "https://electrek.co/guides/electric-scooter/feed/",
     "kind": "rss",
     "region": "全球",
     "defaultCategory": "品牌新品",
     "priority": "normal",
+    "requiredTerms": ["e-scooter", "e scooter", "electric scooter", "launch", "launched", "unveiled", "new model", "debut", "preorder", "preorders"],
     "enabled": true
   },
   {
@@ -95,18 +67,9 @@
     "url": "https://electricbikereport.com/feed/",
     "kind": "rss",
     "region": "美國",
-    "defaultCategory": "產業趨勢",
+    "defaultCategory": "品牌新品",
     "priority": "normal",
-    "enabled": true
-  },
-  {
-    "id": "cycling_industry",
-    "name": "Cycling Industry News",
-    "url": "https://www.cyclingindustry.news/feed/",
-    "kind": "rss",
-    "region": "歐洲",
-    "defaultCategory": "產業趨勢",
-    "priority": "normal",
+    "requiredTerms": ["e-bike", "e bike", "ebike", "electric bicycle", "electric scooter"],
     "enabled": true
   },
   {
@@ -117,56 +80,106 @@
     "region": "全球",
     "defaultCategory": "技術元件",
     "priority": "normal",
+    "requiredTerms": ["e-bike", "e bike", "ebike", "electric", "bosch", "shimano", "bafang", "fazua", "mahle", "tq"],
     "enabled": true
   },
   {
-    "id": "news_ebike",
-    "name": "Google News — e-bike 綜覽（近 14 日）",
-    "url": "https://news.google.com/rss/search?q=%28e-bike+OR+electric+bicycle%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen",
+    "id": "cycling_industry",
+    "name": "Cycling Industry News",
+    "url": "https://www.cyclingindustry.news/feed/",
     "kind": "rss",
-    "region": "全球",
+    "region": "歐洲",
     "defaultCategory": "產業趨勢",
     "priority": "normal",
+    "requiredTerms": ["e-bike", "e bike", "ebike", "electric bicycle", "electric scooter", "micromobility"],
     "enabled": true
   },
   {
-    "id": "news_scooter",
-    "name": "Google News — e-scooter 綜覽（近 14 日）",
-    "url": "https://news.google.com/rss/search?q=%28e-scooter+OR+electric+scooter%29+when%3A14d&hl=en-US&gl=US&ceid=US%3Aen",
+    "id": "news_launch",
+    "name": "Google News：新車與新品",
+    "url": "https://news.google.com/rss/search?q=%28e-bike+OR+electric+bicycle+OR+e-scooter+OR+electric+scooter%29+%28launch+OR+unveiled+OR+%22new+model%22+OR+debut+OR+introduced%29+when%3A21d&hl=en-US&gl=US&ceid=US%3Aen",
     "kind": "rss",
     "region": "全球",
     "defaultCategory": "品牌新品",
     "priority": "normal",
-    "enabled": true
-  },
-  {
-    "id": "news_regulation",
-    "name": "Google News — 法規與安全（近 30 日）",
-    "url": "https://news.google.com/rss/search?q=%28e-bike+OR+e-scooter+OR+micromobility%29+%28regulation+OR+law+OR+recall+OR+safety%29+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
-    "kind": "rss",
-    "region": "全球",
-    "defaultCategory": "法規更新",
-    "priority": "high",
+    "requiredTerms": ["launch", "launched", "unveiled", "new model", "debut", "introduces", "introduced", "announces", "reveals", "preorder", "preorders"],
     "enabled": true
   },
   {
     "id": "news_components",
-    "name": "Google News — 電池與驅動技術（近 30 日）",
-    "url": "https://news.google.com/rss/search?q=%28e-bike+OR+electric+scooter%29+%28battery+OR+motor+OR+drive+system+OR+firmware%29+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+    "name": "Google News：電池、馬達與控制",
+    "url": "https://news.google.com/rss/search?q=%28e-bike+OR+electric+bicycle+OR+electric+scooter%29+%28battery+OR+BMS+OR+motor+OR+drivetrain+OR+%22drive+system%22+OR+firmware+OR+controller+OR+charger%29+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
     "kind": "rss",
     "region": "全球",
     "defaultCategory": "技術元件",
     "priority": "normal",
+    "requiredTerms": ["battery", "bms", "e-bike motor", "ebike motor", "mid motor", "hub motor", "drivetrain", "drive system", "drive unit", "firmware", "controller", "charger", "cell", "inverter", "sensor"],
     "enabled": true
   },
   {
-    "id": "news_market",
-    "name": "Google News — 品牌與產業（近 30 日）",
-    "url": "https://news.google.com/rss/search?q=%28e-bike+OR+electric+scooter%29+%28launch+OR+brand+OR+market+OR+investment%29+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+    "id": "news_service",
+    "name": "Google News：重大維修與服務公告",
+    "url": "https://news.google.com/rss/search?q=%28e-bike+OR+electric+bicycle+OR+electric+scooter%29+%28%22service+bulletin%22+OR+%22firmware+update%22+OR+%22software+update%22+OR+warranty+OR+repair+OR+maintenance+OR+recall%29+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+    "kind": "rss",
+    "region": "全球",
+    "defaultCategory": "售後維修",
+    "priority": "high",
+    "requiredTerms": ["service bulletin", "service campaign", "firmware update", "software update", "warranty", "repair", "maintenance", "recall"],
+    "enabled": true
+  },
+  {
+    "id": "news_brand_service",
+    "name": "Google News：Bosch、Shimano 等技術服務",
+    "url": "https://news.google.com/rss/search?q=%28Bosch+eBike+OR+Shimano+STEPS+OR+Bafang+OR+TQ+e-bike+OR+MAHLE+SmartBike+OR+Fazua%29+%28service+OR+update+OR+recall+OR+firmware+OR+warranty%29+when%3A45d&hl=en-US&gl=US&ceid=US%3Aen",
+    "kind": "rss",
+    "region": "全球",
+    "defaultCategory": "售後維修",
+    "priority": "high",
+    "requiredTerms": ["service", "update", "recall", "firmware", "warranty"],
+    "enabled": true
+  },
+  {
+    "id": "news_service_bulletin",
+    "name": "Google News — 重大維修與服務通報",
+    "url": "https://news.google.com/rss/search?q=%28e-bike+OR+electric+bicycle+OR+electric+scooter%29+%28%22service+bulletin%22+OR+%22service+campaign%22+OR+%22firmware+update%22+OR+%22software+update%22+OR+%22technical+bulletin%22+OR+%22repair+program%22+OR+%22dealer+notice%22%29+when%3A60d&hl=en-US&gl=US&ceid=US%3Aen",
+    "kind": "rss",
+    "region": "全球",
+    "defaultCategory": "售後維修",
+    "priority": "high",
+    "requiredTerms": ["service bulletin", "service campaign", "firmware update", "software update", "technical bulletin", "repair program", "dealer notice"],
+    "enabled": true
+  },
+  {
+    "id": "news_drivetrain_service",
+    "name": "Google News — 驅動系統更新與召回",
+    "url": "https://news.google.com/rss/search?q=%28%22Bosch+eBike%22+OR+%22Shimano+STEPS%22+OR+Bafang+OR+%22TQ+e-bike%22+OR+%22MAHLE+SmartBike%22+OR+Fazua%29+%28%22firmware+update%22+OR+%22service+bulletin%22+OR+%22technical+bulletin%22+OR+recall+OR+%22service+campaign%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
+    "kind": "rss",
+    "region": "全球",
+    "defaultCategory": "售後維修",
+    "priority": "high",
+    "requiredTerms": ["firmware update", "service bulletin", "technical bulletin", "recall", "service campaign"],
+    "enabled": true
+  },
+  {
+    "id": "news_regulation",
+    "name": "Google News：法規與補助",
+    "url": "https://news.google.com/rss/search?q=%28e-bike+OR+e-scooter+OR+micromobility%29+%28regulation+OR+law+OR+policy+OR+standard+OR+incentive%29+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+    "kind": "rss",
+    "region": "全球",
+    "defaultCategory": "法規更新",
+    "priority": "high",
+    "requiredTerms": ["regulation", "law", "policy", "standard", "incentive", "subsidy", "ban", "rules"],
+    "enabled": true
+  },
+  {
+    "id": "news_industry",
+    "name": "Google News：供應鏈與市場",
+    "url": "https://news.google.com/rss/search?q=%28e-bike+OR+electric+scooter%29+%28investment+OR+partnership+OR+factory+OR+manufacturing+OR+sales+OR+market%29+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
     "kind": "rss",
     "region": "全球",
     "defaultCategory": "產業趨勢",
     "priority": "normal",
+    "requiredTerms": ["investment", "partnership", "factory", "manufacturing", "sales", "market"],
     "enabled": true
   }
 ]

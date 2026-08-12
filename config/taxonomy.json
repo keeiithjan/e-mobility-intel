@@ -1,16 +1,21 @@
 {
   "relevanceTerms": [
-    "e-bike", "e bike", "ebike", "electric bike", "electric bicycle", "e-bicycle",
-    "pedal assist", "pedelec", "speed pedelec", "e-scooter", "e scooter",
-    "electric scooter", "electric kick scooter", "micromobility", "micro-mobility",
+    "e-bike", "e bike", "ebike", "electric bike", "electric bicycle", "e-bicycle", "pedelec", "pedal assist", "speed pedelec",
+    "e-scooter", "e scooter", "electric scooter", "electric kick scooter", "micromobility", "micro-mobility",
+    "bosch ebike", "shimano steps", "bafang", "tq e-bike", "mahle smartbike", "fazua", "avinox",
     "電動輔助自行車", "電動自行車", "電動滑板車", "微型移動"
   ],
+  "genericIncidentTerms": ["crash", "crashed", "collision", "fatal", "fatality", "killed", "death", "deaths", "injured", "injury", "injuries", "struck by", "accident", "死亡", "受傷", "車禍", "事故"],
+  "actionableSafetyTerms": ["recall", "safety recall", "product warning", "battery fire", "thermal runaway", "fire risk", "hazard", "defect", "consumer product safety", "召回", "產品警告", "電池起火", "瑕疵"],
+  "majorServiceTerms": ["service bulletin", "service campaign", "firmware update", "software update", "ota update", "technical bulletin", "repair program", "dealer notice", "warranty extension", "recall", "服務通報", "維修專案", "韌體更新", "軟體更新", "技術通報", "召回"],
+  "lowSignalTerms": ["review", "reviews", "best electric", "best e-bike", "best ebike", "deals", "deal", "deal alert", "discount", "sale", "shopping", "buy now", "buying guide", "gift guide", "top 5", "top 10", "roundup", "giveaway", "coupon", "protective gear", "accessories sale", "評測", "折扣", "特價", "導購", "選購"],
+  "launchNoiseTerms": ["police", "school board", "schools", "crackdown", "safety blitz", "campaign", "ban", "bans", "rules", "ordinance", "fines", "helmet", "shared mobility", "shared e bikes", "bike share", "scooter share", "pilot program", "lime", "rental", "交通執法", "校園", "禁令", "共享"],
   "categories": [
-    { "name": "法規更新", "terms": ["regulation", "legislation", "law", "legal", "standard", "directive", "rule", "policy", "ordinance", "compliance", "法規", "規範", "標準"] },
-    { "name": "安全召回", "terms": ["recall", "warning", "safety", "fire", "hazard", "battery fire", "injury", "crash", "安全", "召回", "火災"] },
-    { "name": "技術元件", "terms": ["battery", "bms", "motor", "drive unit", "drive system", "controller", "charger", "cell", "inverter", "brake", "tire", "firmware", "sensor", "torque", "電池", "馬達", "控制器"] },
-    { "name": "品牌新品", "terms": ["launch", "new model", "introduces", "unveils", "release", "product", "debut", "announces", "新品", "上市", "發表"] },
-    { "name": "產業趨勢", "terms": ["market", "trend", "investment", "partnership", "supply chain", "funding", "sales", "demand", "industry", "市場", "趨勢", "投資", "供應鏈"] }
-  ],
-  "urgencyTerms": ["recall", "warning", "fire", "injury", "crash", "fatal", "hazard", "召回", "警告", "火災", "事故"]
+    { "name": "售後維修", "terms": ["service bulletin", "service campaign", "firmware update", "software update", "over the air", "ota update", "warranty", "repair", "maintenance", "dealer service", "technical bulletin", "維修", "保固", "軟體更新", "韌體更新", "技術通報"] },
+    { "name": "技術元件", "terms": ["battery", "bms", "motor", "drive unit", "drive system", "drivetrain", "controller", "charger", "cell", "inverter", "firmware", "sensor", "torque", "brake", "motor control", "電池", "馬達", "驅動系統", "控制器", "充電器", "感測器"] },
+    { "name": "品牌新品", "terms": ["launch", "new model", "introduces", "unveils", "release", "debut", "announces", "reveals", "first look", "新品", "新車", "發表", "上市"] },
+    { "name": "法規更新", "terms": ["regulation", "legislation", "law", "legal", "standard", "directive", "rule", "policy", "ordinance", "compliance", "incentive", "subsidy", "法規", "規範", "標準", "補助"] },
+    { "name": "安全召回", "terms": ["recall", "product warning", "battery fire", "thermal runaway", "hazard", "defect", "召回", "產品警告", "瑕疵"] },
+    { "name": "產業趨勢", "terms": ["market", "trend", "investment", "partnership", "supply chain", "funding", "sales", "demand", "industry", "factory", "manufacturing", "市場", "投資", "合作", "供應鏈", "產業"] }
+  ]
 }

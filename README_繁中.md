@@ -1,129 +1,56 @@
-# 電動微型移動情報工作台（MVP）
+# 電動微型移動情報工作台
 
-這是一個可在本機、GitHub Codespaces 與 GitHub Actions 運作的每日情報系統，追蹤：
+每天由 GitHub Actions 收集 e-bike 與 e-scooter 的新品、技術元件、重大維修／軟體更新、法規與正式召回。首頁是精選情報，不是事故新聞牆。
 
-- 電動輔助自行車（e-bike）趨勢、零組件、知識與技術
-- 電動滑板車（e-scooter）趨勢、零組件、知識與技術
-- 臺灣、歐盟與美國的法規／安全／召回更新
-- 品牌新品與官方公告
+## 現在的閱讀方式
 
-每次執行會建立來源可追溯的日報、CSV、PPT 素材，以及可雙擊開啟的視覺化工作台。
+- 首頁最多顯示 28 則精選；一則一列：縮圖、繁中短摘要與原文連結。
+- 新品、技術元件與重大維修優先；首頁會保留各類別，不讓單一主題佔滿版面。
+- 一般車禍、受傷與事故報導會排除；具有召回、火災風險或產品瑕疵等可執行安全資訊才保留。
+- 所有通過篩選的紀錄仍保存於 `state/seen_items.json`（上限 240 筆），可供後續統計；首頁不顯示全部累積資料。
+- PPT 候選只列高優先資料，可直接開原文取得圖片、規格與引用來源。
 
 ## 每日輸出
 
-執行後會產生 `daily-output\YYYY-MM-DD\`：
+每次執行會建立 `daily-output/YYYY-MM-DD/`：
 
-- `information_log.csv`：可直接匯入 Excel、Notion 或 Airtable 的資料表。
-- `daily_brief.md`：每日摘要。
-- `ppt_material.md`／`ppt_material.json`：可挑選進簡報的素材與來源網址。
-- `run_report.json`：本次抓取與來源健康狀態。
-- `資訊工作台.html`：位於專案根目錄；雙擊即可看卡片、分類篩選、PPT 候選與來源健康狀態。
+- `information_log.csv`：可開啟於 Excel，含原文、繁中標題／摘要、圖片網址、來源網址與引用格式。
+- `daily_brief.md`：當日可讀的重點摘要。
+- `ppt_material.md` 與 `ppt_material.json`：簡報素材索引。
+- `run_report.json`：來源連線與擷取狀態。
+- `資訊工作台.html`：可直接雙擊開啟的完整工作台；GitHub Pages 也使用此檔。
 
-每一筆資料均保留原始網址。請開啟原始來源後再作正式引用或對外發布。
+## 自然繁中摘要（建議啟用）
 
-## 情報庫顯示方式
+要把英文資訊整理成自然、簡短的繁中標題與摘要，請在 GitHub repository 設定一個 Secret。金鑰只存在 GitHub Actions，不會寫入程式碼、工作台或公開網頁。
 
-工作台不是只顯示「今天剛出現」的資料。它會保留最近 240 筆通過篩選的情報，優先顯示有發布日期的近期消息；同一天內，安全、法規與高重要性項目會排在前面。首頁的「今天新增」則只表示本次抓取第一次發現的項目數。
+1. GitHub 專案開啟 `Settings` → `Secrets and variables` → `Actions`。
+2. 點 `New repository secret`。
+3. Name 填入 `OPENAI_API_KEY`。
+4. Value 貼上自己的 OpenAI API key，按 `Add secret`。
+5. 到 `Actions` → `Daily e-mobility intelligence` → `Run workflow` 手動跑一次。
 
-預設來源包含臺灣／歐盟／美國官方法規與召回資訊，以及 e-bike、e-scooter、零組件、產業新聞的 RSS 與 Google News RSS，共 17 個來源。所有卡片都保留原始報導網址與發布來源，方便回查與製作 PPT。
+啟用後，系統會把每輪精選資料交給模型，以原文標題和摘要寫成 35–60 字的繁中短整理；不會補造規格、數字或結論。未設定 Secret 時，收集與網頁照常運作，但只顯示原文標題／摘要。
 
-### 圖文與繁中判讀
+## GitHub Actions 與 GitHub Pages
 
-工作台會先從 RSS 擷取報導縮圖；若 RSS 未提供，會為近期情報讀取原文頁的公開社群縮圖，最多補 60 張。圖片只作內部情報辨識，對外簡報前仍須確認原始網站的使用授權。
-
-每張卡同時呈現原文標題／摘要與「中文判讀、建議行動、PPT 切角」。這些繁中欄位是依分類與關鍵字產生的工作提示，不是原文翻譯或正式事實認定；法規、規格、安全與召回仍必須回到原始來源確認。
-
-## 本機操作 SOP
-
-在專案根目錄執行：
-
-```powershell
-# 1. 第一次：確認畫面與輸出格式，不連網
-node .\scripts\daily_intel.mjs --demo
-
-# 2. 第一次正式使用：只建立基準，不把舊新聞當成今天的新情報
-node .\scripts\daily_intel.mjs --baseline
-
-# 3. 之後每天執行一次：只匯出新項目
-node .\scripts\daily_intel.mjs
-
-# 4. 開啟視覺工作台
-Invoke-Item .\資訊工作台.html
-```
-
-要查看今天的輸出，將 `YYYY-MM-DD` 換成實際日期，例如：
-
-```powershell
-Invoke-Item .\daily-output\2026-08-05
-```
-
-## GitHub 遠端工作室
-
-GitHub 私有 repository 是程式、設定與日報的唯一主版本；不要讓三台電腦同時各自執行抓取，否則 `state\seen_items.json` 容易發生版本衝突。建議由 GitHub Actions 每天執行一次，三台電腦只讀取、編輯設定或使用 Codespaces。
-
-### 一次性發布（Windows）
-
-先安裝並登入 GitHub CLI：
-
-```powershell
-winget install --id GitHub.cli
-# 關閉後重新開啟 PowerShell，再執行：
-gh auth login
-```
-
-登入時選擇 `GitHub.com`、`HTTPS`、`Login with a web browser`。接著，在此專案根目錄執行：
-
-```powershell
-git init
-git branch -M main
-git add .
-git commit -m "Initial e-mobility intelligence workspace"
-gh repo create e-mobility-intel --private --source=. --remote=origin --push
-```
-
-這會在你的 GitHub 帳號建立私有的 `e-mobility-intel` repository。若名稱已被使用，將最後一行的名稱換成別的即可。
-
-### 從任一台電腦工作
-
-```powershell
-git clone https://github.com/<你的帳號>/e-mobility-intel.git
-Set-Location .\e-mobility-intel
-node .\scripts\daily_intel.mjs
-```
-
-或者直接在 GitHub repository 按 `Code` → `Codespaces` → `Create codespace on main`，可在瀏覽器中編輯與執行，不必先安裝 Node.js。Codespaces 是否免費及可用時數取決於你的 GitHub 方案。
-
-### 自動日報
-
-`.github/workflows/daily-intel.yml` 會在臺北時間約 08:15 自動執行（GitHub 排程可能延遲），第一天自動建立基準，之後只儲存新項目。它會自動提交 `daily-output`、`state` 與 `資訊工作台.html`。在 GitHub repository 的 `Actions` 分頁可查看執行紀錄。
-
-### 公開網頁工作台（選用）
-
-私有 repository 不代表 GitHub Pages 內容也私有；多數 GitHub 方案的 Pages 網址仍可被公開瀏覽。若日報不含任何內部情報，才可執行下列命令，並在 `Settings` → `Pages` 選擇 `GitHub Actions`：
+- `Daily e-mobility intelligence` 是唯一每日抓取者，預定約臺北時間 08:15 執行（GitHub 排程可能有延遲）。其他電腦只需開啟 GitHub Pages 或 `git pull`，不需各自執行抓取。
+- 若尚未建立 Pages 發布工作流程，執行：
 
 ```powershell
 Copy-Item .\templates\github-pages.yml.example .\.github\workflows\publish-dashboard.yml
-git add .github\workflows\publish-dashboard.yml
-git commit -m "feat: publish dashboard to GitHub Pages"
-git push
 ```
 
-如果資料僅供內部使用，請保持此範例檔不啟用；改在任一台電腦 clone 後雙擊 `資訊工作台.html`，或在 Codespaces 執行 `python3 -m http.server 8000` 後使用 Ports 預覽。
+再到 GitHub `Settings` → `Pages`，將 Source 選成 `GitHub Actions`。公開網址是：
 
-## 資料與來源調整
+`https://keeiithjan.github.io/e-mobility-intel/`
 
-修改 `config\sources.json`：
+## 本機測試（只在需要調整系統時）
 
-- `enabled`：是否抓取來源。
-- `kind`：網頁請用 `web`；RSS／Atom 請用 `rss`。
-- `region`：來源地區。
-- `defaultCategory`：預設分類。
-- `priority`：來源的初始優先級。
+```powershell
+node .\scripts\daily_intel.mjs --demo
+node .\scripts\daily_intel.mjs --baseline
+Invoke-Item .\資訊工作台.html
+```
 
-部分官網可能擋自動抓取或變更網址；請查看每日的 `run_report.json`，再更新對應來源網址或改用其 RSS／官方新聞頁。
-
-## 同步原則
-
-- GitHub：程式、來源設定、歷史日報、狀態檔與視覺工作台。
-- OneDrive（可選）：PPT 與 Excel 的人工編修版本、圖片素材及大檔案。
-- 機密資料（API key、帳密）絕不應放進 repository；請放在 `.env` 或 GitHub Secrets。
+日常不需要在每台電腦執行上述命令；讓 GitHub Actions 自動處理即可。

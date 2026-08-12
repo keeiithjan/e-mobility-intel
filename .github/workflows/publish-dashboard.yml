@@ -1,5 +1,3 @@
-# Optional: copy this file to .github/workflows/publish-dashboard.yml
-# before enabling GitHub Pages. Published Pages content is commonly public.
 name: Publish intelligence dashboard
 
 on:

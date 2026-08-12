@@ -16,6 +16,11 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    env:
+      # The secret is optional. When absent, the collector still runs and keeps
+      # the original title/summary; when set, it writes concise Traditional Chinese briefs.
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_MODEL: gpt-5-mini
 
     steps:
       - name: Check out the workspace
@@ -30,9 +35,9 @@ jobs:
         shell: bash
         run: |
           if [ -f state/seen_items.json ]; then
-            node scripts/daily_intel.mjs
+            node scripts/daily_intel.mjs --ai-summary-limit 28
           else
-            node scripts/daily_intel.mjs --baseline
+            node scripts/daily_intel.mjs --baseline --ai-summary-limit 28
           fi
 
       - name: Save reports and deduplication state
