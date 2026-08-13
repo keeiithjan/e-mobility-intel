@@ -2,6 +2,11 @@ name: Publish intelligence dashboard
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows:
+      - Daily e-mobility intelligence
+    types:
+      - completed
   push:
     branches:
       - main
@@ -20,6 +25,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
