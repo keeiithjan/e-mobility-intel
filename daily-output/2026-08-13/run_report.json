@@ -1,14 +1,8 @@
 {
   "runDate": "2026-08-13",
   "mode": "live",
-  "fetchedAt": "2026-08-13T10:01:52.569Z",
+  "fetchedAt": "2026-08-13T11:21:45.026Z",
   "sources": [
-    {
-      "id": "cpsc_micro",
-      "name": "U.S. CPSC Micromobility",
-      "status": "ok",
-      "candidates": 45
-    },
     {
       "id": "cpsc_recalls",
       "name": "U.S. CPSC Recalls",
@@ -16,22 +10,10 @@
       "candidates": 45
     },
     {
-      "id": "cycling_industry",
-      "name": "Cycling Industry News",
-      "status": "failed",
-      "error": "HTTP 403"
-    },
-    {
-      "id": "electrek_scooters",
-      "name": "Electrek electric scooters",
+      "id": "cpsc_micro",
+      "name": "U.S. CPSC Micromobility",
       "status": "ok",
-      "candidates": 100
-    },
-    {
-      "id": "electrek_ebikes",
-      "name": "Electrek e-bikes",
-      "status": "ok",
-      "candidates": 100
+      "candidates": 45
     },
     {
       "id": "bikerumor",
@@ -40,10 +22,10 @@
       "candidates": 10
     },
     {
-      "id": "electricbike_report",
-      "name": "Electric Bike Report",
-      "status": "ok",
-      "candidates": 100
+      "id": "cycling_industry",
+      "name": "Cycling Industry News",
+      "status": "failed",
+      "error": "HTTP 403"
     },
     {
       "id": "tw_thb",
@@ -70,12 +52,6 @@
       "candidates": 53
     },
     {
-      "id": "news_regulation",
-      "name": "Google News：法規與補助",
-      "status": "ok",
-      "candidates": 100
-    },
-    {
       "id": "news_service",
       "name": "Google News：重大維修與服務公告",
       "status": "ok",
@@ -84,6 +60,12 @@
     {
       "id": "news_industry",
       "name": "Google News：供應鏈與市場",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "news_regulation",
+      "name": "Google News：法規與補助",
       "status": "ok",
       "candidates": 100
     },
@@ -104,16 +86,34 @@
       "name": "全國法規資料庫",
       "status": "ok",
       "candidates": 11
+    },
+    {
+      "id": "electrek_ebikes",
+      "name": "Electrek e-bikes",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "electricbike_report",
+      "name": "Electric Bike Report",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "electrek_scooters",
+      "name": "Electrek electric scooters",
+      "status": "ok",
+      "candidates": 100
     }
   ],
   "totalCandidates": 966,
-  "totalRelevant": 151,
-  "totalNew": 3,
-  "totalExported": 3,
-  "totalHistory": 176,
+  "totalRelevant": 100,
+  "totalNew": 4,
+  "totalExported": 4,
+  "totalHistory": 169,
   "imageEnrichment": {
-    "attempted": 36,
-    "found": 36
+    "attempted": 34,
+    "found": 34
   },
   "aiSummary": {
     "status": "skipped",
