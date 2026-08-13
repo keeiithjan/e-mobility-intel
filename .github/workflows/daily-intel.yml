@@ -2,9 +2,17 @@ name: Daily e-mobility intelligence
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/daily-intel.yml"
+      - "config/**"
+      - "scripts/daily_intel.mjs"
+      - "templates/intel_dashboard.html"
   schedule:
-    # 00:15 UTC is approximately 08:15 in Taipei (UTC+8).
-    - cron: "15 0 * * *"
+    # 23:30 UTC is 07:30 in Taipei (UTC+8) on the following calendar day.
+    - cron: "30 23 * * *"
 
 permissions:
   contents: write

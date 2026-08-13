@@ -471,6 +471,7 @@ async function writeDashboard(items, report, taxonomy) {
     date: isoDate,
     mode: report.mode,
     modeLabel: report.mode === 'demo' ? '示例模式' : (report.mode === 'baseline' ? '建立資料庫' : '每日更新'),
+    updatedAt: report.fetchedAt,
     newCount: report.totalNew,
     displayedCount: featured.length,
     historyCount: items.length,
