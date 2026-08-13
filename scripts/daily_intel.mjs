@@ -194,15 +194,38 @@ function sourceName(item) {
   return item.publisher || item.source?.name || '未知來源';
 }
 
+function inferPublishedAt(item) {
+  const explicit = Date.parse(item.publishedAt || '');
+  if (Number.isFinite(explicit)) return item.publishedAt;
+  const url = String(item.articleUrl || '');
+  const match = url.match(/\/((?:19|20)\d{2})(?:[\/-](\d{1,2})(?:[\/-](\d{1,2}))?)?(?=\/|$)/);
+  if (!match) return '';
+  const year = match[1];
+  const month = String(Math.min(12, Math.max(1, Number(match[2] || 1)))).padStart(2, '0');
+  const day = String(Math.min(31, Math.max(1, Number(match[3] || 1)))).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
 function itemTimestamp(item) {
-  const parsed = Date.parse(item.publishedAt || '');
+  const parsed = Date.parse(item.publishedAt || inferPublishedAt(item));
   return Number.isFinite(parsed) ? parsed : 0;
 }
 
 function itemAgeDays(item) {
   const timestamp = itemTimestamp(item);
-  if (!timestamp) return 45;
+  if (!timestamp) return Infinity;
   return Math.max(0, (Date.now() - timestamp) / 86400000);
+}
+
+function defaultMaxAgeDays(category = '') {
+  if (category === '安全召回') return 365;
+  if (category === '法規更新' || category === '售後維修') return 180;
+  return 90;
+}
+
+function isWithinFreshnessWindow(item) {
+  const maxAgeDays = Number(item.source?.maxAgeDays ?? defaultMaxAgeDays(item.category));
+  return itemTimestamp(item) > 0 && itemAgeDays(item) <= maxAgeDays;
 }
 
 function isGenericIncident(item, taxonomy) {
@@ -216,29 +239,32 @@ function isLowSignal(item, taxonomy) {
 }
 
 function scoreItem(item, taxonomy) {
-  const haystack = normalize(`${item.title} ${item.summary}`);
-  const titleStack = normalize(item.title);
+  const publishedAt = inferPublishedAt(item);
+  const datedItem = publishedAt && publishedAt !== item.publishedAt ? { ...item, publishedAt } : item;
+  const haystack = normalize(`${datedItem.title} ${datedItem.summary}`);
+  const titleStack = normalize(datedItem.title);
   const relevant = containsAny(haystack, taxonomy.relevanceTerms);
-  if (isGenericIncident(item, taxonomy)) return { ...item, relevant: false, excludedReason: 'generic_incident', titleKey: normalize(item.title) };
-  if (isLowSignal(item, taxonomy)) return { ...item, relevant: false, excludedReason: 'low_signal', titleKey: normalize(item.title) };
-  if (item.source.requiredTerms?.length && !containsRequiredAny(titleStack, item.source.requiredTerms)) {
-    return { ...item, relevant: false, excludedReason: 'source_focus_mismatch', titleKey: normalize(item.title) };
+  if (isGenericIncident(datedItem, taxonomy)) return { ...datedItem, relevant: false, excludedReason: 'generic_incident', titleKey: normalize(datedItem.title) };
+  if (isLowSignal(datedItem, taxonomy)) return { ...datedItem, relevant: false, excludedReason: 'low_signal', titleKey: normalize(datedItem.title) };
+  if (!isWithinFreshnessWindow(datedItem)) return { ...datedItem, relevant: false, excludedReason: 'stale_or_undated', titleKey: normalize(datedItem.title) };
+  if (datedItem.source.requiredTerms?.length && !containsRequiredAny(titleStack, datedItem.source.requiredTerms)) {
+    return { ...datedItem, relevant: false, excludedReason: 'source_focus_mismatch', titleKey: normalize(datedItem.title) };
   }
-  if (item.source.id === 'news_launch' && containsAny(haystack, taxonomy.launchNoiseTerms)) {
-    return { ...item, relevant: false, excludedReason: 'launch_context_noise', titleKey: normalize(item.title) };
+  if (datedItem.source.id === 'news_launch' && containsAny(haystack, taxonomy.launchNoiseTerms)) {
+    return { ...datedItem, relevant: false, excludedReason: 'launch_context_noise', titleKey: normalize(datedItem.title) };
   }
   const category = taxonomy.categories
-    .map((entry) => ({ name: entry.name, matches: entry.terms.filter((term) => haystack.includes(normalize(term))).length, preferred: entry.name === item.source.defaultCategory }))
+    .map((entry) => ({ name: entry.name, matches: entry.terms.filter((term) => haystack.includes(normalize(term))).length, preferred: entry.name === datedItem.source.defaultCategory }))
     .filter((entry) => entry.matches > 0)
     .sort((a, b) => b.matches - a.matches || Number(b.preferred) - Number(a.preferred))[0]?.name
-    ?? item.source.defaultCategory;
+    ?? datedItem.source.defaultCategory;
   const actionableSafety = containsAny(haystack, taxonomy.actionableSafetyTerms);
   const finalCategory = actionableSafety ? '安全召回' : category;
   if (finalCategory === '售後維修' && !actionableSafety && !containsAny(haystack, taxonomy.majorServiceTerms)) {
-    return { ...item, relevant: false, excludedReason: 'not_major_service', titleKey: normalize(item.title) };
+    return { ...datedItem, relevant: false, excludedReason: 'not_major_service', titleKey: normalize(datedItem.title) };
   }
-  const importance = actionableSafety ? 'high' : (['法規更新', '售後維修'].includes(finalCategory) ? 'high' : item.source.priority);
-  return { ...item, category: finalCategory, importance, relevant, titleKey: normalize(item.title) };
+  const importance = actionableSafety ? 'high' : (['法規更新', '售後維修'].includes(finalCategory) ? 'high' : datedItem.source.priority);
+  return { ...datedItem, category: finalCategory, importance, relevant, titleKey: normalize(datedItem.title) };
 }
 
 function focusScore(item) {
@@ -449,7 +475,7 @@ async function saveState(state) {
 }
 
 function dashboardItems(items, taxonomy) {
-  const pool = items.filter((item) => !isGenericIncident(item, taxonomy)).sort(sortItems);
+  const pool = items.filter((item) => !isGenericIncident(item, taxonomy) && isWithinFreshnessWindow(item)).sort(sortItems);
   const minimumMix = { '技術元件': 9, '品牌新品': 9, '售後維修': 5, '法規更新': 3, '安全召回': 2, '產業趨勢': 1 };
   const picked = [];
   for (const [category, amount] of Object.entries(minimumMix)) {
@@ -551,7 +577,7 @@ async function main() {
     await createChineseBriefs(ordered, report);
   }
   const state = isDemo ? { knownKeys: [], history: [], lastRun: null } : await loadState();
-  state.history = dedupeTopics(state.history.filter((item) => !isGenericIncident(item, taxonomy)));
+  state.history = dedupeTopics(state.history.filter((item) => !isGenericIncident(item, taxonomy) && isWithinFreshnessWindow(item)));
   const known = new Set(state.knownKeys);
   const newItems = isDemo ? ordered : ordered.filter((item) => itemKeys(item).every((key) => !known.has(key)));
   if (!isDemo) {

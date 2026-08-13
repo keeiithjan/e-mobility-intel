@@ -27,6 +27,7 @@
     "region": "美國",
     "defaultCategory": "安全召回",
     "priority": "high",
+    "maxAgeDays": 365,
     "enabled": true
   },
   {
@@ -37,6 +38,7 @@
     "region": "美國",
     "defaultCategory": "安全召回",
     "priority": "high",
+    "maxAgeDays": 365,
     "enabled": true
   },
   {
