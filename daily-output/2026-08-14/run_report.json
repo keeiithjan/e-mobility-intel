@@ -1,7 +1,7 @@
 {
   "runDate": "2026-08-14",
   "mode": "live",
-  "fetchedAt": "2026-08-14T00:08:16.218Z",
+  "fetchedAt": "2026-08-14T23:49:18.117Z",
   "sources": [
     {
       "id": "cpsc_micro",
@@ -14,6 +14,12 @@
       "name": "U.S. CPSC Recalls",
       "status": "ok",
       "candidates": 45
+    },
+    {
+      "id": "electrek_scooters",
+      "name": "Electrek electric scooters",
+      "status": "ok",
+      "candidates": 100
     },
     {
       "id": "electrek_ebikes",
@@ -58,20 +64,26 @@
       "candidates": 53
     },
     {
+      "id": "tw_law",
+      "name": "全國法規資料庫",
+      "status": "ok",
+      "candidates": 11
+    },
+    {
+      "id": "tw_thb",
+      "name": "交通部公路局",
+      "status": "ok",
+      "candidates": 45
+    },
+    {
       "id": "news_service",
       "name": "Google News：重大維修與服務公告",
       "status": "ok",
-      "candidates": 54
+      "candidates": 59
     },
     {
       "id": "news_regulation",
       "name": "Google News：法規與補助",
-      "status": "ok",
-      "candidates": 100
-    },
-    {
-      "id": "news_launch",
-      "name": "Google News：新車與新品",
       "status": "ok",
       "candidates": 100
     },
@@ -82,38 +94,26 @@
       "candidates": 100
     },
     {
+      "id": "news_launch",
+      "name": "Google News：新車與新品",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
       "id": "news_components",
       "name": "Google News：電池、馬達與控制",
       "status": "ok",
       "candidates": 100
-    },
-    {
-      "id": "tw_thb",
-      "name": "交通部公路局",
-      "status": "ok",
-      "candidates": 45
-    },
-    {
-      "id": "tw_law",
-      "name": "全國法規資料庫",
-      "status": "ok",
-      "candidates": 11
-    },
-    {
-      "id": "electrek_scooters",
-      "name": "Electrek electric scooters",
-      "status": "ok",
-      "candidates": 100
     }
   ],
-  "totalCandidates": 965,
-  "totalRelevant": 110,
-  "totalNew": 7,
-  "totalExported": 7,
-  "totalHistory": 175,
+  "totalCandidates": 970,
+  "totalRelevant": 106,
+  "totalNew": 4,
+  "totalExported": 4,
+  "totalHistory": 178,
   "imageEnrichment": {
-    "attempted": 34,
-    "found": 34
+    "attempted": 31,
+    "found": 31
   },
   "aiSummary": {
     "status": "skipped",
