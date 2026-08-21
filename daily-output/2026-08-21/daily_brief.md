@@ -1,0 +1,25 @@
+# 電動微型移動每日情報｜2026-08-21
+
+本次新增 **4** 項。
+
+## 法規更新
+
+- **[E-bike law can help protect Central Valley kids if signed by the Governor - YourCentralValley.com](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFNvZ2FYU2VZakdJcDQ4OGNDTTd1aVhFS0pBX3ZrbEJNdzAtTUhTem1vWmkzUXlwUXU5U3M5elhOYTRyNWJRdEJ6aTN3OGw1b0JPdWYxYXM1OHU0MEtQTDR0aS1VcFVHS3dOSmpPWThWN015Z05MX0lLZlhXb2FJRHpIUmV4RkptOU9aTmlzODHSAZYBQVVfeXFMTmVRcUpqdXo3YnVfM29FNG41QkMydmJkdDd0YTVVWllDLXFIYzV0UTJZcEhYdkMxVHo0MVBlbXppLTlpMGRSNkdwYXBzYllMSUlpaXFpY1VvRzg2WUtqY2lNUVpaZGlUaV9SeTJLVU1oektES1pzaTF0X0JsX0c2THhVV2RacWRRVUZJZVlILWZfQW9oZjRn?oc=5)**｜YourCentralValley.com｜Thu, 20 Aug 2026 05:13:39 GMT  
+  E-bike law can help protect Central Valley kids if signed by the Governor &nbsp;&nbsp; YourCentralValley.com
+- **[E-bike or e-moto? What Wisconsin law says about classes, speeds and where you can ride - FOX Carolina News](https://news.google.com/rss/articles/CBMixAFBVV95cUxQaUo0S21VZFhTMG1QdmFueWVHM2N3UXAzc3N6b21TWW1QUlpzSWE0Q3JoX01GeUY3RjN0aGdlRHdfYkVrLWJ6VFp6RHlva2RCTVRoODlQMVV1MU9RZ25YR0gta2RUbjZBbXRseDFWZ0Q1Y1pnVWhIYU52VFNLMk9ldUNrNDhGZkJPaGxZMHYtM05RQkU1SEZxQUFBYm9HOS1KQTByNGJoSW1zaDVxWF9MXzBkSVpkMU1EeHJLYk1ybDZqQWts?oc=5)**｜FOX Carolina News｜Sat, 15 Aug 2026 03:27:00 GMT  
+  E-bike or e-moto? What Wisconsin law says about classes, speeds and where you can ride &nbsp;&nbsp; FOX Carolina News
+
+## 品牌新品
+
+- **[Ather Konarc Name For New Electric Scooter - Launch On Aug 29 - RushLane](https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVJKNUtnelNaM2x4VFY3dG82V1Rud2ZQUTJuY0taNndxTHdvNEtpaFFMamJhY045aWIzQWFoYzZtT2JRVHpGTF9ndVhoTXNESGhNWkxibFlGMlNQQ2dwUkpNTHZINU1pSmNZRWwyTFUtVTBoOVA2NWxCc2Y2RDhHSFJlcDRIYm5pYVRjcjI1TDYyQkRqZ2hOdVA3Z1NGcmPSAZ8BQVVfeXFMUEFSSjVLZ3pTWjNseFRWN3RvNldUbndmUFEybmNLWjZ3cUx3bzRLaWhRTGpiYWNOOWliM0FhaGM2bU9iUVR6RkxfZ3VYaE1zREhoTVpMYmxZRjJTUENncFJKTUx2SDVNaUpjWUVsMkxVLVUwaDlQNjVsQnNmNkQ4R0hSZXA0SGJuaWFUY3IyNUw2MkJEamdoTnVQN2dTRnJj?oc=5)**｜RushLane｜Wed, 05 Aug 2026 07:00:00 GMT  
+  Ather Konarc Name For New Electric Scooter - Launch On Aug 29 &nbsp;&nbsp; RushLane
+
+## 技術元件
+
+- **[Vietnamese EV maker VinFast is betting big on its electric scooters as it aims to expand its showrooms and battery-swapping stations in the Philippines. I via ANC 24/7 Full story link in the comments section. - facebook.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFRETXpqNk1nODVoYWsyNGFLWTFWdWFibk5xNzdmS1JFdEZ1di1CeWgtUWZURUdibHpSN3FYODVVcHc3dGQtdERnaXVRajdRcXJOdm1KNGNmX1ZGc0hIRHVlSW44VHRGSExfaTRoZm9MX2x2bXpMbGtjZHZ4SU15cjREa045LVhqQ1BHcURMU1k4WkVsLXNNTG11Q0pFZ0VBR3h0STBobXRKNV9OUWNwbTFZaENsT1FvZzZkandQYS16a2Z4OFRsMzhsemVKb093ZktVS1ZRaw?oc=5)**｜facebook.com｜Mon, 03 Aug 2026 07:00:00 GMT  
+  Vietnamese EV maker VinFast is betting big on its electric scooters as it aims to expand its showrooms and battery-swapping stations in the Philippines. I via ANC 24/7 Full story link in the comments section. &nbsp;&nbsp; facebook.com
+
+## 使用提醒
+
+- 繁中摘要由 AI 依原文標題與摘要整理；法規、規格、維修與召回請回到原文確認。
+- 圖片若有提供，對外使用前請確認原始網站的授權。
