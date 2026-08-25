@@ -1,0 +1,57 @@
+# PowerPoint 素材候選｜2026-08-25
+
+## 1. Product Safety Information Notice on Battery power charger for electric scooters sold on the eBay platform - Competition and Consumer Protection Commission
+
+- 分類：技術元件｜全球
+- 摘要：Product Safety Information Notice on Battery power charger for electric scooters sold on the eBay platform &nbsp;&nbsp; Competition and Consumer Protection Commission
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Competition and Consumer Protection Commission](https://news.google.com/rss/articles/CBMinwJBVV95cUxOVEsxbk42VWhLTkRrSEtRajVmSTNqUlVVaUt1ckhfMjBLMC12TE0ya2txanJKMjk5NTVmbGhEampoWldfc0VTaVlVdTBsQUJVRm5nM1ZIVndTWkxuOTM3UDI0bVAtaFd6emVnZFhCbUlIYVU0RnZHbFBBS2FWQjc4QVhXZ3p6Z0txNUV6eHotMjVYaG5HMzA2aVlXTWx2S2ZYRXJNck1PaTgxMzI1NnlJemx1Y1lCZ2x3cDM0WnoxeTNhWlhkZUZhcG41b0VWWllpVVJTRnQ1SUxDbDktdVBXNWVaaTZ5ODdiZFpFUEx0Yk5JdmNzbm9jb2dXaHpzMGZPY3YzQllwbmNaT2YzaXRXTDFLS21tdjd0ckQ4cHE4dw?oc=5)
+- 引用：Competition and Consumer Protection Commission｜Tue, 25 Aug 2026 12:05:28 GMT｜Product Safety Information Notice on Battery power charger for electric scooters sold on the eBay platform - Competition and Consumer Protection Commission｜https://news.google.com/rss/articles/CBMinwJBVV95cUxOVEsxbk42VWhLTkRrSEtRajVmSTNqUlVVaUt1ckhfMjBLMC12TE0ya2txanJKMjk5NTVmbGhEampoWldfc0VTaVlVdTBsQUJVRm5nM1ZIVndTWkxuOTM3UDI0bVAtaFd6emVnZFhCbUlIYVU0RnZHbFBBS2FWQjc4QVhXZ3p6Z0txNUV6eHotMjVYaG5HMzA2aVlXTWx2S2ZYRXJNck1PaTgxMzI1NnlJemx1Y1lCZ2x3cDM0WnoxeTNhWlhkZUZhcG41b0VWWllpVVJTRnQ1SUxDbDktdVBXNWVaaTZ5ODdiZFpFUEx0Yk5JdmNzbm9jb2dXaHpzMGZPY3YzQllwbmNaT2YzaXRXTDFLS21tdjd0ckQ4cHE4dw?oc=5｜擷取日 2026-08-25
+
+## 2. MATTER To Launch Four New Electric Bikes in Next 24 Months, Expand AERA Technology - BikeJunction
+
+- 分類：品牌新品｜全球
+- 摘要：MATTER To Launch Four New Electric Bikes in Next 24 Months, Expand AERA Technology &nbsp;&nbsp; BikeJunction
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[BikeJunction](https://news.google.com/rss/articles/CBMijwFBVV95cUxQeW5TalVfV1B3MU9QekRYWUI1dXpzR3UxTmlMVTRuTmpkZy16Y1BkQnB4R0k1bjV5NU1Jek5iOHpldFJLTU8tSXR4TEtCNGFiaE5STmZPZ21XejJNZHg0WThQQVJYczgyTjBfUWRjT2tkWGxNZ2dqcWw0dE55M3FSYlc4M18wOWdSM2lCcEYxa9IBlAFBVV95cUxOelRRUnpfLUstQUJJUnpiYXBDMG5rMU1Ec1ZGMXdMRE1WWHNrU2x6cU1MdDRnOWdRR2I4ai1UUThSMzE4cy02ajZVeVRXYzllRnhuVkpBc0hwNlZjcFE1azZuUDhpVVpldHB2OWVxWDF5dGFZamx1anY4dTlLaUxmeVVoUXBjOE9vR3dZTy05Sm9tWkR1?oc=5)
+- 引用：BikeJunction｜Tue, 25 Aug 2026 12:29:14 GMT｜MATTER To Launch Four New Electric Bikes in Next 24 Months, Expand AERA Technology - BikeJunction｜https://news.google.com/rss/articles/CBMijwFBVV95cUxQeW5TalVfV1B3MU9QekRYWUI1dXpzR3UxTmlMVTRuTmpkZy16Y1BkQnB4R0k1bjV5NU1Jek5iOHpldFJLTU8tSXR4TEtCNGFiaE5STmZPZ21XejJNZHg0WThQQVJYczgyTjBfUWRjT2tkWGxNZ2dqcWw0dE55M3FSYlc4M18wOWdSM2lCcEYxa9IBlAFBVV95cUxOelRRUnpfLUstQUJJUnpiYXBDMG5rMU1Ec1ZGMXdMRE1WWHNrU2x6cU1MdDRnOWdRR2I4ai1UUThSMzE4cy02ajZVeVRXYzllRnhuVkpBc0hwNlZjcFE1azZuUDhpVVpldHB2OWVxWDF5dGFZamx1anY4dTlLaUxmeVVoUXBjOE9vR3dZTy05Sm9tWkR1?oc=5｜擷取日 2026-08-25
+
+## 3. Salt Lake County council weighs e-bike law for trails, pathways - KUTV
+
+- 分類：法規更新｜全球
+- 摘要：Salt Lake County council weighs e-bike law for trails, pathways &nbsp;&nbsp; KUTV
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[KUTV](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjM2cjFwNmdWdktOejMwWjdJOElDckMxX2daOHBkd1BnS0VkczNYaks4TC1vQjNTY3gtM1Bpd3N0Z3EzR1YzSjI3cTd5anZGYTdpZm84bnpLUkZnUE5PWWZxNXpOTXJHMGJZUFdpWE9QeGtSVHRmVmtyZmxsbHBpZFVta09jUFpCb2hWSVZIakw2UkZw?oc=5)
+- 引用：KUTV｜Tue, 25 Aug 2026 22:09:36 GMT｜Salt Lake County council weighs e-bike law for trails, pathways - KUTV｜https://news.google.com/rss/articles/CBMilAFBVV95cUxOWjM2cjFwNmdWdktOejMwWjdJOElDckMxX2daOHBkd1BnS0VkczNYaks4TC1vQjNTY3gtM1Bpd3N0Z3EzR1YzSjI3cTd5anZGYTdpZm84bnpLUkZnUE5PWWZxNXpOTXJHMGJZUFdpWE9QeGtSVHRmVmtyZmxsbHBpZFVta09jUFpCb2hWSVZIakw2UkZw?oc=5｜擷取日 2026-08-25
+
+## 4. New e-bike law passed unanimously by Hilliard City Council - cwcolumbus.com
+
+- 分類：法規更新｜全球
+- 摘要：New e-bike law passed unanimously by Hilliard City Council &nbsp;&nbsp; cwcolumbus.com
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[cwcolumbus.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQN1ZET1RCaTgxTDFOcmJNQVNuS3hLYTVoeExZV3NZNDBIVWRWQ01ENlpTTmpyUkV0aXQ4WVFFTGVubWRDSWNocV8zbUZiZnM0aWxxd0owSVBFeUpnd29xd0FybmRnREdUR3M3R2hBaEZJeWhqTUVDX05USl85U1pCOWRLNktKdWlKbzBqWkM3Rzd4MzBOempwQXZiX3JwX0dIbHR5R1NHdTVBdUdrNV9ySFdjSkdhODFGQnZfWE8zbmpkeENnTEkzWXhZR1VZYktkUjgwekhsaXhwX1dSVG9jYnZkeWw4b1MxMG1Icg?oc=5)
+- 引用：cwcolumbus.com｜Tue, 25 Aug 2026 06:46:41 GMT｜New e-bike law passed unanimously by Hilliard City Council - cwcolumbus.com｜https://news.google.com/rss/articles/CBMi7AFBVV95cUxQN1ZET1RCaTgxTDFOcmJNQVNuS3hLYTVoeExZV3NZNDBIVWRWQ01ENlpTTmpyUkV0aXQ4WVFFTGVubWRDSWNocV8zbUZiZnM0aWxxd0owSVBFeUpnd29xd0FybmRnREdUR3M3R2hBaEZJeWhqTUVDX05USl85U1pCOWRLNktKdWlKbzBqWkM3Rzd4MzBOempwQXZiX3JwX0dIbHR5R1NHdTVBdUdrNV9ySFdjSkdhODFGQnZfWE8zbmpkeENnTEkzWXhZR1VZYktkUjgwekhsaXhwX1dSVG9jYnZkeWw4b1MxMG1Icg?oc=5｜擷取日 2026-08-25
+
+## 5. New rules for e-bikes in New Smyrna? City vote expected - Daytona Beach News-Journal
+
+- 分類：法規更新｜全球
+- 摘要：New rules for e-bikes in New Smyrna? City vote expected &nbsp;&nbsp; Daytona Beach News-Journal
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Daytona Beach News-Journal](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFNrakloLUh6SGFmcjhvZjV6d21YeDd4TGdyNHZGdWxrMVNETHBIMU9CTVZ2Q2ozejY2TXRVdU94d1Q4YkNoZzR5eW54Qm92UFlWYS1mZUpoYVc0dktLSkp2MUhiMndtaEc1QmZ3SHJGMC1aWnVMRUNyZm10Sk84cDFmdXVmbjBrS2xuVkcxdExuaktNbkNEZjJmMnQxbmNyUGVEaE13YmQ3QldFWGxXRzFqVnRFNkNnSXR1ODhMZXVIQmpUdm4yTk1FM3pZWnM?oc=5)
+- 引用：Daytona Beach News-Journal｜Mon, 24 Aug 2026 15:31:00 GMT｜New rules for e-bikes in New Smyrna? City vote expected - Daytona Beach News-Journal｜https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFNrakloLUh6SGFmcjhvZjV6d21YeDd4TGdyNHZGdWxrMVNETHBIMU9CTVZ2Q2ozejY2TXRVdU94d1Q4YkNoZzR5eW54Qm92UFlWYS1mZUpoYVc0dktLSkp2MUhiMndtaEc1QmZ3SHJGMC1aWnVMRUNyZm10Sk84cDFmdXVmbjBrS2xuVkcxdExuaktNbkNEZjJmMnQxbmNyUGVEaE13YmQ3QldFWGxXRzFqVnRFNkNnSXR1ODhMZXVIQmpUdm4yTk1FM3pZWnM?oc=5｜擷取日 2026-08-25
+
+## 6. I tested this lithium-ion battery charging cabinet as the safest place to charge your e-bike batteries
+
+- 分類：安全召回｜全球
+- 摘要：One of the most common questions I get from readers isn’t just about speed or range anymore. Increasingly, I’m hearing more questions about battery safety. People see the occasional viral video of an e-bike battery fire and wonder if they should be worried about charging their battery in the garage, apartment, or workshop. The reality is that quality lithium-ion batteries from reputable manufacturers are remarkably safe , but when failures do occur, they can be dramatic enough that many riders want an extra layer of protection. That’s where products like Yolin’s lithium-ion battery charging cabinet come in. I recently spent some time testing the cabinet, and while I admittedly wasn’t sure what to expect going in, I came away more impressed than I anticipated.
+- 圖片（先確認授權）：[原始報導縮圖](https://electrek.co/wp-content/uploads/sites/3/2026/08/battery-charging-cabinet-head-e-bike-1-1.jpg?quality=82&strip=all&w=1600)
+- 原文：[Electrek e-bikes](https://electrek.co/2026/08/25/i-tested-this-lithium-ion-battery-charging-cabinet-as-the-safest-place-to-charge-your-e-bike-batteries/)
+- 引用：Electrek e-bikes｜Tue, 25 Aug 2026 14:36:27 +0000｜I tested this lithium-ion battery charging cabinet as the safest place to charge your e-bike batteries｜https://electrek.co/2026/08/25/i-tested-this-lithium-ion-battery-charging-cabinet-as-the-safest-place-to-charge-your-e-bike-batteries/｜擷取日 2026-08-25
+
+## 7. VinFast bets big on battery-swapping e-scooters, aims for 100 showrooms this year - ABS-CBN
+
+- 分類：技術元件｜全球
+- 摘要：VinFast bets big on battery-swapping e-scooters, aims for 100 showrooms this year &nbsp;&nbsp; ABS-CBN
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[ABS-CBN](https://news.google.com/rss/articles/CBMizAFBVV95cUxQcVZiVk84LXlmTDRvQzFTcjJQMnNER1ViZ1NIRnhHY2ZVUGFKYkI2RGtQVmlGU25lY3A5dVFaLUdEZXdxdkprbmdRLXNmMUNIQnFVLXQxQlg3S2VDZ2lGSzdDdjM3QnotR3E3SWFNT0YyVGhXQmtYVkYtbVJEYmpsSnRITTZzeklxR0FYaFBVRS1JS1VtSkxpUUQ5aDl4T29GUkZCemRlMVRSd2swRDhYVFpJb0RHRlZPSkhSSVdwbmhiRlo0VXdmVWtuX2w?oc=5)
+- 引用：ABS-CBN｜Mon, 03 Aug 2026 07:00:00 GMT｜VinFast bets big on battery-swapping e-scooters, aims for 100 showrooms this year - ABS-CBN｜https://news.google.com/rss/articles/CBMizAFBVV95cUxQcVZiVk84LXlmTDRvQzFTcjJQMnNER1ViZ1NIRnhHY2ZVUGFKYkI2RGtQVmlGU25lY3A5dVFaLUdEZXdxdkprbmdRLXNmMUNIQnFVLXQxQlg3S2VDZ2lGSzdDdjM3QnotR3E3SWFNT0YyVGhXQmtYVkYtbVJEYmpsSnRITTZzeklxR0FYaFBVRS1JS1VtSkxpUUQ5aDl4T29GUkZCemRlMVRSd2swRDhYVFpJb0RHRlZPSkhSSVdwbmhiRlo0VXdmVWtuX2w?oc=5｜擷取日 2026-08-25
