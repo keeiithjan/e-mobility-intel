@@ -1,0 +1,122 @@
+{
+  "runDate": "2026-08-28",
+  "mode": "live",
+  "fetchedAt": "2026-08-28T07:00:55.518Z",
+  "sources": [
+    {
+      "id": "cpsc_micro",
+      "name": "U.S. CPSC Micromobility",
+      "status": "ok",
+      "candidates": 45
+    },
+    {
+      "id": "cpsc_recalls",
+      "name": "U.S. CPSC Recalls",
+      "status": "ok",
+      "candidates": 45
+    },
+    {
+      "id": "electrek_ebikes",
+      "name": "Electrek e-bikes",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "bikerumor",
+      "name": "BikeRumor",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "electricbike_report",
+      "name": "Electric Bike Report",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "cycling_industry",
+      "name": "Cycling Industry News",
+      "status": "failed",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "news_brand_service",
+      "name": "Google News：Bosch、Shimano 等技術服務",
+      "status": "ok",
+      "candidates": 1
+    },
+    {
+      "id": "news_drivetrain_service",
+      "name": "Google News — 驅動系統更新與召回",
+      "status": "ok",
+      "candidates": 0
+    },
+    {
+      "id": "news_service_bulletin",
+      "name": "Google News — 重大維修與服務通報",
+      "status": "ok",
+      "candidates": 53
+    },
+    {
+      "id": "news_service",
+      "name": "Google News：重大維修與服務公告",
+      "status": "ok",
+      "candidates": 64
+    },
+    {
+      "id": "news_launch",
+      "name": "Google News：新車與新品",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "news_regulation",
+      "name": "Google News：法規與補助",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "news_components",
+      "name": "Google News：電池、馬達與控制",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "news_industry",
+      "name": "Google News：供應鏈與市場",
+      "status": "ok",
+      "candidates": 100
+    },
+    {
+      "id": "tw_thb",
+      "name": "交通部公路局",
+      "status": "ok",
+      "candidates": 45
+    },
+    {
+      "id": "tw_law",
+      "name": "全國法規資料庫",
+      "status": "ok",
+      "candidates": 11
+    },
+    {
+      "id": "electrek_scooters",
+      "name": "Electrek electric scooters",
+      "status": "ok",
+      "candidates": 100
+    }
+  ],
+  "totalCandidates": 964,
+  "totalRelevant": 111,
+  "totalNew": 11,
+  "totalExported": 11,
+  "totalHistory": 228,
+  "imageEnrichment": {
+    "attempted": 32,
+    "found": 32
+  },
+  "aiSummary": {
+    "status": "skipped",
+    "reason": "OPENAI_API_KEY 未設定；保留原文摘要。"
+  }
+}
