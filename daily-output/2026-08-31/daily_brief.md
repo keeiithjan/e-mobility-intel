@@ -1,0 +1,36 @@
+# 電動微型移動每日情報｜2026-08-31
+
+本次新增 **8** 項。
+
+## 品牌新品
+
+- **[Ather Konarc Electric Scooter Launched With Up To 200 Km Range, Prices Start At ₹99,999 - ACKO Drive](https://news.google.com/rss/articles/CBMiswFBVV95cUxNak04NGV6T1VHd1UxRGU0WXBSaWxZZEpLOVdjNUplTnZ3RGx0djdrU1ZKUWYySHYtRkNHVk51dHM5X19aRGJ5bEtuZlh6S1kyYnVtZDZWclNDMlJhNVNWTXoyZ2dGWURsRmh3RjFaYkZxX2x6UWJrbzVteW8yWkw4d2JGNGNpZVJRRGc3ZmNmakV2azBtXzJaaEpERWtsSWY0NW1YbmN4YVh4am9mSnlLWVliWQ?oc=5)**｜ACKO Drive｜Sat, 29 Aug 2026 16:30:00 GMT  
+  Ather Konarc Electric Scooter Launched With Up To 200 Km Range, Prices Start At ₹99,999 &nbsp;&nbsp; ACKO Drive
+- **[Ather Konarc Electric Scooter Launched at Rs 1 Lakh: 161km Range, 4.7kW Power - Auto India Daily](https://news.google.com/rss/articles/CBMidEFVX3lxTE5JNWJVSlQzOVljMFA0bVpWZFhiNmFBQXptdW9fUmZLRWptVXQtU0RIRlZZeGxrWHNjVVhMVzNSY1YzVU0xbENJdGU0N09lbE5IclFkcXpINXdLZjR3azRUT1JNRmh3Qi1wTlREaTZkMkFFWkpa?oc=5)**｜Auto India Daily｜Sat, 29 Aug 2026 08:13:07 GMT  
+  Ather Konarc Electric Scooter Launched at Rs 1 Lakh: 161km Range, 4.7kW Power &nbsp;&nbsp; Auto India Daily
+
+## 法規更新
+
+- **[Major E-Bike & Scooter Law Changes Coming to Illinois in 2027: What Riders Need to Know - 920wmok.com](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0lTQ2xkZG9CQU11THlabE9BZUVUOXIxNU1YclR5eXlqSjRERmpoOV9La1pJVno2Wl9hTlIwZ2V4Q2FsRGV6bC1uNXdWcUNJb2pVVEdVTmhhdHdwdlM4Q3lyUjJicVN4Ylp0SDV0VXhHYVZLWmhOSzVxZ3poWDQ5TlZ3VUszQ0F0azlKR0hBamhHLUhTaUs3bC1YQzE1VFFnZ1BNYkRYUE9kVDNsT2tzTl9hcjFjYnJ2WFVyLQ?oc=5)**｜920wmok.com｜Sun, 30 Aug 2026 07:42:20 GMT  
+  Major E-Bike & Scooter Law Changes Coming to Illinois in 2027: What Riders Need to Know &nbsp;&nbsp; 920wmok.com
+- **[E-Bike Safety Legislation Signed Into Law - Effingham Radio](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGtOWm90MlA4ZEhDNXNRUkpuV05CYkhSeUEtOWhoa2loMTViN01aeDFMTDBJRmFIVE5oVVdxeVIyXzdQVDdHdEFjU2hCU1hyWC1zSURUQXdpWWttR0pPcjd4cGpqcEc2YnlteG05Zkt6WGI3OElFSUlLN1czaEdQZjJPMHloUVZOT2toaA?oc=5)**｜Effingham Radio｜Sun, 30 Aug 2026 05:05:15 GMT  
+  E-Bike Safety Legislation Signed Into Law &nbsp;&nbsp; Effingham Radio
+- **[What Belgium’s new e-scooter law means for your ride - Qazinform](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEhIM0F4aEVWcjllT1J5Qkp3dGk0NkhUTVJxem8zXy1vaWktcF85T2l0bDRmSGY3ckFaN3BVRHFCSm1GM0ctRHhKNzd6RWJvSWwwVWRWckRkMk50TGlYeDlUdy02WTB2dmVBNVFCVjh4RndUTk8ydHhPaW8xWXBRaWVOM0tBZ1RneXZKRHV30gGOAUFVX3lxTE9xcjYta05fMHhocEpyU0FIcEhaSzg3bTdhaFV2RmlzRUlaMDZDRkVVVWRTUkItdHRyZHpCZlRfcWh4YXlKTjh3YTlrdE5CcXhrSy1VMTk1S2dYNll1M3pyT3lvOXdtTXAwSllwUzJpNmhqdEcyS3d3RVh4UUoxWFUzeXpmLWx5NzBOSTRHQUE?oc=5)**｜Qazinform｜Fri, 28 Aug 2026 21:30:28 GMT  
+  What Belgium’s new e-scooter law means for your ride &nbsp;&nbsp; Qazinform
+
+## 安全召回
+
+- **[Fresno family displaced after electric scooter battery fire destroys home - ABC30 Fresno](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVNVTmNKTjhVU01GZFFPQ0pRUmdtbmd3WjJEOGZQUGpFM0wwM08tb2k2dDZSd2dYUG03QXczRzlwTDZmRUliUVpWdjRNQ25ocEloanVKcU84RlFvUndHSExaR0ZzeDlPdEVMbUVVb2s2NW5BdS05VHhudWpVYWtjRlJjaUtiTDhDci1kYmJDeG1rR1Z6MUxsM2FmYUlWd2FjdEHSAacBQVVfeXFMTTlxQTd5OFl4Mnl6Z3NPeXh3eGU2RHlhODhpM0lDN3B1SVd5VWR5YVIzMVo5ZFpvdi1ISFNYUnY4Vkh3UE0wSWlJUHhuR2tMczNlUmg5TFBWTU90M2tabzgxNDREZHhQRm9HcjFNYUtWYkRhdEVlajEzX1FtRmtoclpzTTBUd3hsRk01d090RkFPb2JQVlBsbG9XeWstSmtmVDhSUWVGZzg?oc=5)**｜ABC30 Fresno｜Sun, 30 Aug 2026 04:06:59 GMT  
+  Fresno family displaced after electric scooter battery fire destroys home &nbsp;&nbsp; ABC30 Fresno
+
+## 產業趨勢
+
+- **[Ather enters mass EV market, now targets 90% of India’s e scooter segment - Forbes India](https://news.google.com/rss/articles/CBMivgFBVV95cUxNLW1kd1dLbU5yS2c1b2JLOHZHaXdoRXNMUWllaHVuNXR6SGMxS3IzTHY5UnRtR3JuVUpHcWFsRVZiZjJZWVhPbTJ0ak5idFBUVXdZUlUzTUE3NnFieVZwejFVZVRwS1BrTkZVbktoTGxCUUhjNHZ1YjE5REdSc0FYUVM4a1lCWUhYUTJqMll5em1kNmQ2NGVVREg5S1R6UlVuRkV5blZWbHpjU3dQN2NqZGJjZzl0bU9YZDVXV3FB0gHDAUFVX3lxTE53dWk5WkpKYnRNMkcxYkZLTXpKVmxBck5VZXJGMkNoVEN4TjhSTTBjNW8yODM1Y0lOM0lpaUhrUU5sa0JNYk1ESmFISVRRTkV6LXVsc1BPZnMweHhpSFVpVElBS2MxbllaWlc2ZEVXS1U4OW5BYXZJVTEyaW9iR3dGem1LNjVZTlBZcDJ2bFE5cElMRTZtdGRiNUxENzlUQ0Y5RnF2VXNNOGloZTdXc2Z3c2hmRHpNVnFKc3JwdjVoRWZIQQ?oc=5)**｜Forbes India｜Sun, 30 Aug 2026 07:59:40 GMT  
+  Ather enters mass EV market, now targets 90% of India’s e scooter segment &nbsp;&nbsp; Forbes India
+- **[Ather launches Konarc electric scooter starting at Rs 99,999; targets mass-market buyers - Moneycontrol.com](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeXBsUHBtajk2ZzVKamhtMDZoNm90aGk2T2VkMkl5cENJd1FScHFEb1pyMkdIWXRuLXJmZl9wdk56cVRLOVdaX1VSRWF2MEVnWTh2VUxGQkpHeV9oZC1ITE9LSjNMNWR1bVNJOXpxQWdfb2JuZ3NWQ0IzbVFVVVdjSFl0bmt1aG44TWd6TVRDemU2dDFPMnZOaE1hNV9nUlktN0Z3VlJNcV9GVlNmVDhTQUlWTmxISUtkNFdFMDBvbzhfZGNldWd3ejdfV0NNOWI5NVNsczFQbjd6eF9HVUpjd29RZ0hHdHPSAewBQVVfeXFMTXpCTmFPWXVEWjZJLUVvY1FzMzNDYmNDbTRLVVd5Qk1ZX1FKQzA5aUZWTlNKSnRDU2VpTS0wZkJGVWtHQjFLcmZDSE8zWUpENXVYbHVaUzd4ZzZXdlZjWktETkVvRXBldlVLMm40eWhTdEJTenJsSnFvR05pNTdFdXZSRXR0d00yei1ZenREYUJCSWFtWVlfRXZteFZhaDUtc3duMVRwY2tqc2dWQnBHTlBfclItYWdLZWptc2llT0dHWi01MkNOS3Y5eUQtWHBFR1dGemxNem8yUkdaNzdBbHZoOG53QmVRemNLcFg?oc=5)**｜Moneycontrol.com｜Sat, 29 Aug 2026 06:55:51 GMT  
+  Ather launches Konarc electric scooter starting at Rs 99,999; targets mass-market buyers &nbsp;&nbsp; Moneycontrol.com
+
+## 使用提醒
+
+- 繁中摘要由 AI 依原文標題與摘要整理；法規、規格、維修與召回請回到原文確認。
+- 圖片若有提供，對外使用前請確認原始網站的授權。
