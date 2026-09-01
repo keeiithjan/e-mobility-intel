@@ -1,0 +1,42 @@
+# 電動微型移動每日情報｜2026-09-01
+
+本次新增 **11** 項。
+
+## 技術元件
+
+- **[Ola S1Z Electric Scooter Launched In India At INR 79,999: Range, Battery And Features Explained - Mashable India](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWWFlaXlYMk5vQkt0Vk5va01JV216Zndfa0diTUZNb0k2bF8yczR5V2pxVHRMZWxJczlheFdvdktwNHY3YkdDUUFyTTNqSWQ5WmNFc2ZKa3dkRlVHSGVFVFVVRV9ua2JtTlI0RFUteGZkVkxsbktvOHY3QlZ1eVc2eE1vV0MwejVLNVI4MWprSVl5QUJTVEZwNy1rd04yd3pYWGtYZ2ZVZDlpaFlKdDBzQkZGMFNuTTBMWHdrak5WLWFqTF9qVUhOSkY0RkxqQ3Rx?oc=5)**｜Mashable India｜Mon, 31 Aug 2026 14:54:44 GMT  
+  Ola S1Z Electric Scooter Launched In India At INR 79,999: Range, Battery And Features Explained &nbsp;&nbsp; Mashable India
+- **[Ather Konarc Electric Scooter Unveiled: Price, Range, Bedrock Battery & Features - iamabiker.com](https://news.google.com/rss/articles/CBMirAFBVV95cUxOTG1ndDlydE5fT215bHptTjByZ05zNXp3VG1jenVrTEczcUdfZ3pzaGl0aUJuSXJpNjVYeXVvdVltMXk3NGNuRkw3MEZob25nNDc2aHZNbmFILWlPUnROd0t1dlo4ZUw3cjBrdm1VSFFyZy1PRjNFand5QXQxLTgtWFZSTlVtUFhVZmFIcUdmTnBBd3hJbXBGZXpHcTZEa01YOGk3UzQwTnBGbVJP?oc=5)**｜iamabiker.com｜Mon, 31 Aug 2026 09:17:23 GMT  
+  Ather Konarc Electric Scooter Unveiled: Price, Range, Bedrock Battery & Features &nbsp;&nbsp; iamabiker.com
+- **[BGauss Oowah electric scooter launched with 145 km range, removable battery - HT Auto](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVnBQZ2JMUFl1RjA3WUF3T1BodVZicTB0eURrZXR1VzVoVURXUWZOaW5TTmV3Sk1mRzh4Wlk5dlhuZVhGNHBLYXRlTW1mYlozUWxaSjgyY1FoaTBtSnA0NUY1UnhlSTY3TURpdWZ2X090RVp6N25YQnJfUE4tVnptcENiclFXZFZzMFFJTGZMU3BLQjhqYmVEenZ4bHZnck1iMzhQRGsxUWo3c2JBdHlMQXpvZFk2QmxuNkllUWhQN3dvYklxQmlodWcxeEFqc0F4ZElVS2pQRHZjY09CRjFRdHJsa9IB6AFBVV95cUxPdUNFUlNjU0k1Wk1IV3Bhb0VIbnlEcV9TVGFQYlJDY3huRm5RY3JvRC10WGFkRFFqS1JONmdBX0w1YzNOQTAxVWllcDh2bWFLRE1mMmZkbnU4SVVHamZFcm1FLXhrUC1xYXVVODNabkNmcDgtSU5oYzhraXB0MGdqY2IwSDlFd1hoVGp0SlB2SWo2UzhpZDRONTVjU1RDemxmWnl2NXNBNnZUSERhbUpnQmF1UDZqV214d2VRY3VDdklOZEZGT1FjZENVdXRDN0EwTkNRMGRVRnRWSUVwa000TlFBTkMtSlJ0?oc=5)**｜HT Auto｜Tue, 11 Aug 2026 07:00:00 GMT  
+  BGauss Oowah electric scooter launched with 145 km range, removable battery &nbsp;&nbsp; HT Auto
+
+## 品牌新品
+
+- **[Ather Energy shares rise after new Konarc electric scooter launch By Investing.com - Investing.com India](https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjJIOUM5all0SWtZMzBQandadGxSTXJiQTRNZkdqOFFlX2lYUm4xUWotR1RLNFNkTHdWMVVlcWhMZXhMeXRDSEdvQ0lwaXBnb0p4aGw5cHpFbzQwZGJCNVp3M09SSWlSLXA3eTh5UmpTOTBXYzdGdmo5TnpKQnBxeTBNWWpFd1lUY09ITUtoOHc0amZzZ1JzSUFCQnJsb1dRajk3Vjc4S0pOZnZaZzNvckwyMEVfXy04N3htalBqeW5sWTky?oc=5)**｜Investing.com India｜Mon, 31 Aug 2026 09:23:16 GMT  
+  Ather Energy shares rise after new Konarc electric scooter launch By Investing.com &nbsp;&nbsp; Investing.com India
+- **[Ather Energy stock hits new high post-Konarc electric scooter launch, rises 4%; brokerages bullish - Moneycontrol.com](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOT3JhZng0MEZYX09MeE9HZy00S2FDazhnU25NWS0tT1R6dm9RblY5SXVPclNGV2xHQVU3RzRMMERQV3pldkZSSUxLb25ObmhUTzBBcG11SkxPYkxlbE5EclVUSy05MU1xUGFUX1VHN0hRWm9sR054WGVqVnJqSUtWOW92S3dkZUx5aVoxUHpxVEdqMzJhMHN6RUEyRXk5Rkl1bF9pZmhvak5nRjJQOWExcjgzd1JTZkdSOWxxSGE4N3BfV1BoLXo1UW9oRU85QU5oLWV0ZnozcmJib080NUEyOGtvcGEzcjJEc1I2d2JDU0t2d9IB9wFBVV95cUxOWHQwVE0yQk04aDRZdEYzNGxEZG1vUkRjZGRpTlhoc0RkZS1mUmNyXzVEMGNVeXd3LUIwZWJhaGRJRDl0aEdFUDE0QXl6eXlpQ1M2TldGRWwwLXN2RG5XXzNVa1UtUXp5ck5OMWtnUFFtNGY1Y0tQbm8tNkZGWjNkSnV5aXYyWXBZcWJ0RkRsRW4xcUJvaXdlaC12YV9QN2ZSQ1V4amVIbWFSaWxMOXQwU1FzYnM4dFk1UUdpTG9VcGs1ZmpyNTJ2NGk4d252TmRZaTZ3dFJqMk01TUhBMF9TRXZmVnFyRlM2ZXpsWDk5Uzh0dlhFY3dF?oc=5)**｜Moneycontrol.com｜Mon, 31 Aug 2026 08:01:58 GMT  
+  Ather Energy stock hits new high post-Konarc electric scooter launch, rises 4%; brokerages bullish &nbsp;&nbsp; Moneycontrol.com
+
+## 法規更新
+
+- **[New law gives police tools to enforce e-bike, scooter safety - WAND-TV](https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa01ZOHExdVE4SWpEMEI5RGctQ3IwMGROWktyOXR4d0l6OHFHWXowMnZPWjZNb2pKbFlta0g1UXowU3RPOE5tZEhpZGMtSWtSSkJUZ3I2dWEtQ1RIM1R4eDBwN1ZnMlozYVN0MUhjRVo1bWZLREp5NGc2UU14ZlRVay1rUzlXTVgzaHZGNmFSdTlUR01NTXdvVlBLQ0ZsR0oyWEh5T2N4aHlxWGJ5cUVrak55QnJHSUFEbHEwU2xfdkRCdjdjeWF1WFF1a0JfU29PWjZsYUh0LTJZRFVGckVB?oc=5)**｜WAND-TV｜Mon, 31 Aug 2026 23:30:00 GMT  
+  New law gives police tools to enforce e-bike, scooter safety &nbsp;&nbsp; WAND-TV
+- **[Utah officials urge parents to follow new e-bike helmet law as school resumes - Cache Valley Daily](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRWhJQkdsRC00amVVMTkzZGZySFI1dXNCTVZ4Y3czNkNFTEJzV3Vub0RRcmx1YklMcFVDR0FNNFJ2Z3ZnTGlxX2txU09ndWlkMHQtRkdqNmZwOV9tMXVWYU5QZXEzZTYwNy1NakZncTZINEVLZGJlekxDaWN2Y0kwTjlBUTloTGUwMXhtMDNtQ2JCa0dxbkFaNGctenVhYXE3R2ZlX1huYmNpQ0FIc1hHNGMwbTd4eElDb0lZZHg3TjRrUGJEU0VWV09laGdTM1h2WlNvU0t5a2NzUjBCNWhyTGxSN2FaNE14RmpLRV9SWlFBVGxJYWlJdA?oc=5)**｜Cache Valley Daily｜Mon, 31 Aug 2026 13:00:00 GMT  
+  Utah officials urge parents to follow new e-bike helmet law as school resumes &nbsp;&nbsp; Cache Valley Daily
+- **[California law requires e-bike safety training for students in grades 7-12 - ABC10](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb0dJelFvYVM3OG1oSzRMWmJkUHAxT18xNkZIa0hwblFjQ3RzM0RzVERnZ3FRMklGN3RMdVJJUHlTZG9rSHhfbmpFT09iTUlheF9WZ2RySlJoaHgxMEtyZ0thUnh0eTBXSk9UeWtfQ1ktU0ZDSUtQZllKck9panhkYkVXa3h0NGJnUkpCUTZTa2hUMnpFVjVfd1F5dVhTVzVCZ1NmTUNlNjIwR2ctZzkzREpsUFVLT2Q2c3lsb3gyU0Y2WGg3bWs2OXpQUm1yUmRTN0wzYUVDbFdZVTZsbkxjX3FESzh3Zw?oc=5)**｜ABC10｜Sat, 29 Aug 2026 01:01:00 GMT  
+  California law requires e-bike safety training for students in grades 7-12 &nbsp;&nbsp; ABC10
+- **[Illinois Governor Signs E-Bike, Scooter Bill Into Law - GovTech](https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTNjbmoxaWdGc3FyNEVrVVhtdzNmRTJLSWJWU1ZIa3pYSF9lQ1VVTjJDb3VkME0waDFCdmg1SEIxZWRwbEI0OEJvWVpycGprUU9IdllPNE1wSVJoNFNhZy1oaW9HQzFQekU0LWFqV0pvblhQQnJCZ0ZobVd1SlpLbWt5WW9rWEFCZDZJWUtSeTdOUF9zSnc?oc=5)**｜GovTech｜Thu, 27 Aug 2026 21:24:09 GMT  
+  Illinois Governor Signs E-Bike, Scooter Bill Into Law &nbsp;&nbsp; GovTech
+- **[New Illinois Law Establishes Rules for E-Bikes, E-Motos and Other Micromobility Devices - ACG AAA Newsroom](https://news.google.com/rss/articles/CBMitwFBVV95cUxNOG9PbllheWFXT2tpVThoTk9iTGhMdDBvZWN0dzBvLXpyZ1Z0Sk1zVV9RZ1U2MWFzMU5ObV9mazhwaUk5OFBiZmYyVmczSUJjcWJSM0N4NGRTaVFfUVpTaWd4ajJrV1FtTE9aSFFCa3hyVVdfLTNiQ3JkUzdfVUw4VWFqNUpVM0RNUzRBd1hvcXAxQXR6UVhiM214bi1SRDBaRHNrX0wxRkt0TkdaS1N4UXJSY0swaTg?oc=5)**｜ACG AAA Newsroom｜Thu, 27 Aug 2026 17:42:49 GMT  
+  New Illinois Law Establishes Rules for E-Bikes, E-Motos and Other Micromobility Devices &nbsp;&nbsp; ACG AAA Newsroom
+
+## 產業趨勢
+
+- **[Ather Energy Launches Konarc Electric Scooter Priced From ₹99,999 For Mass Market - Sahi](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYUpkRUp0NmE1STRvdHl5T1ZJYklrejYzVm5qQlUyd2N0SFhfR25nWEpQazlwbXgyUC1ncEd6YkpQVEdlWV9hYW56T1FEdXVBVTdERERmblBvMHBDS0Zqb0FCbm4tc2NIZEZsYVpCSmpVLWdMWWsxaGI0a2FBMTVWRnBzU0lqUE8zTDFha3JjeGU3QjBmWExCczdYeUI0WU92WnNDN1JmWkxlUmhHUTh5SmNWdWtxeVptaDVZ?oc=5)**｜Sahi｜Sat, 29 Aug 2026 07:23:18 GMT  
+  Ather Energy Launches Konarc Electric Scooter Priced From ₹99,999 For Mass Market &nbsp;&nbsp; Sahi
+
+## 使用提醒
+
+- 繁中摘要由 AI 依原文標題與摘要整理；法規、規格、維修與召回請回到原文確認。
+- 圖片若有提供，對外使用前請確認原始網站的授權。
