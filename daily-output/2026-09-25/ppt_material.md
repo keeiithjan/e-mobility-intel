@@ -1,0 +1,25 @@
+# PowerPoint 素材候選｜2026-09-25
+
+## 1. Honda QC3 Electric Scooter Launched With 145km Range & 3kWh Battery - NewsBricks
+
+- 分類：品牌新品｜全球
+- 摘要：Honda QC3 Electric Scooter Launched With 145km Range & 3kWh Battery &nbsp;&nbsp; NewsBricks
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[NewsBricks](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDl0MWZ4V0IwVjNQMUJMdmdqN1Y4Sl9sRXdWbmNvTk9DNXktZGhYbVg5WGtiTWk0TWVDb0pRZ0VFd2xzQ3V2U1BRYTRCTTh0R0tzaUVERUIwM1hpVVFtbW9kM3p3T3lsNjgwTi1TU3BKWnNnNU1HVGdLQ01aX2dacmlmQjZyaUpi?oc=5)
+- 引用：NewsBricks｜Thu, 24 Sep 2026 12:15:00 GMT｜Honda QC3 Electric Scooter Launched With 145km Range & 3kWh Battery - NewsBricks｜https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDl0MWZ4V0IwVjNQMUJMdmdqN1Y4Sl9sRXdWbmNvTk9DNXktZGhYbVg5WGtiTWk0TWVDb0pRZ0VFd2xzQ3V2U1BRYTRCTTh0R0tzaUVERUIwM1hpVVFtbW9kM3p3T3lsNjgwTi1TU3BKWnNnNU1HVGdLQ01aX2dacmlmQjZyaUpi?oc=5｜擷取日 2026-09-25
+
+## 2. Local Attorney Rob Morello Urges Parents to Learn the Rules and Risks Under State's New E-Bike Statute - TAPinto
+
+- 分類：法規更新｜全球
+- 摘要：Local Attorney Rob Morello Urges Parents to Learn the Rules and Risks Under State's New E-Bike Statute &nbsp;&nbsp; TAPinto
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[TAPinto](https://news.google.com/rss/articles/CBMikAJBVV95cUxPdXJfY0VuQWpJajgtbTB4YVMxRjlCeUxVaVh5VkJnTnUxOFhMZzZweEZKSmNEaGVIM2ZzLXhmMXlXUkxMX2dBdmdZcmM0c3R6eWExN1diOFJGbjBaa0VpNHNmTXAwOVNiVXdIWEhQRXRfR3dBMFRMb1VPZXpFaGVWcjhJNUdNUmF4VGVCdUJVZ1NrYUsyUjA3RHdKTGNLS1UxWGh6OERzclFHS2RMa3lPMk5WcE1NQ0VPZFo2TXlOSUVPLVNvVVBqZ1ZQOHlaQWV1VjQ1SXByc2dLcmpGSFlxOXN6ZFI5VG9kOS1yZS0za1lVdkw5TFBaZm5vUDNOQXNFYXpOY0xyUkJ5SjdfQl9jQQ?oc=5)
+- 引用：TAPinto｜Thu, 24 Sep 2026 16:56:56 GMT｜Local Attorney Rob Morello Urges Parents to Learn the Rules and Risks Under State's New E-Bike Statute - TAPinto｜https://news.google.com/rss/articles/CBMikAJBVV95cUxPdXJfY0VuQWpJajgtbTB4YVMxRjlCeUxVaVh5VkJnTnUxOFhMZzZweEZKSmNEaGVIM2ZzLXhmMXlXUkxMX2dBdmdZcmM0c3R6eWExN1diOFJGbjBaa0VpNHNmTXAwOVNiVXdIWEhQRXRfR3dBMFRMb1VPZXpFaGVWcjhJNUdNUmF4VGVCdUJVZ1NrYUsyUjA3RHdKTGNLS1UxWGh6OERzclFHS2RMa3lPMk5WcE1NQ0VPZFo2TXlOSUVPLVNvVVBqZ1ZQOHlaQWV1VjQ1SXByc2dLcmpGSFlxOXN6ZFI5VG9kOS1yZS0za1lVdkw5TFBaZm5vUDNOQXNFYXpOY0xyUkJ5SjdfQl9jQQ?oc=5｜擷取日 2026-09-25
+
+## 3. A Guide to Micromobility Rules Across the Tri-State Region - RPA | Regional Plan Association
+
+- 分類：法規更新｜全球
+- 摘要：A Guide to Micromobility Rules Across the Tri-State Region &nbsp;&nbsp; RPA | Regional Plan Association
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[RPA | Regional Plan Association](https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzBQT0xFN1hvTWgzSTU3b3Q0ZjBnekRmQy1DTmJYMzNPTXBTcGpVNENxWEJISXc3RVRMZDgzbU4yNmdZdjUwUnhTT1dXQThZRHB4ZWFoZzFSUGpjR1VUTUdSQ252aEVWeGttZWU0eWM3TjNPOHJyVmt0QVFTNUFwdjJOSUI?oc=5)
+- 引用：RPA | Regional Plan Association｜Thu, 24 Sep 2026 13:57:00 GMT｜A Guide to Micromobility Rules Across the Tri-State Region - RPA | Regional Plan Association｜https://news.google.com/rss/articles/CBMihAFBVV95cUxNMzBQT0xFN1hvTWgzSTU3b3Q0ZjBnekRmQy1DTmJYMzNPTXBTcGpVNENxWEJISXc3RVRMZDgzbU4yNmdZdjUwUnhTT1dXQThZRHB4ZWFoZzFSUGpjR1VUTUdSQ252aEVWeGttZWU0eWM3TjNPOHJyVmt0QVFTNUFwdjJOSUI?oc=5｜擷取日 2026-09-25
