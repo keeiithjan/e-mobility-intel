@@ -1,0 +1,57 @@
+# PowerPoint 素材候選｜2026-10-03
+
+## 1. Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295
+
+- 分類：技術元件｜全球
+- 摘要：There are cheap e-bikes, and there are good mid-drive e-bikes. Those two circles on the Venn diagram don’t overlap nearly as often as we’d like. But Ride1Up’s newly launched Prodigy V2 Eco is doing its best to smash them together with a surprisingly low $1,295 price tag . And this isn’t a $1,300 bike with some no-name mid-drive motor you’ve never heard of. At the heart of the Prodigy V2 Eco is a German-made Brose TF Sprinter mid-drive motor pumping out 90 Nm of torque, paired with a 504 Wh battery using Samsung cells. more…
+- 圖片（先確認授權）：[原始報導縮圖](https://electrek.co/wp-content/uploads/sites/3/2023/09/ride1up-prodigy-v2-header.jpg?quality=82&strip=all&w=1600)
+- 原文：[Electrek e-bikes](https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/)
+- 引用：Electrek e-bikes｜Fri, 02 Oct 2026 11:16:00 +0000｜Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295｜https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/｜擷取日 2026-10-03
+
+## 2. New California E-Bike Laws Include Ban For San Mateo County Youth Under 12 - SFist
+
+- 分類：法規更新｜全球
+- 摘要：New California E-Bike Laws Include Ban For San Mateo County Youth Under 12 &nbsp;&nbsp; SFist
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[SFist](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTVFMeGJjekN5VVJKYlZXZm9ESlpueDh6RWtmVGRzZ0pBMEZ2M0thWDM2Vk45TnQ3NmJIUm9JYVRKVlRuaG0zMFV1WG9zOE9obVJ1SEwtcXpSbDB3MjZLUllGbEFfY1hmOWlEOFhRTlVIckU4elZOOFZQdVQ5UVJZV1g5UXJsak5jYU1EWnNkcHBQcFIwYnJKVGJLa0VqV3lqRlU1cEJnNA?oc=5)
+- 引用：SFist｜Fri, 02 Oct 2026 17:53:43 GMT｜New California E-Bike Laws Include Ban For San Mateo County Youth Under 12 - SFist｜https://news.google.com/rss/articles/CBMipwFBVV95cUxNTVFMeGJjekN5VVJKYlZXZm9ESlpueDh6RWtmVGRzZ0pBMEZ2M0thWDM2Vk45TnQ3NmJIUm9JYVRKVlRuaG0zMFV1WG9zOE9obVJ1SEwtcXpSbDB3MjZLUllGbEFfY1hmOWlEOFhRTlVIckU4elZOOFZQdVQ5UVJZV1g5UXJsak5jYU1EWnNkcHBQcFIwYnJKVGJLa0VqV3lqRlU1cEJnNA?oc=5｜擷取日 2026-10-03
+
+## 3. Warrenton to reconsider e-bike rules after citations questioned - Warren County Record
+
+- 分類：法規更新｜全球
+- 摘要：Warrenton to reconsider e-bike rules after citations questioned &nbsp;&nbsp; Warren County Record
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Warren County Record](https://news.google.com/rss/articles/CBMiswFBVV95cUxPendhVXJ0TzN3cXo3dWl1YWk5UFVJLTV2TU1tc1ViY1NnOVpydVlIaUFQQlBUZGd2T0lwQVRWOVNBWnc1azFjS0VsTTZlcmpJUWJLUGhQajF5ZHgwRzdCRjc1V1lwbVhQU3R6N3RNRFJqLUJaYi1CWmk1d0pCTENWZTFJMHZIV0dxOHBtNV9XWlltVkRGR0d2aUJ6UTFkQ1RKNEtVU1B3bVdIeWFCMVhLaTR2OA?oc=5)
+- 引用：Warren County Record｜Fri, 02 Oct 2026 11:49:00 GMT｜Warrenton to reconsider e-bike rules after citations questioned - Warren County Record｜https://news.google.com/rss/articles/CBMiswFBVV95cUxPendhVXJ0TzN3cXo3dWl1YWk5UFVJLTV2TU1tc1ViY1NnOVpydVlIaUFQQlBUZGd2T0lwQVRWOVNBWnc1azFjS0VsTTZlcmpJUWJLUGhQajF5ZHgwRzdCRjc1V1lwbVhQU3R6N3RNRFJqLUJaYi1CWmk1d0pCTENWZTFJMHZIV0dxOHBtNV9XWlltVkRGR0d2aUJ6UTFkQ1RKNEtVU1B3bVdIeWFCMVhLaTR2OA?oc=5｜擷取日 2026-10-03
+
+## 4. Under-18 e-scooter ban welcome but Govt can do more - GRA - RTE.ie
+
+- 分類：法規更新｜全球
+- 摘要：Under-18 e-scooter ban welcome but Govt can do more - GRA &nbsp;&nbsp; RTE.ie
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[RTE.ie](https://news.google.com/rss/articles/CBMidkFVX3lxTE50QVRuY0dYeXZqVFZJYkJLZjREbzRWbzZtX0lkZkgtS3BUdVhJd0d6QWxqaHplc2lmY1RaZThMbmNkb21IWkFWTHVDQmVTNjhlRVNMSnUtYUVuZ0JJWnRQUjJ6WFZyb2lCei15SmptLXhnUVVGZHc?oc=5)
+- 引用：RTE.ie｜Fri, 02 Oct 2026 02:12:30 GMT｜Under-18 e-scooter ban welcome but Govt can do more - GRA - RTE.ie｜https://news.google.com/rss/articles/CBMidkFVX3lxTE50QVRuY0dYeXZqVFZJYkJLZjREbzRWbzZtX0lkZkgtS3BUdVhJd0d6QWxqaHplc2lmY1RaZThMbmNkb21IWkFWTHVDQmVTNjhlRVNMSnUtYUVuZ0JJWnRQUjJ6WFZyb2lCei15SmptLXhnUVVGZHc?oc=5｜擷取日 2026-10-03
+
+## 5. NYC pushes 23 bills on e-bike, delivery app regulation - PIX11
+
+- 分類：法規更新｜全球
+- 摘要：NYC pushes 23 bills on e-bike, delivery app regulation &nbsp;&nbsp; PIX11
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[PIX11](https://news.google.com/rss/articles/CBMikgFBVV95cUxPT0RtQmRHT1RtbF9UYmN6WWhrZEtMUkw3R3JtYVRValVWRnR3dVM2b2JKUjFyNmlyT1pFSVVfOXV1YXNjejJteVY4a0M3Ri1Fa2pDbmEtd2NIeFNJV0RJOWZKSGdsU2prQXkzSnVZYUR1OU1USThZR2hXVVRkYzJ4bS1tX29Yb2FiVkdxM2RlQ0E2QdIBlwFBVV95cUxNR2psaTVtY0hOYnR5S1hDeUhzXzBobTF4WFJpRm9JQlpIaERlN1R5R096eHgwR3RUNFZrcE0xVWRFNjRDYXRnejd5LWVwZ01rRWNvTDhiU1V1TzRBNk1SeUZCYXJZekI5VXllZGNjRWtOYnpYeWZtSFVacllhbEVsejJLaUdSWkppdUJWUXhjanczb0VLcWpV?oc=5)
+- 引用：PIX11｜Wed, 30 Sep 2026 17:00:00 GMT｜NYC pushes 23 bills on e-bike, delivery app regulation - PIX11｜https://news.google.com/rss/articles/CBMikgFBVV95cUxPT0RtQmRHT1RtbF9UYmN6WWhrZEtMUkw3R3JtYVRValVWRnR3dVM2b2JKUjFyNmlyT1pFSVVfOXV1YXNjejJteVY4a0M3Ri1Fa2pDbmEtd2NIeFNJV0RJOWZKSGdsU2prQXkzSnVZYUR1OU1USThZR2hXVVRkYzJ4bS1tX29Yb2FiVkdxM2RlQ0E2QdIBlwFBVV95cUxNR2psaTVtY0hOYnR5S1hDeUhzXzBobTF4WFJpRm9JQlpIaERlN1R5R096eHgwR3RUNFZrcE0xVWRFNjRDYXRnejd5LWVwZ01rRWNvTDhiU1V1TzRBNk1SeUZCYXJZekI5VXllZGNjRWtOYnpYeWZtSFVacllhbEVsejJLaUdSWkppdUJWUXhjanczb0VLcWpV?oc=5｜擷取日 2026-10-03
+
+## 6. Fire Prevention Week Targets Battery Fires. Your Home Policy May Not Cover the E-Bike - Money Talks News
+
+- 分類：安全召回｜全球
+- 摘要：Fire Prevention Week Targets Battery Fires. Your Home Policy May Not Cover the E-Bike &nbsp;&nbsp; Money Talks News
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Money Talks News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFNhb0pfUkNvaEtCdXdmRkJDbXJYZzd5RWt5X0FWUWlSeHE0SVhLb0pDNmRqOVZPM2tLcENib2E4bjl5NlMycllBcXlkX0N1UVlyaW1KSWplUXBiSDdtUmkzcWNYZGZic2ZmTjA3TUlUeGJ3ZE9oWFk5VDM1d0FHV0Z3NEd5X0ozMFVsZmdFMFg5dHhzcVc4dGpZT09jR0dZVVI1SDJSb05MVmFJX0FISUljTXdMdkU?oc=5)
+- 引用：Money Talks News｜Fri, 02 Oct 2026 20:09:46 GMT｜Fire Prevention Week Targets Battery Fires. Your Home Policy May Not Cover the E-Bike - Money Talks News｜https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFNhb0pfUkNvaEtCdXdmRkJDbXJYZzd5RWt5X0FWUWlSeHE0SVhLb0pDNmRqOVZPM2tLcENib2E4bjl5NlMycllBcXlkX0N1UVlyaW1KSWplUXBiSDdtUmkzcWNYZGZic2ZmTjA3TUlUeGJ3ZE9oWFk5VDM1d0FHV0Z3NEd5X0ozMFVsZmdFMFg5dHhzcVc4dGpZT09jR0dZVVI1SDJSb05MVmFJX0FISUljTXdMdkU?oc=5｜擷取日 2026-10-03
+
+## 7. What can I do to prevent e-bike and e-scooter battery fires? - BBC
+
+- 分類：安全召回｜全球
+- 摘要：What can I do to prevent e-bike and e-scooter battery fires? &nbsp;&nbsp; BBC
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[BBC](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpR0p0VDFheUl4XzRtRWF0cS1rYkZHLUhCcHBYeHBfOUJPU3ZkQ1d0LU83YnFWTDJoZGR4NVI3TS1YNHFNdjg4OVEyWTZwcFQwNTRLa19YR1lwYUxDOHc?oc=5)
+- 引用：BBC｜Wed, 30 Sep 2026 05:18:41 GMT｜What can I do to prevent e-bike and e-scooter battery fires? - BBC｜https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpR0p0VDFheUl4XzRtRWF0cS1rYkZHLUhCcHBYeHBfOUJPU3ZkQ1d0LU83YnFWTDJoZGR4NVI3TS1YNHFNdjg4OVEyWTZwcFQwNTRLa19YR1lwYUxDOHc?oc=5｜擷取日 2026-10-03
