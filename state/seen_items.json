@@ -1,111 +1,7 @@
 {
   "version": 3,
-  "lastRun": "2026-10-20T01:59:54.416Z",
+  "lastRun": "2026-10-21T01:51:24.198Z",
   "knownKeys": [
-    "url:https://news.google.com/rss/articles/CBMi6wFBVV95cUxNX3FzZlhSbUR4NVdZQUxIQlo1d1pJMXRzNFpzRkx2VzQxZFAtY1RCMTljcjhTTUNpdTlBTVBfU2dYb1FWR2RMbGtNRC1KUV9fOVl1bVMwWEU4NE5QZHNTNW54NmVJVmxjbTlTZVFMdTIyTDhGM1ZvTUkxa2tseGZzTWNkcWVENHlXM3RWY0NmbE10dmlqYVRHTjExYV9xWHhkdjJ1LTJQN1Y4YUJnYTJ5ekNUZTFLeEdHWG9zWHJ0b0xTMVdDaS1XdHlyUmtQZnYxUXZHQmlRdXJMZzFsT1h2amhzdTJ4NDF6T0NJ0gHzAUFVX3lxTE9uX2phMlJUUS1VcnJrajZPelFEbnI3OEdwYUJvTDFseTcwc0kxbUxaLTRUeDQ2RHpoWlNodmxldmdWajR3M2F0R3A1V3lDczhTSS1sQmxUbndONl9ldWxlRTQ0NVZKVEpWVC1wT1NHSlZJZEVnSUJtVVdRd0F4MlF5MHcyYVZaUlIwSUpmTEtab19qOTQ5NkFaQ1NXZHpRZC1CU1hfOUQwVEF0VWIySjF5VVJudFo5RmwyTHZTVHJHeHRyNnRQQWQxWkRwZnpYLTcwUmg2NlFOVUhZUUF2azNSZnRoZjd6Smc1SHVPQUptam9lVQ?oc=5",
-    "title:new e bike rules could lead to fees and fines delays in getting a license nbc 5 chicago",
-    "url:https://news.google.com/rss/articles/CBMijAFBVV95cUxON3pDenF4U0xCR1JsM1VNa2VyZWdXWFRCREY0M0o0YWxUZkZxSHhMM2ZzYUVHSHoyVFV6NTRkdi1Ma0NaVmtCVzNKc2U5SEhLemR4cHBBNHlyM1RxVHJOd1ZsaHF2aW1mbUoyMnpwM24yZE95ckJrblFENWVhcDloeFptSkFzd0dtVzZHeA?oc=5",
-    "title:illinois e bike rules take effect jan 1 with age limits alton telegraph",
-    "url:https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTmtrTVdOcnlHVEV1cEdNYVRFTjlPVUZ2X1RwZGltUGlEN0EtMDluWDdMa01qZldoeFV4T2tFTzFHbnFEcF9Md2ljYXo4ZDFYQmRIY1RkSVlhTGRKQlpqTExMeHh2ajlENnJ0cUxvRXhSSjk5Z0EzdEJnQkVJSU5GQkFUNEtEV013cUNCMlF6bTI2aEo3eXhkSVlFcmgzM1J5aWx4WmhaR2lINk5qSExOUUd2aEdfYjlJTW0tT1RaQUYyTHAxZnFQX1ZTbk50T2o4?oc=5",
-    "title:heybike titan moto inspired full suspension e bike launch ecoflow 572wh river 3 plus power station bundle 319 segway more electrek",
-    "url:https://news.google.com/rss/articles/CBMisgFBVV95cUxNSkM3SHpXanpCWlVrY3lIbFpyUy15WUZjUTRlaFl3M0R2dGY5SVEzdGt2bVcxT3dJdWw1TDJPR3otMV9UdzFDd2FlbklCOXNMMHpLcGM4VzVfcUh2bHZOdnYwREVkbThlOXR2ZzBhRFJhVk56Y2RfeU9XTTBRTHUydzQzMDViR3dSM1hvLTRyeS0yUTNBb3F1WVRaNWMxam54UW01RFpPZjJJR1FhWGh0MlpR?oc=5",
-    "title:yatri p 2 electric scooter launched in nepal ratopati",
-    "url:https://news.google.com/rss/articles/CBMi2AFBVV95cUxQckpQTmtZVnloa0haallEU0Y5bldvX3RzOWJ5OXdOY2FNOVUwc1pyNnk3R1JzbERLODhfaVFBMFZGVWVDUG52d0tPQU50c0NWemNvbk1JVTduUDJWQ3JKek9ENEwwY2Z0WkJXVEFoU01KTzNTYVZjaVJDQWkwcWxkU1dZZ2VTRVRlczdncGNLU2hIZTlzOWhKaHJvSHduM3hKZExsbnFubVJHTjZvWEI3cHNhS19DYU45VnVGUzZ2X29vZW9BU29XNlhKaGdVUnF4OGZZODdjcVk?oc=5",
-    "title:officials urge e bike safety as utah students return to school under new helmet law fox 13 news utah",
-    "url:https://news.google.com/rss/articles/CBMisAFBVV95cUxQMl95U2RwQk05UFQ0dXRPb01NQ09qempxWmlGQVpvRzdjMGlQcE5lVWhnY3BWZXZjTS1iTzlNY3R5dEZGc0ZlNWtReHRLMlBRLW5ENnBEWkxQdjFQQzBIRWxpYmxFZ2dsbXg5alJQdC1HOHU0Q1FXQTRlZFpYZGctX1pDc2JEalRsbWhUTDE2ZkZ3eVlqLWg3MXA1UXpmVnUyUnE4SjRLT2RmaG94OWZTbA?oc=5",
-    "title:police in herriman offer back to school reminder about new utah e bike law ksl news",
-    "url:https://news.google.com/rss/articles/CBMi5gFBVV95cUxONzlqR09sbEotMnVPaVIzU0pRTUhlX3k4X0t3Y0U2WVZoeEhOMVR0YTdqR24tdC1lX2xpU19Sb1NSYjMyeTV5U1JDTEhfSUtZTVh3TFBHSUd2ZTI1emZqRjM0Ti1MM0RyMGhpbzlGWHQtU3dtTFctMk9RSUo5Zm9paWtqYk1TMWNta3lJcEctNzQxblFaQXdaS0J4RnZ0LVFZSVByNm5YSG85akpzUTdvOWpVR3F2MjU4aVdadkJXQ0p4ekZHcWpCMktFaFZQR3BVaEgyWlFhekI4Y1NVdEZSU0E5azJaUdIB6wFBVV95cUxNdlp0UGdINHFDelpXSmFyb3VpVU1EekxwUzVBR1BmQzBPZ1UxdmFmcVAzVGlJOGdhY0t5ZlNfM1BKVTdLMk1CQ0lfNXpwcXdwUUN2aDZHRWF3aHJfMXBSZm13NEJCQ3I3MElQN3M0RlVRYXVRRW1ITjZlOW5yTVJqZzFEc0NNaU8xM3pvd1hSYi1WWnRoUzdITXp0b2d5VnBua21fQkFhMFBsQkkwV2dqdWJ4d3dCZnp2Q0RzR1oxa0JpeF95RXQ2Um5nUGJCWlBLeVdaY3JWT1kxUmtYcUJFdlc5MWFlTVBVMVlR?oc=5",
-    "title:electric bicycle regulations illinois e bike law sets new rules for riders high speed vehicles takes effect jan 1 2027 abc7 chicago",
-    "url:https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVNVTmNKTjhVU01GZFFPQ0pRUmdtbmd3WjJEOGZQUGpFM0wwM08tb2k2dDZSd2dYUG03QXczRzlwTDZmRUliUVpWdjRNQ25ocEloanVKcU84RlFvUndHSExaR0ZzeDlPdEVMbUVVb2s2NW5BdS05VHhudWpVYWtjRlJjaUtiTDhDci1kYmJDeG1rR1Z6MUxsM2FmYUlWd2FjdEHSAacBQVVfeXFMTTlxQTd5OFl4Mnl6Z3NPeXh3eGU2RHlhODhpM0lDN3B1SVd5VWR5YVIzMVo5ZFpvdi1ISFNYUnY4Vkh3UE0wSWlJUHhuR2tMczNlUmg5TFBWTU90M2tabzgxNDREZHhQRm9HcjFNYUtWYkRhdEVlajEzX1FtRmtoclpzTTBUd3hsRk01d090RkFPb2JQVlBsbG9XeWstSmtmVDhSUWVGZzg?oc=5",
-    "title:fresno family displaced after electric scooter battery fire destroys home abc30 fresno",
-    "url:https://news.google.com/rss/articles/CBMingFBVV95cUxNTlJRT3lEQldmeFNHbjB1UmVxNXA3Rm5vQXN1SGJkSWUyZFRuVFZtUXBrazE0ZUlEcFB5LWd0Vjk2dG54NTg0TkRlVGtObGRnek50b2ZQOFBUbHZpcjV2NTBjQUgzVWtycW13MnNsUXdHR1k1VVBwVWh6Y29YY3VWLXJOUDRubkJRMmladkxyWldmdElyMGdKYkZwdEFUQQ?oc=5",
-    "title:simple wave family electric scooter to launch in india on september 2 acko drive",
-    "url:https://electrek.co/2026/08/20/this-fascinating-folding-e-bike-is-lighter-than-bromptons-lightest-electric-bike/",
-    "title:this fascinating folding e bike is lighter than brompton s lightest electric bike",
-    "url:https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWQ2aGRhUkxsMzlwUHpnNkx2SG01R25PdVgyOTI0bzVOUl9IVVZ5aGxtcGdmbnRnV05oQUF5TWZITTRkQVpnRnZYNGs2alVzX19TcE9vbjhTLU1lSXlPZnJEbWdrQXFHV0F2NG41QzFfeTI0SzBDMk1TLTZsa05zNTFxaXhhLWw5M3dSMG9Ld9IBlAFBVV95cUxQUFJjOVFOXzlBdHhncUtsNHc3SXNsa1daT3FKOHVvUC15bF9UY0NXYVhoZW94WjhJd1VORmp3T0lOUUdLd212aTM3b00xX1QxR1lBR2hFTzYzZGtyM0FUMTFUb2pSZkdOX0FIcnFrN1pBR0NjNUFlWFNfTG4tRFFvUkVoVlVIbVJ2UWRsY1FHLTYyOU1I?oc=5",
-    "title:simple wave electric scooter details revealed ahead of launch bikejunction",
-    "url:https://news.google.com/rss/articles/CBMijgFBVV95cUxQcEtYNERkY2dTS1dOSWFyYlIwczAyT0pCNU1ZN2tnc2k2bHAzdy1NR0d4YXl1YjR0YVF3blpVcklQb2drQXZKR3BjVy1LY0pZV0MxY3lpOVdHVXRYSkhhdVZjRmFVNkk3Z2tiSW9oTTlqZW1WSGdrNG5BdGNBeUxUNUZTcG5OZXlxNWtLQmt3?oc=5",
-    "title:upcoming simple electric scooter named as wave launch on sep 2 bikeadvice",
-    "url:https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXalBuajdLSldoTDRHOVhwN1NUbk1Pc2JJazI4WUtsckNfRVRuWjlFa3Y4SjRUVy11WkR3ZmZoT25SSzY3eXd0dlJEVUYtOFpVbVZYVzZqZTN3ZWNs?oc=5",
-    "title:18 deaths from battery fires show hidden danger of uk s e bike boom bbc",
-    "url:https://electrek.co/2026/08/18/ride1up-unveils-new-and-improved-895-portola-02-folding-e-bike-and-i-tested-it/",
-    "title:ride1up unveils new and improved 895 portola 02 folding e bike and i tested it",
-    "url:https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaXpnVi04dk9wNDhZOGVidmc2VVZXMjE2S2FpSGVNdUpTNVpoRmJZVUkwU3JkdEdJS3dfMEtSU0F3UDlxQTNzNjR4cUtDY2RMRDFDZHZJUE45dGpZSWltb3JwYmtwNkhIRkYwZHZrVFU0T2F5TjNNRC1oVDZ3WHB2c1BhYTE4NnQ5cFlHUndqUXRtWFZ0d1VrMFJnWFB4cmhPRFRPeEZhalEtZlU?oc=5",
-    "title:segway introduces two e scooters and a hoverboard for children notebookcheck",
-    "url:https://electrek.co/2026/08/25/i-tested-this-lithium-ion-battery-charging-cabinet-as-the-safest-place-to-charge-your-e-bike-batteries/",
-    "title:i tested this lithium ion battery charging cabinet as the safest place to charge your e bike batteries",
-    "url:https://news.google.com/rss/articles/CBMi3gFBVV95cUxONzNEXzAzRlIwTzR6TlkxcnQtcVVVSnhWVDVGaUx2V1FDWE1WRy1yYTNRdmVYOUpFMHlRTVdieWd0azl3YjhGR1dfMWNVeGlDbzI4eHBEanAwV2c5VmJzTndCMy1lSnRuM0hoV2kxZnF3LTRCc2tITjhfcDh6MTZjaGlFd2lwS1kxLXRhekpRZjJGQlFDQ3hwWU00djlpazNSczlvZ1NfMXVySnBqSU9lNGxSa1JXM0M2UDl1VkFfallxeUFLX2xEUndOeUVNUExzaWhRUmE1WGRYX0dWb1E?oc=5",
-    "title:bgauss launches oowah electric scooter with 145 km range at 3 0 kwh battery et auto",
-    "url:https://news.google.com/rss/articles/CBMivgFBVV95cUxNLW1kd1dLbU5yS2c1b2JLOHZHaXdoRXNMUWllaHVuNXR6SGMxS3IzTHY5UnRtR3JuVUpHcWFsRVZiZjJZWVhPbTJ0ak5idFBUVXdZUlUzTUE3NnFieVZwejFVZVRwS1BrTkZVbktoTGxCUUhjNHZ1YjE5REdSc0FYUVM4a1lCWUhYUTJqMll5em1kNmQ2NGVVREg5S1R6UlVuRkV5blZWbHpjU3dQN2NqZGJjZzl0bU9YZDVXV3FB0gHDAUFVX3lxTE53dWk5WkpKYnRNMkcxYkZLTXpKVmxBck5VZXJGMkNoVEN4TjhSTTBjNW8yODM1Y0lOM0lpaUhrUU5sa0JNYk1ESmFISVRRTkV6LXVsc1BPZnMweHhpSFVpVElBS2MxbllaWlc2ZEVXS1U4OW5BYXZJVTEyaW9iR3dGem1LNjVZTlBZcDJ2bFE5cElMRTZtdGRiNUxENzlUQ0Y5RnF2VXNNOGloZTdXc2Z3c2hmRHpNVnFKc3JwdjVoRWZIQQ?oc=5",
-    "title:ather enters mass ev market now targets 90 of india s e scooter segment forbes india",
-    "url:https://news.google.com/rss/articles/CBMiqgJBVV95cUxNR1B4dGVIR0ZSb3ZpdXFDY0ZVV1RWLThCanhzbFF3bGJoX1dIZi1aZlVLZXJYVUhKZ1hRUWtJc0pxWDlMd3hnOWhtVVdYMENKbHdFeGRDOUxzU2p2TmllUTBtOFctT18yazY2VmlIU1VnakYyVWZwUHQ3MHJfRWJWWERkZDZORUowUURNMUxtNHh2VUZKMlBvTFVlMmVHYTNhVjYyRFJsOTRrUnRWMk9XTW84eUZlZkxlM3JxWV9RWFlBOEQtS0hBSmdQX19XNHprTjVWVEI2V1U1akFzdzFLQTYyMUx2bGlfOElsdmNjbGo4ZjNSbEg5Z0ZUeFBUWWZQXzMtQXdCeXFQWGp0VXlJbnhXMzRzYkJpUlVqaVdnZXo2cmZIRWZBcER30gH2AUFVX3lxTE1hSFp3VEMxa0s2WFowcWxMOUxWa0VXSEY0TnBPNGR4UW1ZR1ZMckRDbWFxZE5GRWlJeVNNLTFpTE1xbVdNZmI1clhTNXVvUjFlLXRrRzduTlVkVlZKaWRIeVRySTB3dHM5c29fZ1pUOVU2V2JxSm52czNiU3F6MjZGVVp2blp2cXpkU1dvbE1wSEtBOTJFZUV4ZlhEZXJfOGZFbW1IU2tkNFBoSUtEaXZkbkt4U3lUcUt3SzZoaFRybTEzQWVuVldLczBWUkpvcWNMc2pkWGl3T3VwbGhlcVlHNzF5LWpmSktNNjY5eXR2U2NXRUlPQQ?oc=5",
-    "title:ather launches mass market electric scooter konarc at 99 999 with 10 year battery warranty et auto",
-    "url:https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeXBsUHBtajk2ZzVKamhtMDZoNm90aGk2T2VkMkl5cENJd1FScHFEb1pyMkdIWXRuLXJmZl9wdk56cVRLOVdaX1VSRWF2MEVnWTh2VUxGQkpHeV9oZC1ITE9LSjNMNWR1bVNJOXpxQWdfb2JuZ3NWQ0IzbVFVVVdjSFl0bmt1aG44TWd6TVRDemU2dDFPMnZOaE1hNV9nUlktN0Z3VlJNcV9GVlNmVDhTQUlWTmxISUtkNFdFMDBvbzhfZGNldWd3ejdfV0NNOWI5NVNsczFQbjd6eF9HVUpjd29RZ0hHdHPSAewBQVVfeXFMTXpCTmFPWXVEWjZJLUVvY1FzMzNDYmNDbTRLVVd5Qk1ZX1FKQzA5aUZWTlNKSnRDU2VpTS0wZkJGVWtHQjFLcmZDSE8zWUpENXVYbHVaUzd4ZzZXdlZjWktETkVvRXBldlVLMm40eWhTdEJTenJsSnFvR05pNTdFdXZSRXR0d00yei1ZenREYUJCSWFtWVlfRXZteFZhaDUtc3duMVRwY2tqc2dWQnBHTlBfclItYWdLZWptc2llT0dHWi01MkNOS3Y5eUQtWHBFR1dGemxNem8yUkdaNzdBbHZoOG53QmVRemNLcFg?oc=5",
-    "title:ather launches konarc electric scooter starting at rs 99 999 targets mass market buyers moneycontrol com",
-    "url:https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
-    "title:aniioki s latest 6 000w dual motor e bike blurs past the line so much it s basically an electric motorcycle",
-    "url:https://electrek.co/2026/07/31/hmps-new-3999-electric-scooter-is-the-affordable-street-legal-commuter-the-us-needs/",
-    "title:hmp s new 3 999 electric scooter is the affordable street legal commuter the us needs",
-    "url:https://electrek.co/2026/07/29/huffys-kids-e-bike-makes-a-compelling-case-for-pedal-assisted-riding/",
-    "title:huffy s kids e bike makes a compelling case for pedal assisted riding",
-    "url:https://electrek.co/2026/07/20/will-we-soon-see-sodium-ion-batteries-on-electric-bikes/",
-    "title:will we soon see sodium ion batteries on electric bikes",
-    "url:https://electrek.co/2026/07/03/wheel-e-podcast-gazelles-bosch-hub-motor-bikes-eurobike-more/",
-    "title:wheel e podcast gazelle s bosch hub motor bikes eurobike more",
-    "url:https://electrek.co/2026/06/29/theres-a-new-e-bike-motor-and-fast-charging-battery-company-in-town/",
-    "title:there s a new e bike motor and fast charging battery company in town",
-    "url:https://electrek.co/2026/06/25/avinox-shows-off-wild-new-gearbox-motor-concept-as-it-expands-across-the-e-bike-industry/",
-    "title:avinox shows off wild new gearbox motor concept as it expands across the e bike industry",
-    "url:https://electrek.co/2026/06/02/more-police-turn-to-simple-drones-in-clever-effort-to-catch-illegal-e-bike-riders/",
-    "title:more police turn to simple drones in clever effort to catch illegal e bike riders",
-    "url:https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sci1YUk55VVZvMWUwc3A5VU1lOTBnZ2dqVnAtNGxRb0wtRk5DclI5dzJ5UlA0dU1WY2tPNnFCYW1SM2lucDV6c080cUVsWjJwemE4RFFDUHNQYTQ?oc=5",
-    "title:2026 क electric scooters ज india क ev market hila denge mondiali 2026 rgh0flokmt mshale",
-    "url:https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wU3BhQUdPSldmX3FpX0FITy01OHdOTlYzbDZiTjZudGVESmVMR014bEtrb3p1cXN2XzNoTUc1WkFheWttdGRhLWF6UWNSSlZuYVE?oc=5",
-    "title:it has been a year since an electric scooter battery fire broke out in an apartment building in chan 매일경제",
-    "url:https://news.google.com/rss/articles/CBMieEFVX3lxTFB3em1yMWFyak5UbmhYUXVLR1poN19ZSW9adTdKYmhjMW16amFOWHpEaXUyQ0hkTTNLRDlSOExIcVFUT0ZBSklqMlpkdmk4NFRGTW5Pdno3S3FXN3ZsTzNZNVRsV0pQZjl4eF9TbHpldnNyV0dxLTItVA?oc=5",
-    "title:waterproof e scooter market size forecast report to 2035 spherical insights",
-    "url:https://news.google.com/rss/articles/CBMikgFBVV95cUxNVV9kejM1Wk5FQ0VBa2l0bFI3TGRrR1VCZ1R3YnZ2WGdJUVpQWXhxbkRGNUJOenEtMnlMQ2pzMm1ab2ZQRUxXS25LOEhXUWFNUEdSQkQzWVZmRWRtaldzaHJhcDB1MFRiRFFOdGNQeTBRcHhkMS1YMkFhaDBnTi04RnNLSnRrdWcxRWQxNFJsWmpQdw?oc=5",
-    "title:electric scooter manufacturing plant setup in india imarc group",
-    "url:https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zVEFNMEJ0c21MQlVHOGxMUDFYUTVCb1JmRC1GY0t3TVVsWkZkakxYYTdNaDdZcVBDUXJ5MzZnNE9Nd18wOE1YeXZsb0UwMnJXNE9tbFlVUERPNkEtQ0xna1VGa3o?oc=5",
-    "title:india e bike market size to attain usd 6 67 billion by 2035 precedence research",
-    "url:https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDZ1YUJNcXBKWkFlYXdJeGtqajdJamZzU3RwUzFIYXlQbi1GaXpwbjNIUF9taDF3NE5kcUJnUnpRYnJfbjVMZGUxcVVnYWNHZkRwd0t1UU42bm9sQk9kZVdtNV9VTGoxY2pLbFdNbnhKajIzbDd6amlFTXJ3YTlFeEE0TDVBUW1pTXpSRU9ndXlJZWY4RFRTdkhwMU0wMWlyRzZzbnpOVFdhTW1G?oc=5",
-    "title:truck hits kills e scooter rider in downtown san francisco on market street cbs news",
-    "url:https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWWFlaXlYMk5vQkt0Vk5va01JV216Zndfa0diTUZNb0k2bF8yczR5V2pxVHRMZWxJczlheFdvdktwNHY3YkdDUUFyTTNqSWQ5WmNFc2ZKa3dkRlVHSGVFVFVVRV9ua2JtTlI0RFUteGZkVkxsbktvOHY3QlZ1eVc2eE1vV0MwejVLNVI4MWprSVl5QUJTVEZwNy1rd04yd3pYWGtYZ2ZVZDlpaFlKdDBzQkZGMFNuTTBMWHdrak5WLWFqTF9qVUhOSkY0RkxqQ3Rx?oc=5",
-    "title:ola s1z electric scooter launched in india at inr 79 999 range battery and features explained mashable india",
-    "url:https://news.google.com/rss/articles/CBMirAFBVV95cUxOTG1ndDlydE5fT215bHptTjByZ05zNXp3VG1jenVrTEczcUdfZ3pzaGl0aUJuSXJpNjVYeXVvdVltMXk3NGNuRkw3MEZob25nNDc2aHZNbmFILWlPUnROd0t1dlo4ZUw3cjBrdm1VSFFyZy1PRjNFand5QXQxLTgtWFZSTlVtUFhVZmFIcUdmTnBBd3hJbXBGZXpHcTZEa01YOGk3UzQwTnBGbVJP?oc=5",
-    "title:ather konarc electric scooter unveiled price range bedrock battery features iamabiker com",
-    "url:https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjJIOUM5all0SWtZMzBQandadGxSTXJiQTRNZkdqOFFlX2lYUm4xUWotR1RLNFNkTHdWMVVlcWhMZXhMeXRDSEdvQ0lwaXBnb0p4aGw5cHpFbzQwZGJCNVp3M09SSWlSLXA3eTh5UmpTOTBXYzdGdmo5TnpKQnBxeTBNWWpFd1lUY09ITUtoOHc0amZzZ1JzSUFCQnJsb1dRajk3Vjc4S0pOZnZaZzNvckwyMEVfXy04N3htalBqeW5sWTky?oc=5",
-    "title:ather energy shares rise after new konarc electric scooter launch by investing com investing com india",
-    "url:https://news.google.com/rss/articles/CBMi8gFBVV95cUxOT3JhZng0MEZYX09MeE9HZy00S2FDazhnU25NWS0tT1R6dm9RblY5SXVPclNGV2xHQVU3RzRMMERQV3pldkZSSUxLb25ObmhUTzBBcG11SkxPYkxlbE5EclVUSy05MU1xUGFUX1VHN0hRWm9sR054WGVqVnJqSUtWOW92S3dkZUx5aVoxUHpxVEdqMzJhMHN6RUEyRXk5Rkl1bF9pZmhvak5nRjJQOWExcjgzd1JTZkdSOWxxSGE4N3BfV1BoLXo1UW9oRU85QU5oLWV0ZnozcmJib080NUEyOGtvcGEzcjJEc1I2d2JDU0t2d9IB9wFBVV95cUxOWHQwVE0yQk04aDRZdEYzNGxEZG1vUkRjZGRpTlhoc0RkZS1mUmNyXzVEMGNVeXd3LUIwZWJhaGRJRDl0aEdFUDE0QXl6eXlpQ1M2TldGRWwwLXN2RG5XXzNVa1UtUXp5ck5OMWtnUFFtNGY1Y0tQbm8tNkZGWjNkSnV5aXYyWXBZcWJ0RkRsRW4xcUJvaXdlaC12YV9QN2ZSQ1V4amVIbWFSaWxMOXQwU1FzYnM4dFk1UUdpTG9VcGs1ZmpyNTJ2NGk4d252TmRZaTZ3dFJqMk01TUhBMF9TRXZmVnFyRlM2ZXpsWDk5Uzh0dlhFY3dF?oc=5",
-    "title:ather energy stock hits new high post konarc electric scooter launch rises 4 brokerages bullish moneycontrol com",
-    "url:https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSWRGUjZCWHFmdFIxaDZJY19LcENnZ21ZZEZIVWtqNEppM2QyV2JpVnBiRUxNTGNpMlhnOHNkZUpfWVB6V2FKc3pTTkg5OU5PYzBfOFlWbWxydUtwd3RmejhXWlc3RHVfcEZ3OHJYMVJFb1FMb25KVThXaW5CNUtrb3Q0LXluZUxfeDhXTGl2aVN4UDI1VVJ3cEFRbkV1ZzZyeUgwbVY0VmM3ZElnNFU1Y3A5TVdGVV9NWVZaWGFMdEdTczg2SWxJT3F2NWRib25rYTc4NkJJdEZoNUVOM0Z6VExodmh0TTZFak81c2RFc1jSAfYBQVVfeXFMTWFIWndUQzFrSzZYWjBxbEw5TFZrRVdIRjROcE80ZHhRbVlHVkxyRENtYXFkTkZFaUl5U00tMWlMTXFtV01mYjVyWFM1dW9SMWUtdGtHN25OVWRWVkppZEh5VHJJMHd0czlzb19nWlQ5VTZXYnFKbnZzM2JTcXoyNkZVWnZuWnZxemRTV29sTXBIS0E5MkVlRXhmWERlcl84ZkVtbUhTa2Q0UGhJS0RpdmRuS3hTeVRxS3dLNmhoVHJtMTNBZW5WV0tzMFZSSm9xY0xzamRYaXdPdXBsaGVxWUc3MXktamZKS002Njl5dHZTY1dFSU9B?oc=5",
-    "title:ather launches mass market electric scooter konarc at 99 999 with 10 year battery warranty et auto",
-    "url:https://news.google.com/rss/articles/CBMiswFBVV95cUxNak04NGV6T1VHd1UxRGU0WXBSaWxZZEpLOVdjNUplTnZ3RGx0djdrU1ZKUWYySHYtRkNHVk51dHM5X19aRGJ5bEtuZlh6S1kyYnVtZDZWclNDMlJhNVNWTXoyZ2dGWURsRmh3RjFaYkZxX2x6UWJrbzVteW8yWkw4d2JGNGNpZVJRRGc3ZmNmakV2azBtXzJaaEpERWtsSWY0NW1YbmN4YVh4am9mSnlLWVliWQ?oc=5",
-    "title:ather konarc electric scooter launched with up to 200 km range prices start at 99 999 acko drive",
-    "url:https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEVjS0xaWjFwanB2eDdvSEZLNTRlODRBYzh6c2VlNnFERTlsZDBONEZPT2JqQ2g0RUE4RjNhcjBXOG9hY29rSGg3cWRBd2cxOUtodlozVmlzR3FHRHhWRER2TE5uejVCTWZWa0REeGhEUDB1OFhQWUctNFA1T0pCbUpPRzEza0VWZGw2adIBkgFBVV95cUxPZ3RBc2dHeWd5WFVGdVhFbFRTNUJ3YkRfaUJhVnhLRndTRHlGYndTOFY4QzZPUjRZSWVGcC15Y1Ftejg4YktZbklsWFg2bENHdUNxSm9aS0JQT0tuaFhIeUd0eEpZODNYVnlhNmRPZGV4b1V1RlQwOFo5a2RvSmV2RXVQaTNTbjMyeFcweTdyZDRFZw?oc=5",
-    "title:electric scooter s lithium ion battery sparks fire that displaces 8 in fresno officials say yourcentralvalley com",
-    "url:https://news.google.com/rss/articles/CBMidEFVX3lxTE5JNWJVSlQzOVljMFA0bVpWZFhiNmFBQXptdW9fUmZLRWptVXQtU0RIRlZZeGxrWHNjVVhMVzNSY1YzVU0xbENJdGU0N09lbE5IclFkcXpINXdLZjR3azRUT1JNRmh3Qi1wTlREaTZkMkFFWkpa?oc=5",
-    "title:ather konarc electric scooter launched at rs 1 lakh 161km range 4 7kw power auto india daily",
-    "url:https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkUyeko3RVNDSzZfelh0MC1QZ1ZjT1BZcE5rVy1zWmx6VEZzbDFNQ0RCVXNiUURlNUwtZ1NFaDc1cFctMlhfeTRkTDUzWXZrMXdmdEc1d1FCOXJjeWJYeDEySEdqbEZ6b2R5UHAxTXBIWlBGdDVFOUZkQmxac0F3VlFVay1CRWJDbGZ6c0puSDlZdTRWMkExenZJUDFWSkRqMVhtV2w1b0tXbjEzTEFZ0gG0AUFVX3lxTE55S0dNS05mR2RLX1FSbll0LVZjNTd1dDJrRkwzRWlLSlhYWnN4T3JtVFI5NDZ3MGJhcWxDdXFpcm04VUxrMVU3UHl6U1ZuR1dYM2hzd0R2T3ktZFNtalFTQ25DQnpyOTlzS2YzeEVRZ0FYSS0wTXV5cDlSdXJrNmpTZy1SRGd1c2Z6LTZDUF9WLUR4Nm5OcnNfQWljZERSbU1XQk4ya0VpMTlJMUZURGh3Zk9xQQ?oc=5",
-    "title:ather launches konarc electric scooter at 99 999 introduces athernode new battery solution cnbc tv18",
-    "url:https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUJ0SzNiZkN2N3pmUUJDcE9HTnRKUGNwb3lvQnYzUU1Kdk40LWNYR2N3OTR4SDJDLXlYT3g5YUxDMFpsN1NlSGp3S2RWbmJNTU42MlBWZG5mZHJsZzk3TjN1a3VHODZZeUxkMFFIN1Y5TDZta1pRTzB4eE13VW1HV0xMZmdrZ3J3em1IX1VjX19DRmNMeWFwWTV6ak9TX1VWODBiQXdSelUtbk1YenNRQXpQTGNkbXcwMUE?oc=5",
-    "title:jackery homepower 1000 plus v2 1 024wh station launch heybike upgraded 1 000w mars 2 0 e bike exclusive 749 low more electrek co",
-    "url:https://news.google.com/rss/articles/CBMijgFBVV95cUxPSmFfTjc3aEtYVnloZUt3UHFZR0t5ejkzZWxTNFRQb0dxYXIzaTBKQnhvRWxHWXdYLTh6ZEZtdmwyUTVxUjB1WUREOUpSZU1WUzlwUmg2ejh4dUM3VkYxR2QxdWNXaXU3Zlc4NFh4NTRQcUMxS2txMkw2dlB3YXQwWXViWlVSQzdlTDVHd3FB?oc=5",
-    "title:ola s1z electric scooter launched starting at rs 79 999 bikewale",
-    "url:https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbDQ5MUtiazJiX0VtV1ZONXJxMjNOYW5NNDlteXo3alIyNlBXMUJqaEZ0UUh4WmFrUnJyOXdJV3p5UFkwaTROSDBqaWtGSkZ2Z0ZVVXVIamhLTEV4QjRVVjBxTm5xOHpza0JmT2NxdkIzTnAzN1R4NF9QdERYc3AtZ2JPS1Rmd2ZobDY4ZXdfeXF4cUVwTE5XTFdrQUFmMTFrX1NqX3BjVjRPS0pYREktLURveHYtemc0ampIaUZIaVl0Zw?oc=5",
-    "title:ather konarc electric scooter to launch tomorrow here s everything you must know autox",
-    "url:https://news.google.com/rss/articles/CBMi3wFBVV95cUxOa01ZOHExdVE4SWpEMEI5RGctQ3IwMGROWktyOXR4d0l6OHFHWXowMnZPWjZNb2pKbFlta0g1UXowU3RPOE5tZEhpZGMtSWtSSkJUZ3I2dWEtQ1RIM1R4eDBwN1ZnMlozYVN0MUhjRVo1bWZLREp5NGc2UU14ZlRVay1rUzlXTVgzaHZGNmFSdTlUR01NTXdvVlBLQ0ZsR0oyWEh5T2N4aHlxWGJ5cUVrak55QnJHSUFEbHEwU2xfdkRCdjdjeWF1WFF1a0JfU29PWjZsYUh0LTJZRFVGckVB?oc=5",
-    "title:new law gives police tools to enforce e bike scooter safety wand tv",
-    "url:https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdEdwNlRNdHNqRG1FN0N0aUhCNXlEal9IRGkyUVRnTFBDNE9LQVBUZEJHbV9WTzhpSGlISVNtd21OZG12RzBERnpvaF9FMUFXVndWX3JHOE9qbV94a2xQUXlhZC1kbElNOUU2dURGdDAwemVFR1pnRXQ0SlFnVGg4bDBNcTBSNkZmYlcya2lMcXJiRlJxblJfM3hvODZPb19oUjc3bVpubDVnYUhkQXlnOHFDY1J3U0hadERxUkx0M2JZb3dEMURKVk1VdVVPUElQcGh3aNIB2gFBVV95cUxPSkpDQi1Kc0xrTS16M05JRjNiR0ZQaDBGcnJsbElieklxSG1MSUs0aTlmSnBpNm82cUhoU0haazMtU2ViUkpLQXcwSDBXR2NuVEU3QjFkang3Rnh2TU1XQkQ1aFZKS0Z6Q2YwRVFyaG1rWFNRajJhRDliY29EekpPZ0tyNF9UNEhlajZtcXVha0dxU3BqNzB4dnRIdjlscGlSU0dhX1dJYU96YWticGhCbkVEbjBEQ1ExblBpYnhaWXh1Qnd2MVdFRkpHMnR6bXk3M0JVM3pVcHBtZw?oc=5",
-    "title:ola electric share price surges 6 after new s1z electric scooter launch business standard",
-    "url:https://news.google.com/rss/articles/CBMihAFBVV95cUxONWZnZHVjUl9QakdtY0NkX21tZENMc3RmVjVaVE1mN3RlQjRvUy12RnJNNGdrRXl1c2lYOWtHcjJGY1lTTlB5WWZBVnc5M2lRNTZFT3RaUVROTzhxMkViVFZNczE5eTJuUmFDQjJuRFFpc3NUQV82VFhaZEtqVHZsYUlVZVjSAYoBQVVfeXFMUDNZTG52YVJPMXBaYjhiaHdfVEhCN3ZUdmQ2VE1pSG9hYXI4YTRreG8yYU1NYXU4QW42WXBROWdYRXNVdXhZd2FtUWJTRGN1U2JiUF8zaXdud05MWVJoSjZELW5GUWNpbjNnMnlFSWpFTUM1THVRM1BvbXpPcldFd05iVDJWZmMzVXJ3?oc=5",
-    "title:scoop ather konarc e scooter leaked ahead of launch team bhp",
-    "url:https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRWhJQkdsRC00amVVMTkzZGZySFI1dXNCTVZ4Y3czNkNFTEJzV3Vub0RRcmx1YklMcFVDR0FNNFJ2Z3ZnTGlxX2txU09ndWlkMHQtRkdqNmZwOV9tMXVWYU5QZXEzZTYwNy1NakZncTZINEVLZGJlekxDaWN2Y0kwTjlBUTloTGUwMXhtMDNtQ2JCa0dxbkFaNGctenVhYXE3R2ZlX1huYmNpQ0FIc1hHNGMwbTd4eElDb0lZZHg3TjRrUGJEU0VWV09laGdTM1h2WlNvU0t5a2NzUjBCNWhyTGxSN2FaNE14RmpLRV9SWlFBVGxJYWlJdA?oc=5",
-    "title:utah officials urge parents to follow new e bike helmet law as school resumes cache valley daily",
-    "url:https://electrek.co/2026/08/26/bafangs-new-electric-bike-motors-produce-8x-your-own-pedaling-power/",
-    "title:bafang s new electric bike motors produce 8x your own pedaling power",
-    "url:https://electrek.co/2026/08/27/storm-sondors-is-back-teasing-mysterious-new-electric-bike-photo/",
-    "title:storm sondors is back teasing mysterious new electric bike photo",
     "url:https://news.google.com/rss/articles/CBMinwJBVV95cUxOVEsxbk42VWhLTkRrSEtRajVmSTNqUlVVaUt1ckhfMjBLMC12TE0ya2txanJKMjk5NTVmbGhEampoWldfc0VTaVlVdTBsQUJVRm5nM1ZIVndTWkxuOTM3UDI0bVAtaFd6emVnZFhCbUlIYVU0RnZHbFBBS2FWQjc4QVhXZ3p6Z0txNUV6eHotMjVYaG5HMzA2aVlXTWx2S2ZYRXJNck1PaTgxMzI1NnlJemx1Y1lCZ2x3cDM0WnoxeTNhWlhkZUZhcG41b0VWWllpVVJTRnQ1SUxDbDktdVBXNWVaaTZ5ODdiZFpFUEx0Yk5JdmNzbm9jb2dXaHpzMGZPY3YzQllwbmNaT2YzaXRXTDFLS21tdjd0ckQ4cHE4dw?oc=5",
     "title:product safety information notice on battery power charger for electric scooters sold on the ebay platform competition and consumer protection commission",
     "url:https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGtOWm90MlA4ZEhDNXNRUkpuV05CYkhSeUEtOWhoa2loMTViN01aeDFMTDBJRmFIVE5oVVdxeVIyXzdQVDdHdEFjU2hCU1hyWC1zSURUQXdpWWttR0pPcjd4cGpqcEc2YnlteG05Zkt6WGI3OElFSUlLN1czaEdQZjJPMHloUVZOT2toaA?oc=5",
@@ -5001,9 +4897,131 @@
     "url:https://electrek.co/2026/08/25/i-tested-this-lithium-ion-battery-charging-cabinet-as-the-safest-place-to-charge-your-e-bike-batteries/",
     "title:i tested this lithium ion battery charging cabinet as the safest place to charge your e bike batteries",
     "url:https://news.google.com/rss/articles/CBMihAFBVV95cUxQRy1wTHQ1Z2lJam5uWldnX1hPcHQxZDI4VzVfck9qcy1zOG1RckRBMmdVTHVCZkNqMko0N0M0V0tBN1FVejhTSmNmdk9tMGdqY054N2RGYTdGSzBBMnZKY2R6Nko2ZmtZSUJWQ2VaMndicm5mRlNvRXppS0Y5TkFTZ2YtZUw?oc=5",
+    "title:electric scooter battery market size share growth 2034 fortune business insights",
+    "url:https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3VYZXlmeHYwZktJYU9UM2NieWdwLU5iYWJGcTZ4em82aWdNLXNPR3lBczdEb2p1NzU0UUZ1Zk9LWWxTelh1WWY3Z2ozMHFyVkt0WWczOUNJaW1yT1pWZHZGTVFOSWJzdk92a0pEVGNwOXl6M3dLRUU1VlZXa2JVVDhfYXctbnZ0OTVqTzR3T0V2YUp4QVZkVnEwbTJ6MGc?oc=5",
+    "title:harley s livewire to debut new electric bikes industrial equipment news",
+    "url:https://electrek.co/2026/10/19/why-this-major-e-bike-brand-just-started-selling-battery-less-electric-bikes/",
+    "title:why this major e bike brand just started selling battery less electric bikes",
+    "url:https://electrek.co/2026/10/19/prioritys-fan-favorite-sauce-bike-just-got-a-big-electric-upgrade/",
+    "title:priority s fan favorite sauce bike just got a big electric upgrade",
+    "url:https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWU3R1pJbWw0ODVmenpYaXo5OG44UnZrc25Rc2VNV2VBd2pwSGRiRU84dUxWNDJ3WVplVUc1SUtvY3prUm56VkVTWVFYTmNFVFdzYVhDSk9QandlQkV1X01LcUJwTkYzU3EzQVNzS0FEbmZ2NDlBOXVLVWpLTEJqYVNjWUEtVncwMjhFQQ?oc=5",
+    "title:new aprilia mass market electric scooter india launch in 2027 bikeadvice",
+    "url:https://electrek.co/2026/10/16/this-cool-accessory-turns-your-bike-electric-in-just-three-seconds/",
+    "title:this cool accessory turns your bike electric in just three seconds",
+    "url:https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUVGdVk4TE1vN0ZFalNQaktOQzM1N1p2MkZMU3lDVFFBNm1PN25ac0FIN0F3b1NUaVhGV3RmRmdRM3dsUFJyYUdiRmJSMTJhNlpNSlNscUpMVUtPLW1vTjMwSVg3SVljWUR3NWhwWlViMXcySG85dmIwX2h4ejZ6Rzl5SGVuMXZTcDNkTGpQNTlkb1lWbmdtdThTLXVBR29lYU52elZBM1Ezd29uV3U2ZXo2N2lSM3NLb0tv?oc=5",
+    "title:nbda calls for changes to nj e bike law bicycle retailer industry news",
+    "url:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVl4OVFqLWh5NVZKQlVUSG9zak95M1k2WjZqM2hHUl9MUjhPM0lYYWtCYjBLRE5Sd2RyLU4yX1E5djVLNDZweklOTjZ5ODRSeEJBdTFUMGRpbXozeHl1UUxLRnBEN21nQ0lKQWZTeFU5cThIY1hkdUJIc1NkSmYyOU90Um5pU1R1N0lDZnhmVkluV3AwMkpMS3F2LVA5N1kzQTFjaFVFQzJWRC11OFBTRkh6YmNrbnd5TEJSRTdCUDRmUQ?oc=5",
+    "title:velotric nomad 2 e bike free 550 extra battery bluetti 900wh alternator charger bundle hiboy kids electric dirt bikes more electrek",
+    "url:https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzhBSmVXbTVjdm9fM0tXZmcxalpnTDE4T2RYbm5YRGl1VkdKNEdSVm54X3N5VkJiYkNPOEptak9YV3NXNGxSZTdTdmJGOUN2MjB6dWM1RkNFTVhsS3M2WFozcUpMbUVuVjBYanFiTWxHUUVqclNVYXdTZktmTmlUQUVkelg2UkJzMW5QT3l6T3dfN3FmSTEyZVhGQlRfcUVpQmJZbXlORVJzTFpWdWhFaDNIcDZ2NGdLUm1MYmNEWnXSAdQBQVVfeXFMTmlXc21GVHZvUDIzYUI4VG8teTQ2cFZreXI4OFlHQU56LVFyd2hnYVZxS0FxanpTLUEtb0FDVGpqSGdxQnF3eWdWT1ZtZC1RUjRaSjVGVXFEbl9MdzBQTTk5QUJQS1lRMElXSHMzZ3RzLWZMdlpBbWo5UmlWZkxpZ3E2OU5jdGZabk5iY2ZnWHFwZ0h3ZjJodmNmN3FnVThOS2xTSlJkUlplSHd3S3YzMk90YW12b1NsMjE2OURGcHJLcXB3c3pyMEt5ZjVUU2JBZS15Q1o?oc=5",
+    "title:these e bikes would be exempt from new law s most controversial rules if n j bill passes nj com",
+    "url:https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZS1ZVHJfUGRGamZObU5MbWZJVmppLU5Qd2JkZjV2a2VUMW1fQldaQlFzLUJ2c0ZsTFpGRzlVV0VDeUtQcnQ2Wkl5NlljS2libGdqSzM3dmlFS0ZaUXNVYk5jUDk5RU4tUmtORDhSd0ZHaGpiZGZhYVFlUGVZbG1lTGRXcmRJeDdRTzVnSXByTmprLXplR2FGLWZrczJXYTRUVktrXzZvLTFGOENyd1l2andZaG5YYXM3cGwtXzlfcm0yMGJDV3llYVp0MllPcHc5b2RjZ25B?oc=5",
+    "title:community questions clear answers understanding illinois new e bike and micromobility law the breeze courier",
+    "url:https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX3FYZVJkeDJONXJ2Q3V2UnZyN0dYWVdxcTU2S2doOWZXUnhQc09KMDY5Sk5EOVRHWXI2ZWs5TlVmVVhVTFJCbmI4eXl6ZUVqR0tRYVUxNVNGblUtVG5aS1BMTjVNY1g3MVJWaktNYm1taHIwdVRuUENPRTdjTExTMk1PNmVBRjVEYXFXZkRmdGZJSTVoZ291bUMwUmZpVzg4LXlYZjRYLWpVWWpmZlh5Y2Jtbkc3YkpJY29pMkEzTGdyT2FSclJmRm9BUndOMWJLQVIyemYxRWM2TUNUeUhXVzM4U0F4QdIB6wFBVV95cUxOa0VlUUthWmUwQkJ2N0Zxd3lxSGxpSm9LWDRDQXdjMFV3ajdJTm5oR3VoQ1hZZGFEdTNjWW8yTXZBOHNvQW5qQS1QSmZacjBuWTlTT1NIcS04Sy1FTWhNYTFuSWQzZ0F2TS1ldzFuTU5JVXJrWXRCNG9NOW41QkVTRXZBaHdmUGtwb3B4NFRIY01keVhGSWNjVktpMC15Um5GVU1UWkcxRTNXNVVoRkZtalZySlVlS2pTZm96bXZwRHJpNk0zZk54dVpGSElUTW5oSWhYYk9yTlZIc3h3NlhGWndteVhLRXBlMmJ3?oc=5",
+    "title:vlf strada electric scooter launched in india here s what you get for rs 1 20 lakh times now",
+    "url:https://electrek.co/2026/10/13/lectric-launches-lighter-lower-cost-version-of-its-bestselling-urban-e-bike-lectric-xpress-lite/",
+    "title:lectric launches lighter lower cost version of its bestselling urban e bike lectric xpress lite",
+    "url:https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUlLazdoU3YyTl90ckk3V3FMV1NPUTBvVnBiN08yWGRZYXY5N0hmMHJDaTJpd1BnMU1XWmhaYWJ4R3d6UFI3NHBGSWVwbFlhU0RRZjlHZXp3UHVNM3ZreVh2dXI5R3pwb2pGczZiUnJNakhWSzhGdlVaUUp4ZW8xNDFlQ2E2NW1k?oc=5",
+    "title:e sprinto g1 family electric scooter launch price rs 89 999 bikeadvice",
+    "url:https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHBmUzVRNWl2LV9MMjZTa19LSzlaVUFoeDl1TWtLR3Y5WnNyNktLVTV0VW9aeE9JdmJ6UkwyWC1XRXlhZDYtZ0pPazFGajYzWDhoSkR3RkYwdURmS0ZwUFpzUVJPLWtxZV9mS2s4TWpZWXFjbTJoUWdIbTBIWjVYNC1QSk9jREJjcU5mQmpiR3JtS3h1WkUtd2JRZXkyTDNXY3ROTFE3NDdjXy1QSlNpWTlyQW1zWEMzWGFXTGkxWnJjYmFieUFOYTRkbFY?oc=5",
+    "title:e sprinto g1 electric scooter launched in india check range features and delivery date zee business",
+    "url:https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjBZLTNRbVh1OExxanRnV2VrNlltQTJGOTJEUjNBeHNNclg4OTdkRTdjZ0FraXdQMjZJTmNwVHBnd3psR2dXTEFpTzVmelhzRlRkaUtrVVE1Si1YcnowQVRGSjBTR1hqYU9pVngxU2ZMZjBzTzBaN2RIcnFxd2VYZWYwUXNDY3ZzYWstOThR?oc=5",
+    "title:sga talks campus growth e scooter regulation the murray state news",
+    "url:https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1JVNV9SdS1mUUFSelZZNzFTUlZVSS1PTUlzVlBQREtTQmdDSGtlWVQwR3FiUFlEQXV4Umtxc0dFcC0tRWlIeHdpYmVMR1BYSzJKTnJEc1JielNRQi1pb3ZucUJPamp5dVNXMjN4N3JGNmdXTmRqUVpRTmlCUjBRRHdiQjJjNmx3Nnc?oc=5",
+    "title:boston e bikes incentive program boston gov",
+    "url:https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmxHMXVQVUo1aXBZYjZtbGotamtrZFlZMnljT0IyelFsM29VMEpuazNwQzRfU2xxNlY2VkhtMHFNdVNaV1ZJYlpYUWpDMm1WQzBQcDJiMU40UzlJRXJWUU9tZkpycDZBNWFtQjU2WDFLb0dTcDdvZ3N0NF80b2Jkd2k5S0M2bEs1TXEtbnVpak85a24zVk51cGNGb3Y?oc=5",
+    "title:no license no plate no limit the e bike boom is outrunning the law tri state alert",
+    "url:https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnRJUFpoUFBKRC1ORmxDLTFSVW9iRUN0ODNkZV9HeUtCOEx1WHA2cXlCOVEwMnU4TVlkeGVrZVhpbFI2cGcwOHh2Nl9UOEhrY0ZMeTdZZ1dKOEw2bG81YVM3c1JpelplWHNoNWlwa3RRZGZtRS15bzBtWU05SHVPT21ZMGl1MEJnQWstMG50Tks5alk3alYtbG1zNFlyNS1xQ1VRR1NLZVhRRmpVUkVEb0dueENoZw?oc=5",
+    "title:bike culver city celebrates legal win with e bike regulation law culver city crossroads",
+    "url:https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0MyRkI2RjFlWUdVYXZpN0QwZFhLNmg4M3VhRFc5VWk5OTBRSUEzeWhmdmNhMmtnYWZpMHVYSWxsNWhVSkdjX0xvWGpQc01RclkwNnNPbVpkVE80RnVaVXd0QjQ0ejhnb3ktRUkzYjZFSGxWX2NVX3JMdXpoREh5UjIyT3AydlJndGo1R1FqVFVCWUlT?oc=5",
+    "title:litd kajy law e bike safety clickondetroit wdiv local 4",
+    "url:https://news.google.com/rss/articles/CBMikgFBVV95cUxQUE9mTXNJYkUtM21pNjNiZHM0cy11QmYyWm5MUkpCRUs3WEVZOVJWWEJoWTFlWEkzVHFnamw2NmJsMDYwTXpoMVVKc1RTWlZpVmNqWHpKelV0T3NvT3lhMWxrakNCbkwwZlZKX2FjLTlCMTgzRHlwTVFwdnZFS1dtbGU4TTloRFhpTkkxYUFpUVJDdw?oc=5",
+    "title:taylorville police prepare for e bike law roll out taylorville daily news",
+    "url:https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTEVCZXJPMnNqNnEwSnFvMVFtYmZHT2phRmNybXgyTlpnbkduZ1MtS3Vta3RHdmo5UG93RVBmanNsdDk0YXJKMWtfXzJKU1ZHS0ZPZFhNVlhWMzRuSWZuM2tHSjgzR29Pdlp6OTdweFJNSk5HbGI4T0FCVlJLSFBTcE9XUjhpRUl3Y0YzaWRCbXNIMFRPd2dHcEhNTkE1V2J5ZjBzbnZDYm5RSmtTWThWTEVWWDdtckJUV3JZWlFDcjZtWW5lVW9aS0pJdlgzWm9qOWJxeTFVdkjSAd4BQVVfeXFMUGp5WmVxSGFSNlhVN2tpWmtvVmI2b3hSZ2JGT2NxYUVyZ0Y0N3RES3F5aWdCUXkycHNKUERSdWNzTTdyZXdjTHg2aGZNckpuVzdaNS00YUs5RWMyZk5QeUhFV1EydW5KRnJ0YV9TeFpydl8zaDNibm5Qbl9WSVRGMld0TkxlLTc0TWxLX1A2YUE4ZDB6dHpRVHBiemgyNXoySUh1a1I4MEVWb3ROUzJWRDRCWTFXU2xLNWo5cXRHYUJQdE1pZUZ6cUdDRTVPaU5zSzgtbmRrcnlqRUw3eE5R?oc=5",
+    "title:vinfast takes on tvs bajaj and ather as electric scooter launch plans advance in india livemint",
+    "url:https://electrek.co/2026/10/07/this-e-bike-fits-seven-riders-and-thats-not-even-the-craziest-thing-about-it/",
+    "title:this e bike fits seven riders and that s not even the craziest thing about it",
+    "url:https://news.google.com/rss/articles/CBMixgFBVV95cUxOLXNhSEFvWkVPVVBSU0xOVU5NT0dTN0dWbXlUS0tIbkJHS2NEODMxUm0wWE1mV0d2eGxfVjBTMzk2S0N4RXMyZjJIU1hnZFh5dGo5Znowem04TTR1V3VmVnhseHdqVldfb1o3Y2p0dThEdXRIaGVVRUliSGRWLUgxVC1MWFpXbFpaa2djVnludTRseWVnTV92YXItX3NpNEFUcmdROFBlczdEa3g2VjU5bjJnZlBibzB5eFVwa0FoVVpCeXBvTFE?oc=5",
+    "title:2 200 w motor and 899 wh battery segway unveils two new flagship electric scooters notebookcheck",
+    "url:https://news.google.com/rss/articles/CBMickFVX3lxTE03U0tMN0JvbVVUSXJCRzJxbDViemZJVDl5eHc2VWhpVGkwYUtoR3Z0WGg1M2pFZXExUzcxNktZOXlfTkt2ems0UUt1SHBkVnc5NURkOVlrcGxfNjAyVUtFbWZ2RDhVaHRYdTcxNXBPWGtpZw?oc=5",
+    "title:new jersey s e bike law under attack by riders bike shops and advocacy groups whyy",
+    "url:https://electrek.co/2026/10/06/this-funky-solar-electric-scooter-could-handle-your-commute-without-ever-plugging-in/",
+    "title:this funky solar electric scooter could handle your commute without ever plugging in",
+    "url:https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG1jZWVFbDctQ3dMNkMtenp2R2oxc0JKZTVCYXQ4WDA0SDViZlpOUGc2Sl9hU2dtbjBVWTRXOWhFbGc5RG9BSC11SG9lbjBrRklRT1JtZzU0eW1JVGJHNk1nekdoOEVhaENDMDFLMHpWcl93S1VBa3hYVzIxTUxWU2RKX0FvN3NqSTRlR1lTLWV3SjlZX0HSAZ4BQVVfeXFMTVdhRTNISk0tNnhQMWozeFE0ZHVXRVZpUm5Hd0FkX1Zoc3dGT01WY3hHT0V6Ul8yTXpPZjFxZFYyUEQzQklUMWc1VmFIUU9XWGd5T1JGLW95aGJVU2UwdXBaWTBjSFhsaUpZTnE1Z1RRdzU4SUkxaVBjMmw4ZE4tVGpOYjNPQ3Z3VmxOYTVpQVU0Sm1MSERseHNyQjRJcFE?oc=5",
+    "title:e sprinto to launch g1 electric scooter on october 13 autocar professional",
+    "url:https://news.google.com/rss/articles/CBMijwFBVV95cUxPdF8xc3BfcHRaOXBPM052dk9jak81MTZKT25iMm9vejFvYk53ek83a1R4c1ZkUnB4M1JCNk9wQWw3YlBwNll5SlZNOHIzQnA4NUhwa29OT0tyR2pEeGsyX0l5Y1BiNkJoTnZ0clVTQ3ZVMDZQdUJYeXQ4ZzFrSk52cF9rbmRIQTFscjVPakJqQQ?oc=5",
+    "title:ampere nexus ex electric scooter launched with 5 kw motor acko drive",
+    "url:https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWF3R3JiVXRaR3FRZHVTdURiOXJfcFZvbTFud1pOcUJNUUNIeV9KalVyLS04ZHpBMzV5Q2JYOWNpOXhWMGp4M3p5QjdaUEJoRTlPU1RHM0EtVEEzb2FIRnVGbUpJNnJmVzlCalZZTE4xSFJ0V1dGblhfRHRvTEF5NnlodmVBb2NP?oc=5",
+    "title:new ampere nexus ex launch price rs 1 30 lakh 136 km range bikeadvice",
+    "url:https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/",
+    "title:ride1up just launched a 28 mph german mid drive e bike for an insanely low 1 295",
+    "url:https://electrek.co/2026/10/03/i-took-the-budget-priced-ride1up-roadster-v3-e-bike-offroading-heres-what-happened-next/",
+    "title:i tried taking the budget priced ride1up roadster v3 e bike off roading here s what happened next",
+    "url:https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUV9pR241aGlaZi1FeEtDWWtWQmVjNWJMOUJhOUNHczAzN1l0US0wWGlNemozRWQ1UHFFSGZmOERrQk9jY2RTTG1LMlQ0OHZCZF85eEJ1LVYydVdKTmdTNEEyUW1hdk9Kc3RoU1BkWjJSejNPTzYtRzh3dGF5WVZudWR6NFlILUktVE1lbUZBUUUwSjhhWkYwTENXa2lJeFotS0dudVFwRjh5ZElwcUZQZ2xVV0hJbldzdE1CRXFrdDFrQ2ZUWWhKYnJ4V0ROYlRRbXIxb29mdms1ME5pRHlTaFh6eHMyWnk5LWx5cdIB8gFBVV95cUxNUUJVV2RGb2l1RlNDVjZDQmVQY1FUY3czY2pxTENERmQxQmlXS2J0ay1ZYkhSbFJHOThXYVNrblRWLUZUbDBUTzFZQmJwVGxkcDdWVFlnQ0dWSmliNlNyeGczVDhiNUxwRVhMQW1UV3J2WHZ2UXYxTk1yMENXbjFSNGFkeC1tZUhNdHp6aTk0NjZmU3ZLVjIxT3ZvYzU3a0EtTXVwMzhyZnN4clBnMExKMzFaWDdyWDhPZjRTcGRHUXJERUtRSm9jUldCS0pMV1djNkZQYUFkdllwM3RsZk5oZktBUHQwS0tseS1BeDdCV3VZUQ?oc=5",
+    "title:mohali automobile company told to repair defective scooter refund 86k if it fails hindustan times hindustan times",
+    "url:https://electrek.co/2026/10/01/gazelle-just-made-its-premium-electric-bikes-a-lot-more-affordable/",
+    "title:gazelle just made its premium electric bikes a lot more affordable",
+    "url:https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0pFRVcxZW5fSGlrZjVNVzBmNE1mc2ZibnFnZlYzZERjTjF3LWh2SnJrLUFZQmhkTHFqdUdwaTZuRG9qZUFUSUVSUlR5VjZlc1Nxc2Z4RWhvNFRjbnhFQ05KRTJ6SllQU2xwWFlEVnpSQkMzcWx4bHIzQXNmTlZhWWx3dFZKbHZ0YmZzV1VoU3B1SzhvRnRuUHMycGhqWVcxSGxtdDR6ZE1TcC1Ed1FSWGlmYnhMQkxmX2lLeEVxeVZJTUI1RWotMnoyNDBvVmFtWUt5TjUxaF9HR3JhQURCQnNGNkdLRE5EWkl6WQ?oc=5",
+    "title:mp york presses ministers on battery waste electric scooter rules and school repair bills smn news",
+    "url:https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmd6VkhzRjNCM0p3bVlfdXBVU3hwUlRyWVNieEZ6RVdUVjB0VHNNbWVqTTdNVUtIM21PLV8xdmIyaUI2NjJxOE1mbjlCVklDa3JiSHRHQ3BfZXFEQkZSOV93TXctVG55WTJqcmdfNGZXMXJXUjVPR1BucFBSTWNBTi1GOURHUXhKMnJRTTc1QUYwTUdNRWdV?oc=5",
+    "title:e sprinto to launch high speed electric scooter in october machine maker",
+    "url:https://electrek.co/2026/09/29/we-dont-need-more-e-bike-laws-this-11-year-olds-ticket-shows-why/",
+    "title:we don t need more e bike laws this 11 year old s ticket shows why",
+    "url:https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMFJpdmRsX29UU1BLYURlNC1JSWYwZHRxYk80M1Z3NVcyWExFNlpyQ09VeGVVbFpmOERCTHBpWncydVJFcFgyY0E5dTdmOFBLVnkzeFBoVFAyaWg3S0h5d1BIYXhNM0Z5amRzdkxNR0c0eGhXZGJBYlpiRmxqNU1JM1dGN1pCMUFwbGljQjM0SkpfYjFwbWowMWVNbVY4UHo3R2MyaDRnWmhsUHVBa2NvT1o1MDM0TWI5UXlBaDIycTNlcklRVVZCSzk5SGxHRU9meVMtaDNyQm8yYVJ6SGxwc1BOcFZQZ3QybHU5cEhZVHdpZWZ0a2930gH8AUFVX3lxTE8wUmRzQm1fQ1VyVmlNaUdXcEVjTlZIdWJMVGJGV2UxQTZtcWIzTUlqTTk0QXV2cG5CQWdaRXRlZXVNVDdNempwYmRtMHV3enVrcktwVEZWdjBiNDEtZHB2NXRJNkdQOUxqLTQ2c0FJbGQzbk81VTM5QUQwaUVLWEd0bEtHOWExUmI1NTN3T2ZiSjk4am5oM0s3dGhBTjNMNWRHS0tBZWxqbTVwMmNPRnNNWG9DQU1YTUl3SkJGTFZEeFktRW9TSjN4clZGRXNsNzlTUGIyaktjQ01odVZjdWJlOFFCNnhHM3ItMjNIXzVvMkxiM1ctdWtvRkVnag?oc=5",
+    "title:piaggio to enter india s mass market electric scooter segment with new platform in 2027 et auto",
+    "url:https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDVlUktEN3pFckxFYk5zTVptcm0wWF9rOHZtMEFIVlRxbUJ5NlNwRjNWT0d5VmZwUDlTLWFGQ0xoZDdaUU5lYjhCbkhqZGZaVkk0ZWpKaFRySDFwTjdpVXE3VVpLWEhLZnRVbW5sbU1wc1gxOTJuMl9qVVN5d2pCQjk4WVNacUQxMF9qWkNESWFFbHUxN2M1N0VUUEx4QjBFMlE?oc=5",
+    "title:e sprinto to launch 130 km range electric scooter in october manufacturing today india",
+    "url:https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0JZazdaTURkUTdiVy0xNnM4ZkFpT2E4RzlTYmV4NFFQMGhNdjlLMVExTWgtemUteXdkMjZGRzBWVnhpdnRuOG5fNDVrdkRtMlJCTmdTRWxtcEFRYm5TRkVNYjZVaUdpUWtvMmttZFE0SHktREZUT3JnVkx2XzhXMVhWY1EzcnRhRGZRY0RWMjZWcF9l?oc=5",
+    "title:indian electric scooter motorcycles market 2026 motorcycles data",
+    "url:https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNG1PdHpkeUtOa0FfbkNDSzFGYVQ2cTJQa0Q2enpUcUhjc2VKR1BaYVl5UktpZmZCRThRTFI3UlhHaktSZlItN1FnQzZkdjBBS2xKWXZwWkYzcFpmUF9xa2QwTmJid3FrNTZXdkZadmhHMDJwTnV2VGZmNUJnMHdiNkVXVnJfSnUwQzhob1B1V1RiMjc2Z2RtUU1rT0Y1VmxPODNQNk4wRTZOdk5Xc0RKUW5ZeHJfZWNpVnBVQ3dWeWdwUmVMOUZCU0RfdXIxV2V5aWcxTmJkbzRMZ9IB3wFBVV95cUxQbGFZX1Fnd0RLY1ljTUhwVDNIajlvMUhIMExQd0hkZXczVFRvT3BsUXQ0WkJHT3JxUU11M20tV181MGF4V0RVcmgwOUs0M2M5NmpOM0tsYlFwZDRQUndhREZ2Qkh4czJsMnNoY2dtRE9Zekw3cGVjR1g4Qmc3V0wtVFJpOFNxZWNETngxQThWdUZwTzVZal9ubzgycEZQQ1dLRExoR1lZc0tEaW51U002TnVJOGhXRENoZnBfOENKY3Y1WkRDWUhabWhXbllDcHlLanlabmdIYWdhR2dTR0dN?oc=5",
+    "title:jagtial electric scooter catches fire after battery explosion while charging deccan chronicle",
+    "url:https://electrek.co/2026/08/26/bafangs-new-electric-bike-motors-produce-8x-your-own-pedaling-power/",
+    "title:bafang s new electric bike motors produce 8x your own pedaling power",
+    "url:https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
+    "title:aniioki s latest 6 000w dual motor e bike blurs past the line so much it s basically an electric motorcycle",
+    "url:https://electrek.co/2026/07/31/hmps-new-3999-electric-scooter-is-the-affordable-street-legal-commuter-the-us-needs/",
+    "title:hmp s new 3 999 electric scooter is the affordable street legal commuter the us needs",
+    "url:https://electrek.co/2026/07/29/huffys-kids-e-bike-makes-a-compelling-case-for-pedal-assisted-riding/",
+    "title:huffy s kids e bike makes a compelling case for pedal assisted riding",
+    "url:https://electrek.co/2026/09/21/south-park-just-took-on-americas-e-bike-problem-and-surprisingly-nailed-a-lot-of-it/",
+    "title:south park just took on america s e bike problem and surprisingly nailed a lot of it",
+    "url:https://electrek.co/2026/09/15/segways-new-28-mph-muxi-pro-cargo-e-bike-gets-automatic-shifting-and-regen-braking/",
+    "title:segway s new 28 mph muxi pro cargo e bike gets automatic shifting and regen braking",
+    "url:https://electrek.co/2026/09/08/engwes-new-e26-3-0-packs-dual-motors-full-suspension-and-tons-of-torque/",
+    "title:engwe s new e26 3 0 e bike packs dual motors full suspension and half a deer",
+    "url:https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX1ZoM3NtY3BVT3NkanQyZkgzSHhTMXcteDVaU05TS2FQTkl1MXJ4QzZUblV3ZEpVMXNXV0oxUFEtQUlNYVhINDB1LUJuLXh3d0M0ampoMVdMdENqOHY4MGFFOWoya2F0ZW1PdGoxQThySjRvYmRnNjVvQkVoS19Pd05UVFVCbGs3UE4wcjVBSXBmV2x2Y1ZiTmZNR3V4YmtyUTBhel8zcWxhSlljd3ZMQ3RydDRPMEdEZVNsV045Q3piU0hHVWhTc3NkUWxYVDZhc1d2T0F2YjNXbUFV0gHiAUFVX3lxTE54bFU4dFJTNTM5ZlpyQ05zVWtpdWdKVDAwN1gxNXN5TzhOWlJSUG9uZDBFN1o1U1ZrTjY5T000TlZ4WXpudXltU3A2dzBCTVNoZmNKVWRZYk02S0MwbnJveXBMeGRCVk5OOGJRc3BkUVp4aHk5a2RCeGVJcW80cW1nU2R6UUEzUG81cHI2WGJfeGltT1lpYUhuYmZTaEdoRVFPYi1HWjNoaTMwMFZLQzJDWTZhWGlnMGVBdWdHQWUtdEF3WC1FRU1iQ0tCOGhmU0R3a29vUWpLbG1FdXUwUjNUbWc?oc=5",
+    "title:e sprinto enters retail ev market with g1 electric scooter priced at 89 999 et auto",
+    "url:https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFNhb0pfUkNvaEtCdXdmRkJDbXJYZzd5RWt5X0FWUWlSeHE0SVhLb0pDNmRqOVZPM2tLcENib2E4bjl5NlMycllBcXlkX0N1UVlyaW1KSWplUXBiSDdtUmkzcWNYZGZic2ZmTjA3TUlUeGJ3ZE9oWFk5VDM1d0FHV0Z3NEd5X0ozMFVsZmdFMFg5dHhzcVc4dGpZT09jR0dZVVI1SDJSb05MVmFJX0FISUljTXdMdkU?oc=5",
+    "title:fire prevention week targets battery fires your home policy may not cover the e bike money talks news",
+    "url:https://news.google.com/rss/articles/CBMi4AFBVV95cUxONHczYm9mQlZmMDJTRXJ4WmUzTkdfQU5ZNHBvb0Rrb00zWkxLTmFYaVJubmdUWmhndkRTbUd1cjd5d1ltWGhGZ25KcmRFd0RyWFZPdHY5Z3J6QVdTUmpSSUdUSWx6bHQ5S21MdXpQNTR2TUJUZTkxR19aZ1JtczlfcmZMbGl2bzhPdW12dzFOd0Z0VWxhc3diYUFobG1wVjhnRDVUWlNxQnVmSjhCR2M2RkFvM0lUc3FuVmlPSHpmTDdIMUJkVUtvTnBEY0RoRi1LMmRmNkdNTGw1aGtmc3pLdA?oc=5",
+    "title:jhelio launches four new electric scooters in nepali market ratopati",
+    "url:https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fWG5sREsyaXV1SjQwTVpTRGNwX3QzVTBadlBybC1jczlPaDhCZnVIWkxNSlVVQV9OeTNrLUJYU3VXSTVrRWlxdEs5Q2ttaHBVMS1YTzdNdnhjQm8?oc=5",
+    "title:what can i do to prevent e bike and e scooter battery fires bbc",
+    "url:https://news.google.com/rss/articles/CBMipwFBVV95cUxQWk9yS2tGT1F2eVBkODVBNEItS3dwRXVWbWN2OVJNWExaRUtHQjJpQ290Q09zRlJFVVNqQXJRRk9KOE5IT0lDeXNwRkpEcUhOUGRkMXFBZnhUajAyRXF4VnJuX1EwYnFzRnlvcU1GX3pPcllDQTRXOXFtLVM3ZTNSdElEVndmWWMybEFjYXN3RFBTb0xqNXN5ZUUwOHQwWlc1NGF6dlphQdIBrwFBVV95cUxOR3p0Y0c1UE4yelRlZERHWXk5OGxXanFVMDlWd0dxTUZPNENrSDM0VEgwSDBMczZtcFdaajl4RXYzWTJNQjJXbkFDaGlGTWxZTzIzbWNqdDFVTlJ6UlVrZlJJVUhoOEM3dmxMbU5jUEpQczI0NkFqem9VdE02OHZYZXB1eXVQTUw5RWZsN29CWjhVSHNKd1FTWHdGSkQwQ0FxdnZjMWxuOUc4V0ctSjVz?oc=5",
+    "title:electric scooter battery fire destroys university bus in faisalabad the express tribune",
+    "url:https://electrek.co/2026/08/25/i-tested-this-lithium-ion-battery-charging-cabinet-as-the-safest-place-to-charge-your-e-bike-batteries/",
+    "title:i tested this lithium ion battery charging cabinet as the safest place to charge your e bike batteries",
+    "url:https://news.google.com/rss/articles/CBMihAFBVV95cUxQRy1wTHQ1Z2lJam5uWldnX1hPcHQxZDI4VzVfck9qcy1zOG1RckRBMmdVTHVCZkNqMko0N0M0V0tBN1FVejhTSmNmdk9tMGdqY054N2RGYTdGSzBBMnZKY2R6Nko2ZmtZSUJWQ2VaMndicm5mRlNvRXppS0Y5TkFTZ2YtZUw?oc=5",
     "title:electric scooter battery market size share growth 2034 fortune business insights"
   ],
   "history": [
+    {
+      "key": "url:https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3VYZXlmeHYwZktJYU9UM2NieWdwLU5iYWJGcTZ4em82aWdNLXNPR3lBczdEb2p1NzU0UUZ1Zk9LWWxTelh1WWY3Z2ozMHFyVkt0WWczOUNJaW1yT1pWZHZGTVFOSWJzdk92a0pEVGNwOXl6M3dLRUU1VlZXa2JVVDhfYXctbnZ0OTVqTzR3T0V2YUp4QVZkVnEwbTJ6MGc?oc=5",
+      "firstSeenAt": "2026-10-21",
+      "publishedAt": "Tue, 20 Oct 2026 19:39:36 GMT",
+      "category": "品牌新品",
+      "importance": "normal",
+      "region": "全球",
+      "sourceName": "Industrial Equipment News",
+      "sourceFeed": "Google News：新車與新品",
+      "title": "Harley's LiveWire to Debut New Electric Bikes - Industrial Equipment News",
+      "titleZh": "",
+      "briefZh": "",
+      "summary": "Harley's LiveWire to Debut New Electric Bikes &nbsp;&nbsp; Industrial Equipment News",
+      "articleUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3VYZXlmeHYwZktJYU9UM2NieWdwLU5iYWJGcTZ4em82aWdNLXNPR3lBczdEb2p1NzU0UUZ1Zk9LWWxTelh1WWY3Z2ozMHFyVkt0WWczOUNJaW1yT1pWZHZGTVFOSWJzdk92a0pEVGNwOXl6M3dLRUU1VlZXa2JVVDhfYXctbnZ0OTVqTzR3T0V2YUp4QVZkVnEwbTJ6MGc?oc=5",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageCredit": "原始報導縮圖",
+      "citation": "Industrial Equipment News｜Tue, 20 Oct 2026 19:39:36 GMT｜Harley's LiveWire to Debut New Electric Bikes - Industrial Equipment News｜https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3VYZXlmeHYwZktJYU9UM2NieWdwLU5iYWJGcTZ4em82aWdNLXNPR3lBczdEb2p1NzU0UUZ1Zk9LWWxTelh1WWY3Z2ozMHFyVkt0WWczOUNJaW1yT1pWZHZGTVFOSWJzdk92a0pEVGNwOXl6M3dLRUU1VlZXa2JVVDhfYXctbnZ0OTVqTzR3T0V2YUp4QVZkVnEwbTJ6MGc?oc=5｜擷取日 2026-10-21"
+    },
     {
       "key": "url:https://electrek.co/2026/10/19/why-this-major-e-bike-brand-just-started-selling-battery-less-electric-bikes/",
       "firstSeenAt": "2026-10-20",
@@ -5020,7 +5038,7 @@
       "articleUrl": "https://electrek.co/2026/10/19/why-this-major-e-bike-brand-just-started-selling-battery-less-electric-bikes/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/06/monarc-marker-header.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Mon, 19 Oct 2026 13:57:15 +0000｜Why this major e-bike brand just started selling battery-less electric bikes｜https://electrek.co/2026/10/19/why-this-major-e-bike-brand-just-started-selling-battery-less-electric-bikes/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Mon, 19 Oct 2026 13:57:15 +0000｜Why this major e-bike brand just started selling battery-less electric bikes｜https://electrek.co/2026/10/19/why-this-major-e-bike-brand-just-started-selling-battery-less-electric-bikes/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://electrek.co/2026/10/19/prioritys-fan-favorite-sauce-bike-just-got-a-big-electric-upgrade/",
@@ -5038,7 +5056,7 @@
       "articleUrl": "https://electrek.co/2026/10/19/prioritys-fan-favorite-sauce-bike-just-got-a-big-electric-upgrade/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/priority-bicycles-e-sauce-e-bike-header-1.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Mon, 19 Oct 2026 17:41:03 +0000｜Priority’s fan-favorite Sauce bike just got a big electric upgrade｜https://electrek.co/2026/10/19/prioritys-fan-favorite-sauce-bike-just-got-a-big-electric-upgrade/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Mon, 19 Oct 2026 17:41:03 +0000｜Priority’s fan-favorite Sauce bike just got a big electric upgrade｜https://electrek.co/2026/10/19/prioritys-fan-favorite-sauce-bike-just-got-a-big-electric-upgrade/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWU3R1pJbWw0ODVmenpYaXo5OG44UnZrc25Rc2VNV2VBd2pwSGRiRU84dUxWNDJ3WVplVUc1SUtvY3prUm56VkVTWVFYTmNFVFdzYVhDSk9QandlQkV1X01LcUJwTkYzU3EzQVNzS0FEbmZ2NDlBOXVLVWpLTEJqYVNjWUEtVncwMjhFQQ?oc=5",
@@ -5056,7 +5074,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWU3R1pJbWw0ODVmenpYaXo5OG44UnZrc25Rc2VNV2VBd2pwSGRiRU84dUxWNDJ3WVplVUc1SUtvY3prUm56VkVTWVFYTmNFVFdzYVhDSk9QandlQkV1X01LcUJwTkYzU3EzQVNzS0FEbmZ2NDlBOXVLVWpLTEJqYVNjWUEtVncwMjhFQQ?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "BikeAdvice｜Mon, 19 Oct 2026 09:46:39 GMT｜New Aprilia Mass-Market Electric Scooter India Launch in 2027 - BikeAdvice｜https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWU3R1pJbWw0ODVmenpYaXo5OG44UnZrc25Rc2VNV2VBd2pwSGRiRU84dUxWNDJ3WVplVUc1SUtvY3prUm56VkVTWVFYTmNFVFdzYVhDSk9QandlQkV1X01LcUJwTkYzU3EzQVNzS0FEbmZ2NDlBOXVLVWpLTEJqYVNjWUEtVncwMjhFQQ?oc=5｜擷取日 2026-10-20"
+      "citation": "BikeAdvice｜Mon, 19 Oct 2026 09:46:39 GMT｜New Aprilia Mass-Market Electric Scooter India Launch in 2027 - BikeAdvice｜https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWU3R1pJbWw0ODVmenpYaXo5OG44UnZrc25Rc2VNV2VBd2pwSGRiRU84dUxWNDJ3WVplVUc1SUtvY3prUm56VkVTWVFYTmNFVFdzYVhDSk9QandlQkV1X01LcUJwTkYzU3EzQVNzS0FEbmZ2NDlBOXVLVWpLTEJqYVNjWUEtVncwMjhFQQ?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://electrek.co/2026/10/16/this-cool-accessory-turns-your-bike-electric-in-just-three-seconds/",
@@ -5074,7 +5092,25 @@
       "articleUrl": "https://electrek.co/2026/10/16/this-cool-accessory-turns-your-bike-electric-in-just-three-seconds/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/spiny2-ebike-kit-friction-drive-lead-1.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Fri, 16 Oct 2026 13:58:10 +0000｜This cool accessory turns your bike electric in just three seconds｜https://electrek.co/2026/10/16/this-cool-accessory-turns-your-bike-electric-in-just-three-seconds/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Fri, 16 Oct 2026 13:58:10 +0000｜This cool accessory turns your bike electric in just three seconds｜https://electrek.co/2026/10/16/this-cool-accessory-turns-your-bike-electric-in-just-three-seconds/｜擷取日 2026-10-21"
+    },
+    {
+      "key": "url:https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUVGdVk4TE1vN0ZFalNQaktOQzM1N1p2MkZMU3lDVFFBNm1PN25ac0FIN0F3b1NUaVhGV3RmRmdRM3dsUFJyYUdiRmJSMTJhNlpNSlNscUpMVUtPLW1vTjMwSVg3SVljWUR3NWhwWlViMXcySG85dmIwX2h4ejZ6Rzl5SGVuMXZTcDNkTGpQNTlkb1lWbmdtdThTLXVBR29lYU52elZBM1Ezd29uV3U2ZXo2N2lSM3NLb0tv?oc=5",
+      "firstSeenAt": "2026-10-21",
+      "publishedAt": "Tue, 20 Oct 2026 22:06:26 GMT",
+      "category": "法規更新",
+      "importance": "high",
+      "region": "全球",
+      "sourceName": "Bicycle Retailer & Industry News",
+      "sourceFeed": "Google News：法規與補助",
+      "title": "NBDA calls for changes to NJ e-bike law - Bicycle Retailer & Industry News",
+      "titleZh": "",
+      "briefZh": "",
+      "summary": "NBDA calls for changes to NJ e-bike law &nbsp;&nbsp; Bicycle Retailer & Industry News",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUVGdVk4TE1vN0ZFalNQaktOQzM1N1p2MkZMU3lDVFFBNm1PN25ac0FIN0F3b1NUaVhGV3RmRmdRM3dsUFJyYUdiRmJSMTJhNlpNSlNscUpMVUtPLW1vTjMwSVg3SVljWUR3NWhwWlViMXcySG85dmIwX2h4ejZ6Rzl5SGVuMXZTcDNkTGpQNTlkb1lWbmdtdThTLXVBR29lYU52elZBM1Ezd29uV3U2ZXo2N2lSM3NLb0tv?oc=5",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageCredit": "原始報導縮圖",
+      "citation": "Bicycle Retailer & Industry News｜Tue, 20 Oct 2026 22:06:26 GMT｜NBDA calls for changes to NJ e-bike law - Bicycle Retailer & Industry News｜https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUVGdVk4TE1vN0ZFalNQaktOQzM1N1p2MkZMU3lDVFFBNm1PN25ac0FIN0F3b1NUaVhGV3RmRmdRM3dsUFJyYUdiRmJSMTJhNlpNSlNscUpMVUtPLW1vTjMwSVg3SVljWUR3NWhwWlViMXcySG85dmIwX2h4ejZ6Rzl5SGVuMXZTcDNkTGpQNTlkb1lWbmdtdThTLXVBR29lYU52elZBM1Ezd29uV3U2ZXo2N2lSM3NLb0tv?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVl4OVFqLWh5NVZKQlVUSG9zak95M1k2WjZqM2hHUl9MUjhPM0lYYWtCYjBLRE5Sd2RyLU4yX1E5djVLNDZweklOTjZ5ODRSeEJBdTFUMGRpbXozeHl1UUxLRnBEN21nQ0lKQWZTeFU5cThIY1hkdUJIc1NkSmYyOU90Um5pU1R1N0lDZnhmVkluV3AwMkpMS3F2LVA5N1kzQTFjaFVFQzJWRC11OFBTRkh6YmNrbnd5TEJSRTdCUDRmUQ?oc=5",
@@ -5092,7 +5128,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVl4OVFqLWh5NVZKQlVUSG9zak95M1k2WjZqM2hHUl9MUjhPM0lYYWtCYjBLRE5Sd2RyLU4yX1E5djVLNDZweklOTjZ5ODRSeEJBdTFUMGRpbXozeHl1UUxLRnBEN21nQ0lKQWZTeFU5cThIY1hkdUJIc1NkSmYyOU90Um5pU1R1N0lDZnhmVkluV3AwMkpMS3F2LVA5N1kzQTFjaFVFQzJWRC11OFBTRkh6YmNrbnd5TEJSRTdCUDRmUQ?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Electrek｜Thu, 15 Oct 2026 18:00:00 GMT｜Velotric Nomad 2 e-bike + FREE $550 extra battery, Bluetti 900Wh alternator charger bundle, Hiboy kids electric dirt bikes, more - Electrek｜https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVl4OVFqLWh5NVZKQlVUSG9zak95M1k2WjZqM2hHUl9MUjhPM0lYYWtCYjBLRE5Sd2RyLU4yX1E5djVLNDZweklOTjZ5ODRSeEJBdTFUMGRpbXozeHl1UUxLRnBEN21nQ0lKQWZTeFU5cThIY1hkdUJIc1NkSmYyOU90Um5pU1R1N0lDZnhmVkluV3AwMkpMS3F2LVA5N1kzQTFjaFVFQzJWRC11OFBTRkh6YmNrbnd5TEJSRTdCUDRmUQ?oc=5｜擷取日 2026-10-20"
+      "citation": "Electrek｜Thu, 15 Oct 2026 18:00:00 GMT｜Velotric Nomad 2 e-bike + FREE $550 extra battery, Bluetti 900Wh alternator charger bundle, Hiboy kids electric dirt bikes, more - Electrek｜https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVl4OVFqLWh5NVZKQlVUSG9zak95M1k2WjZqM2hHUl9MUjhPM0lYYWtCYjBLRE5Sd2RyLU4yX1E5djVLNDZweklOTjZ5ODRSeEJBdTFUMGRpbXozeHl1UUxLRnBEN21nQ0lKQWZTeFU5cThIY1hkdUJIc1NkSmYyOU90Um5pU1R1N0lDZnhmVkluV3AwMkpMS3F2LVA5N1kzQTFjaFVFQzJWRC11OFBTRkh6YmNrbnd5TEJSRTdCUDRmUQ?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://bikerumor.com/2027-scott-e-ville-full-suspension-city-commuter-ebike/",
@@ -5139,14 +5175,14 @@
       "region": "全球",
       "sourceName": "NJ.com",
       "sourceFeed": "Google News：法規與補助",
-      "title": "These e-bike’s would be exempt from new law’s most controversial rules if N.J. bill passes - NJ.com",
+      "title": "These e-bikes would be exempt from new law’s most controversial rules if N.J. bill passes - NJ.com",
       "titleZh": "",
       "briefZh": "",
-      "summary": "These e-bike’s would be exempt from new law’s most controversial rules if N.J. bill passes &nbsp;&nbsp; NJ.com",
+      "summary": "These e-bikes would be exempt from new law’s most controversial rules if N.J. bill passes &nbsp;&nbsp; NJ.com",
       "articleUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzhBSmVXbTVjdm9fM0tXZmcxalpnTDE4T2RYbm5YRGl1VkdKNEdSVm54X3N5VkJiYkNPOEptak9YV3NXNGxSZTdTdmJGOUN2MjB6dWM1RkNFTVhsS3M2WFozcUpMbUVuVjBYanFiTWxHUUVqclNVYXdTZktmTmlUQUVkelg2UkJzMW5QT3l6T3dfN3FmSTEyZVhGQlRfcUVpQmJZbXlORVJzTFpWdWhFaDNIcDZ2NGdLUm1MYmNEWnXSAdQBQVVfeXFMTmlXc21GVHZvUDIzYUI4VG8teTQ2cFZreXI4OFlHQU56LVFyd2hnYVZxS0FxanpTLUEtb0FDVGpqSGdxQnF3eWdWT1ZtZC1RUjRaSjVGVXFEbl9MdzBQTTk5QUJQS1lRMElXSHMzZ3RzLWZMdlpBbWo5UmlWZkxpZ3E2OU5jdGZabk5iY2ZnWHFwZ0h3ZjJodmNmN3FnVThOS2xTSlJkUlplSHd3S3YzMk90YW12b1NsMjE2OURGcHJLcXB3c3pyMEt5ZjVUU2JBZS15Q1o?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "NJ.com｜Mon, 19 Oct 2026 21:27:00 GMT｜These e-bike’s would be exempt from new law’s most controversial rules if N.J. bill passes - NJ.com｜https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzhBSmVXbTVjdm9fM0tXZmcxalpnTDE4T2RYbm5YRGl1VkdKNEdSVm54X3N5VkJiYkNPOEptak9YV3NXNGxSZTdTdmJGOUN2MjB6dWM1RkNFTVhsS3M2WFozcUpMbUVuVjBYanFiTWxHUUVqclNVYXdTZktmTmlUQUVkelg2UkJzMW5QT3l6T3dfN3FmSTEyZVhGQlRfcUVpQmJZbXlORVJzTFpWdWhFaDNIcDZ2NGdLUm1MYmNEWnXSAdQBQVVfeXFMTmlXc21GVHZvUDIzYUI4VG8teTQ2cFZreXI4OFlHQU56LVFyd2hnYVZxS0FxanpTLUEtb0FDVGpqSGdxQnF3eWdWT1ZtZC1RUjRaSjVGVXFEbl9MdzBQTTk5QUJQS1lRMElXSHMzZ3RzLWZMdlpBbWo5UmlWZkxpZ3E2OU5jdGZabk5iY2ZnWHFwZ0h3ZjJodmNmN3FnVThOS2xTSlJkUlplSHd3S3YzMk90YW12b1NsMjE2OURGcHJLcXB3c3pyMEt5ZjVUU2JBZS15Q1o?oc=5｜擷取日 2026-10-20"
+      "citation": "NJ.com｜Mon, 19 Oct 2026 21:27:00 GMT｜These e-bikes would be exempt from new law’s most controversial rules if N.J. bill passes - NJ.com｜https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzhBSmVXbTVjdm9fM0tXZmcxalpnTDE4T2RYbm5YRGl1VkdKNEdSVm54X3N5VkJiYkNPOEptak9YV3NXNGxSZTdTdmJGOUN2MjB6dWM1RkNFTVhsS3M2WFozcUpMbUVuVjBYanFiTWxHUUVqclNVYXdTZktmTmlUQUVkelg2UkJzMW5QT3l6T3dfN3FmSTEyZVhGQlRfcUVpQmJZbXlORVJzTFpWdWhFaDNIcDZ2NGdLUm1MYmNEWnXSAdQBQVVfeXFMTmlXc21GVHZvUDIzYUI4VG8teTQ2cFZreXI4OFlHQU56LVFyd2hnYVZxS0FxanpTLUEtb0FDVGpqSGdxQnF3eWdWT1ZtZC1RUjRaSjVGVXFEbl9MdzBQTTk5QUJQS1lRMElXSHMzZ3RzLWZMdlpBbWo5UmlWZkxpZ3E2OU5jdGZabk5iY2ZnWHFwZ0h3ZjJodmNmN3FnVThOS2xTSlJkUlplSHd3S3YzMk90YW12b1NsMjE2OURGcHJLcXB3c3pyMEt5ZjVUU2JBZS15Q1o?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMidEFVX3lxTE5USi1yVm9Ta3dKdWEwcTJVamx3VS10cGprRkp0YWxGNWNEblFVSWh1U3dOOFF0NHlNOWtiU3p3OVkwTFFUVHZ0WEFGOExtZk5PejZwXzlXa3lBZ3B1dGlfSHVIWTUyR2prVmVmaGcxOEFzUDR0?oc=5",
@@ -5182,7 +5218,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZS1ZVHJfUGRGamZObU5MbWZJVmppLU5Qd2JkZjV2a2VUMW1fQldaQlFzLUJ2c0ZsTFpGRzlVV0VDeUtQcnQ2Wkl5NlljS2libGdqSzM3dmlFS0ZaUXNVYk5jUDk5RU4tUmtORDhSd0ZHaGpiZGZhYVFlUGVZbG1lTGRXcmRJeDdRTzVnSXByTmprLXplR2FGLWZrczJXYTRUVktrXzZvLTFGOENyd1l2andZaG5YYXM3cGwtXzlfcm0yMGJDV3llYVp0MllPcHc5b2RjZ25B?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "The Breeze Courier｜Mon, 19 Oct 2026 19:38:43 GMT｜Community Questions, Clear Answers: Understanding Illinois’ New E-Bike and Micromobility Law - The Breeze Courier｜https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZS1ZVHJfUGRGamZObU5MbWZJVmppLU5Qd2JkZjV2a2VUMW1fQldaQlFzLUJ2c0ZsTFpGRzlVV0VDeUtQcnQ2Wkl5NlljS2libGdqSzM3dmlFS0ZaUXNVYk5jUDk5RU4tUmtORDhSd0ZHaGpiZGZhYVFlUGVZbG1lTGRXcmRJeDdRTzVnSXByTmprLXplR2FGLWZrczJXYTRUVktrXzZvLTFGOENyd1l2andZaG5YYXM3cGwtXzlfcm0yMGJDV3llYVp0MllPcHc5b2RjZ25B?oc=5｜擷取日 2026-10-20"
+      "citation": "The Breeze Courier｜Mon, 19 Oct 2026 19:38:43 GMT｜Community Questions, Clear Answers: Understanding Illinois’ New E-Bike and Micromobility Law - The Breeze Courier｜https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZS1ZVHJfUGRGamZObU5MbWZJVmppLU5Qd2JkZjV2a2VUMW1fQldaQlFzLUJ2c0ZsTFpGRzlVV0VDeUtQcnQ2Wkl5NlljS2libGdqSzM3dmlFS0ZaUXNVYk5jUDk5RU4tUmtORDhSd0ZHaGpiZGZhYVFlUGVZbG1lTGRXcmRJeDdRTzVnSXByTmprLXplR2FGLWZrczJXYTRUVktrXzZvLTFGOENyd1l2andZaG5YYXM3cGwtXzlfcm0yMGJDV3llYVp0MllPcHc5b2RjZ25B?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMidkFVX3lxTE9QcXdWcUF5TmM2VjdmZWx3UGxyTzFaUmZWYVdSX1RvUFpQVXpwNUNiejV0cVVvX0VhNnRqMVBiRzJtczJicUw3RWpkU1hQd2g5RnlSbWpOdVZ0UkNrWlZxN3lWZk9VbXBGQmV3aDd5UjRzcUU0aFE?oc=5",
@@ -5218,7 +5254,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX3FYZVJkeDJONXJ2Q3V2UnZyN0dYWVdxcTU2S2doOWZXUnhQc09KMDY5Sk5EOVRHWXI2ZWs5TlVmVVhVTFJCbmI4eXl6ZUVqR0tRYVUxNVNGblUtVG5aS1BMTjVNY1g3MVJWaktNYm1taHIwdVRuUENPRTdjTExTMk1PNmVBRjVEYXFXZkRmdGZJSTVoZ291bUMwUmZpVzg4LXlYZjRYLWpVWWpmZlh5Y2Jtbkc3YkpJY29pMkEzTGdyT2FSclJmRm9BUndOMWJLQVIyemYxRWM2TUNUeUhXVzM4U0F4QdIB6wFBVV95cUxOa0VlUUthWmUwQkJ2N0Zxd3lxSGxpSm9LWDRDQXdjMFV3ajdJTm5oR3VoQ1hZZGFEdTNjWW8yTXZBOHNvQW5qQS1QSmZacjBuWTlTT1NIcS04Sy1FTWhNYTFuSWQzZ0F2TS1ldzFuTU5JVXJrWXRCNG9NOW41QkVTRXZBaHdmUGtwb3B4NFRIY01keVhGSWNjVktpMC15Um5GVU1UWkcxRTNXNVVoRkZtalZySlVlS2pTZm96bXZwRHJpNk0zZk54dVpGSElUTW5oSWhYYk9yTlZIc3h3NlhGWndteVhLRXBlMmJ3?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Times Now｜Thu, 15 Oct 2026 03:27:08 GMT｜VLF Strada Electric Scooter Launched In India: Here’s What You Get For Rs 1.20 Lakh - Times Now｜https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX3FYZVJkeDJONXJ2Q3V2UnZyN0dYWVdxcTU2S2doOWZXUnhQc09KMDY5Sk5EOVRHWXI2ZWs5TlVmVVhVTFJCbmI4eXl6ZUVqR0tRYVUxNVNGblUtVG5aS1BMTjVNY1g3MVJWaktNYm1taHIwdVRuUENPRTdjTExTMk1PNmVBRjVEYXFXZkRmdGZJSTVoZ291bUMwUmZpVzg4LXlYZjRYLWpVWWpmZlh5Y2Jtbkc3YkpJY29pMkEzTGdyT2FSclJmRm9BUndOMWJLQVIyemYxRWM2TUNUeUhXVzM4U0F4QdIB6wFBVV95cUxOa0VlUUthWmUwQkJ2N0Zxd3lxSGxpSm9LWDRDQXdjMFV3ajdJTm5oR3VoQ1hZZGFEdTNjWW8yTXZBOHNvQW5qQS1QSmZacjBuWTlTT1NIcS04Sy1FTWhNYTFuSWQzZ0F2TS1ldzFuTU5JVXJrWXRCNG9NOW41QkVTRXZBaHdmUGtwb3B4NFRIY01keVhGSWNjVktpMC15Um5GVU1UWkcxRTNXNVVoRkZtalZySlVlS2pTZm96bXZwRHJpNk0zZk54dVpGSElUTW5oSWhYYk9yTlZIc3h3NlhGWndteVhLRXBlMmJ3?oc=5｜擷取日 2026-10-20"
+      "citation": "Times Now｜Thu, 15 Oct 2026 03:27:08 GMT｜VLF Strada Electric Scooter Launched In India: Here’s What You Get For Rs 1.20 Lakh - Times Now｜https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX3FYZVJkeDJONXJ2Q3V2UnZyN0dYWVdxcTU2S2doOWZXUnhQc09KMDY5Sk5EOVRHWXI2ZWs5TlVmVVhVTFJCbmI4eXl6ZUVqR0tRYVUxNVNGblUtVG5aS1BMTjVNY1g3MVJWaktNYm1taHIwdVRuUENPRTdjTExTMk1PNmVBRjVEYXFXZkRmdGZJSTVoZ291bUMwUmZpVzg4LXlYZjRYLWpVWWpmZlh5Y2Jtbkc3YkpJY29pMkEzTGdyT2FSclJmRm9BUndOMWJLQVIyemYxRWM2TUNUeUhXVzM4U0F4QdIB6wFBVV95cUxOa0VlUUthWmUwQkJ2N0Zxd3lxSGxpSm9LWDRDQXdjMFV3ajdJTm5oR3VoQ1hZZGFEdTNjWW8yTXZBOHNvQW5qQS1QSmZacjBuWTlTT1NIcS04Sy1FTWhNYTFuSWQzZ0F2TS1ldzFuTU5JVXJrWXRCNG9NOW41QkVTRXZBaHdmUGtwb3B4NFRIY01keVhGSWNjVktpMC15Um5GVU1UWkcxRTNXNVVoRkZtalZySlVlS2pTZm96bXZwRHJpNk0zZk54dVpGSElUTW5oSWhYYk9yTlZIc3h3NlhGWndteVhLRXBlMmJ3?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GT1oxVFpuQjhTNlJjZHMxd1FmeDEwN3Z5OXBsczZiM0VlSnpvWGo0aWg1TWlEUGh3MWptbE5XcXl0amdIOTFXVEVDTTdtUUEwOTRiTG93YXRFNmRkSWNjWkpWdlBKcFE?oc=5",
@@ -5272,7 +5308,7 @@
       "articleUrl": "https://electrek.co/2026/10/13/lectric-launches-lighter-lower-cost-version-of-its-bestselling-urban-e-bike-lectric-xpress-lite/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/lectric-xpress-lite-header-1.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Tue, 13 Oct 2026 10:58:29 +0000｜Lectric launches lighter, lower-cost version of its bestselling urban e-bike: Lectric XPress Lite｜https://electrek.co/2026/10/13/lectric-launches-lighter-lower-cost-version-of-its-bestselling-urban-e-bike-lectric-xpress-lite/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Tue, 13 Oct 2026 10:58:29 +0000｜Lectric launches lighter, lower-cost version of its bestselling urban e-bike: Lectric XPress Lite｜https://electrek.co/2026/10/13/lectric-launches-lighter-lower-cost-version-of-its-bestselling-urban-e-bike-lectric-xpress-lite/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUlLazdoU3YyTl90ckk3V3FMV1NPUTBvVnBiN08yWGRZYXY5N0hmMHJDaTJpd1BnMU1XWmhaYWJ4R3d6UFI3NHBGSWVwbFlhU0RRZjlHZXp3UHVNM3ZreVh2dXI5R3pwb2pGczZiUnJNakhWSzhGdlVaUUp4ZW8xNDFlQ2E2NW1k?oc=5",
@@ -5290,7 +5326,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUlLazdoU3YyTl90ckk3V3FMV1NPUTBvVnBiN08yWGRZYXY5N0hmMHJDaTJpd1BnMU1XWmhaYWJ4R3d6UFI3NHBGSWVwbFlhU0RRZjlHZXp3UHVNM3ZreVh2dXI5R3pwb2pGczZiUnJNakhWSzhGdlVaUUp4ZW8xNDFlQ2E2NW1k?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "BikeAdvice｜Tue, 13 Oct 2026 10:47:52 GMT｜E-Sprinto G1 Family Electric Scooter Launch Price Rs 89,999 - BikeAdvice｜https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUlLazdoU3YyTl90ckk3V3FMV1NPUTBvVnBiN08yWGRZYXY5N0hmMHJDaTJpd1BnMU1XWmhaYWJ4R3d6UFI3NHBGSWVwbFlhU0RRZjlHZXp3UHVNM3ZreVh2dXI5R3pwb2pGczZiUnJNakhWSzhGdlVaUUp4ZW8xNDFlQ2E2NW1k?oc=5｜擷取日 2026-10-20"
+      "citation": "BikeAdvice｜Tue, 13 Oct 2026 10:47:52 GMT｜E-Sprinto G1 Family Electric Scooter Launch Price Rs 89,999 - BikeAdvice｜https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUlLazdoU3YyTl90ckk3V3FMV1NPUTBvVnBiN08yWGRZYXY5N0hmMHJDaTJpd1BnMU1XWmhaYWJ4R3d6UFI3NHBGSWVwbFlhU0RRZjlHZXp3UHVNM3ZreVh2dXI5R3pwb2pGczZiUnJNakhWSzhGdlVaUUp4ZW8xNDFlQ2E2NW1k?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHBmUzVRNWl2LV9MMjZTa19LSzlaVUFoeDl1TWtLR3Y5WnNyNktLVTV0VW9aeE9JdmJ6UkwyWC1XRXlhZDYtZ0pPazFGajYzWDhoSkR3RkYwdURmS0ZwUFpzUVJPLWtxZV9mS2s4TWpZWXFjbTJoUWdIbTBIWjVYNC1QSk9jREJjcU5mQmpiR3JtS3h1WkUtd2JRZXkyTDNXY3ROTFE3NDdjXy1QSlNpWTlyQW1zWEMzWGFXTGkxWnJjYmFieUFOYTRkbFY?oc=5",
@@ -5308,7 +5344,25 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHBmUzVRNWl2LV9MMjZTa19LSzlaVUFoeDl1TWtLR3Y5WnNyNktLVTV0VW9aeE9JdmJ6UkwyWC1XRXlhZDYtZ0pPazFGajYzWDhoSkR3RkYwdURmS0ZwUFpzUVJPLWtxZV9mS2s4TWpZWXFjbTJoUWdIbTBIWjVYNC1QSk9jREJjcU5mQmpiR3JtS3h1WkUtd2JRZXkyTDNXY3ROTFE3NDdjXy1QSlNpWTlyQW1zWEMzWGFXTGkxWnJjYmFieUFOYTRkbFY?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Zee Business｜Tue, 13 Oct 2026 10:40:07 GMT｜e-SPRINTO G1 electric scooter launched in India: Check range, features and delivery date - Zee Business｜https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHBmUzVRNWl2LV9MMjZTa19LSzlaVUFoeDl1TWtLR3Y5WnNyNktLVTV0VW9aeE9JdmJ6UkwyWC1XRXlhZDYtZ0pPazFGajYzWDhoSkR3RkYwdURmS0ZwUFpzUVJPLWtxZV9mS2s4TWpZWXFjbTJoUWdIbTBIWjVYNC1QSk9jREJjcU5mQmpiR3JtS3h1WkUtd2JRZXkyTDNXY3ROTFE3NDdjXy1QSlNpWTlyQW1zWEMzWGFXTGkxWnJjYmFieUFOYTRkbFY?oc=5｜擷取日 2026-10-20"
+      "citation": "Zee Business｜Tue, 13 Oct 2026 10:40:07 GMT｜e-SPRINTO G1 electric scooter launched in India: Check range, features and delivery date - Zee Business｜https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHBmUzVRNWl2LV9MMjZTa19LSzlaVUFoeDl1TWtLR3Y5WnNyNktLVTV0VW9aeE9JdmJ6UkwyWC1XRXlhZDYtZ0pPazFGajYzWDhoSkR3RkYwdURmS0ZwUFpzUVJPLWtxZV9mS2s4TWpZWXFjbTJoUWdIbTBIWjVYNC1QSk9jREJjcU5mQmpiR3JtS3h1WkUtd2JRZXkyTDNXY3ROTFE3NDdjXy1QSlNpWTlyQW1zWEMzWGFXTGkxWnJjYmFieUFOYTRkbFY?oc=5｜擷取日 2026-10-21"
+    },
+    {
+      "key": "url:https://www.cpsc.gov/Recalls/2027/Gazelle-USA-Recalls-Urban-Arrow-Cargo-Electric-Bikes-Due-to-Fall-Hazard",
+      "firstSeenAt": "2026-10-02",
+      "publishedAt": "2027-01-01",
+      "category": "安全召回",
+      "importance": "high",
+      "region": "美國",
+      "sourceName": "U.S. CPSC Recalls",
+      "sourceFeed": "U.S. CPSC Recalls",
+      "title": "Gazelle USA Recalls Urban Arrow Cargo Electric Bikes Due to Fall Hazard",
+      "titleZh": "",
+      "briefZh": "",
+      "summary": "來源頁未提供摘要。",
+      "articleUrl": "https://www.cpsc.gov/Recalls/2027/Gazelle-USA-Recalls-Urban-Arrow-Cargo-Electric-Bikes-Due-to-Fall-Hazard",
+      "imageUrl": "https://www.cpsc.gov/s3fs-public/urban1.gif?VersionId=pBUiiVO.dPmhscNswQK4cyPRT_hXNydh",
+      "imageCredit": "原始報導縮圖",
+      "citation": "U.S. CPSC Recalls｜2027-01-01｜Gazelle USA Recalls Urban Arrow Cargo Electric Bikes Due to Fall Hazard｜https://www.cpsc.gov/Recalls/2027/Gazelle-USA-Recalls-Urban-Arrow-Cargo-Electric-Bikes-Due-to-Fall-Hazard｜擷取日 2026-10-08"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMidkFVX3lxTE4yN2pqVW1Bd1ZMWE1rZFhsRm94THdRX1BGR21jUVVkMk5PV3FWWi04TDJVaXJscHJmbEgxYlRvaHRUOUk0MGMwUXlfNnpDb2hldVBkQ1lfemZsUGRPODVLS2YwRDJ5ZXJ5dkZOeG1hRzZKdmkyNUE?oc=5",
@@ -5344,7 +5398,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjBZLTNRbVh1OExxanRnV2VrNlltQTJGOTJEUjNBeHNNclg4OTdkRTdjZ0FraXdQMjZJTmNwVHBnd3psR2dXTEFpTzVmelhzRlRkaUtrVVE1Si1YcnowQVRGSjBTR1hqYU9pVngxU2ZMZjBzTzBaN2RIcnFxd2VYZWYwUXNDY3ZzYWstOThR?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "The Murray State News｜Thu, 15 Oct 2026 23:57:55 GMT｜SGA talks campus growth, E-scooter regulation - The Murray State News｜https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjBZLTNRbVh1OExxanRnV2VrNlltQTJGOTJEUjNBeHNNclg4OTdkRTdjZ0FraXdQMjZJTmNwVHBnd3psR2dXTEFpTzVmelhzRlRkaUtrVVE1Si1YcnowQVRGSjBTR1hqYU9pVngxU2ZMZjBzTzBaN2RIcnFxd2VYZWYwUXNDY3ZzYWstOThR?oc=5｜擷取日 2026-10-20"
+      "citation": "The Murray State News｜Thu, 15 Oct 2026 23:57:55 GMT｜SGA talks campus growth, E-scooter regulation - The Murray State News｜https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjBZLTNRbVh1OExxanRnV2VrNlltQTJGOTJEUjNBeHNNclg4OTdkRTdjZ0FraXdQMjZJTmNwVHBnd3psR2dXTEFpTzVmelhzRlRkaUtrVVE1Si1YcnowQVRGSjBTR1hqYU9pVngxU2ZMZjBzTzBaN2RIcnFxd2VYZWYwUXNDY3ZzYWstOThR?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1JVNV9SdS1mUUFSelZZNzFTUlZVSS1PTUlzVlBQREtTQmdDSGtlWVQwR3FiUFlEQXV4Umtxc0dFcC0tRWlIeHdpYmVMR1BYSzJKTnJEc1JielNRQi1pb3ZucUJPamp5dVNXMjN4N3JGNmdXTmRqUVpRTmlCUjBRRHdiQjJjNmx3Nnc?oc=5",
@@ -5362,25 +5416,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1JVNV9SdS1mUUFSelZZNzFTUlZVSS1PTUlzVlBQREtTQmdDSGtlWVQwR3FiUFlEQXV4Umtxc0dFcC0tRWlIeHdpYmVMR1BYSzJKTnJEc1JielNRQi1pb3ZucUJPamp5dVNXMjN4N3JGNmdXTmRqUVpRTmlCUjBRRHdiQjJjNmx3Nnc?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Boston.gov｜Thu, 15 Oct 2026 19:02:47 GMT｜Boston E-Bikes Incentive Program - Boston.gov｜https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1JVNV9SdS1mUUFSelZZNzFTUlZVSS1PTUlzVlBQREtTQmdDSGtlWVQwR3FiUFlEQXV4Umtxc0dFcC0tRWlIeHdpYmVMR1BYSzJKTnJEc1JielNRQi1pb3ZucUJPamp5dVNXMjN4N3JGNmdXTmRqUVpRTmlCUjBRRHdiQjJjNmx3Nnc?oc=5｜擷取日 2026-10-20"
-    },
-    {
-      "key": "url:https://www.cpsc.gov/Recalls/2027/Gazelle-USA-Recalls-Urban-Arrow-Cargo-Electric-Bikes-Due-to-Fall-Hazard",
-      "firstSeenAt": "2026-10-02",
-      "publishedAt": "2027-01-01",
-      "category": "安全召回",
-      "importance": "high",
-      "region": "美國",
-      "sourceName": "U.S. CPSC Recalls",
-      "sourceFeed": "U.S. CPSC Recalls",
-      "title": "Gazelle USA Recalls Urban Arrow Cargo Electric Bikes Due to Fall Hazard",
-      "titleZh": "",
-      "briefZh": "",
-      "summary": "來源頁未提供摘要。",
-      "articleUrl": "https://www.cpsc.gov/Recalls/2027/Gazelle-USA-Recalls-Urban-Arrow-Cargo-Electric-Bikes-Due-to-Fall-Hazard",
-      "imageUrl": "https://www.cpsc.gov/s3fs-public/urban1.gif?VersionId=pBUiiVO.dPmhscNswQK4cyPRT_hXNydh",
-      "imageCredit": "原始報導縮圖",
-      "citation": "U.S. CPSC Recalls｜2027-01-01｜Gazelle USA Recalls Urban Arrow Cargo Electric Bikes Due to Fall Hazard｜https://www.cpsc.gov/Recalls/2027/Gazelle-USA-Recalls-Urban-Arrow-Cargo-Electric-Bikes-Due-to-Fall-Hazard｜擷取日 2026-10-08"
+      "citation": "Boston.gov｜Thu, 15 Oct 2026 19:02:47 GMT｜Boston E-Bikes Incentive Program - Boston.gov｜https://news.google.com/rss/articles/CBMiigFBVV95cUxNN1JVNV9SdS1mUUFSelZZNzFTUlZVSS1PTUlzVlBQREtTQmdDSGtlWVQwR3FiUFlEQXV4Umtxc0dFcC0tRWlIeHdpYmVMR1BYSzJKTnJEc1JielNRQi1pb3ZucUJPamp5dVNXMjN4N3JGNmdXTmRqUVpRTmlCUjBRRHdiQjJjNmx3Nnc?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMinwFBVV95cUxNUG9BbnZqMVhNcDF6cUVWeDNzUlUtdm1xOEcwR1pVblJyaEFzTXJJazVVaGV3QkstUjRPZXlMR1FjUDQyWUFuVWtfSWpsZDJOOW9wcTM5OEc0UnZwQUpSSGl6aHhTajRZRkxTYUdMeWhwNzFvSlM3cWQzSG1qYmZ2ejVHWkhISW9GWFRVT1JUZ1FGZVBUbFZWM0RtYlJ3a1k?oc=5",
@@ -5506,7 +5542,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmxHMXVQVUo1aXBZYjZtbGotamtrZFlZMnljT0IyelFsM29VMEpuazNwQzRfU2xxNlY2VkhtMHFNdVNaV1ZJYlpYUWpDMm1WQzBQcDJiMU40UzlJRXJWUU9tZkpycDZBNWFtQjU2WDFLb0dTcDdvZ3N0NF80b2Jkd2k5S0M2bEs1TXEtbnVpak85a24zVk51cGNGb3Y?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Tri-State Alert｜Wed, 14 Oct 2026 07:38:33 GMT｜No License, No Plate, No Limit: The E-Bike Boom Is Outrunning the Law - Tri-State Alert｜https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmxHMXVQVUo1aXBZYjZtbGotamtrZFlZMnljT0IyelFsM29VMEpuazNwQzRfU2xxNlY2VkhtMHFNdVNaV1ZJYlpYUWpDMm1WQzBQcDJiMU40UzlJRXJWUU9tZkpycDZBNWFtQjU2WDFLb0dTcDdvZ3N0NF80b2Jkd2k5S0M2bEs1TXEtbnVpak85a24zVk51cGNGb3Y?oc=5｜擷取日 2026-10-20"
+      "citation": "Tri-State Alert｜Wed, 14 Oct 2026 07:38:33 GMT｜No License, No Plate, No Limit: The E-Bike Boom Is Outrunning the Law - Tri-State Alert｜https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmxHMXVQVUo1aXBZYjZtbGotamtrZFlZMnljT0IyelFsM29VMEpuazNwQzRfU2xxNlY2VkhtMHFNdVNaV1ZJYlpYUWpDMm1WQzBQcDJiMU40UzlJRXJWUU9tZkpycDZBNWFtQjU2WDFLb0dTcDdvZ3N0NF80b2Jkd2k5S0M2bEs1TXEtbnVpak85a24zVk51cGNGb3Y?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMijgFBVV95cUxNLWt2SlhHVTdhYUdIalgtTXdWZFlPQVBfMjFQQVlqZ3pfcl9RY0FXa2pmaXRfM19zczlhWU5qcW1XUXJZbE9vaWpIVTQtbjBETENRZ2VBQmNRY0ppZnQwYVlPTDRGNDRlVTBSMFBfQjlnSzY1VnFaX054TWFKUWROQnRnU09YaUFITldHUHN3?oc=5",
@@ -5542,7 +5578,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnRJUFpoUFBKRC1ORmxDLTFSVW9iRUN0ODNkZV9HeUtCOEx1WHA2cXlCOVEwMnU4TVlkeGVrZVhpbFI2cGcwOHh2Nl9UOEhrY0ZMeTdZZ1dKOEw2bG81YVM3c1JpelplWHNoNWlwa3RRZGZtRS15bzBtWU05SHVPT21ZMGl1MEJnQWstMG50Tks5alk3alYtbG1zNFlyNS1xQ1VRR1NLZVhRRmpVUkVEb0dueENoZw?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Culver City Crossroads｜Tue, 13 Oct 2026 19:05:41 GMT｜Bike Culver City Celebrates Legal Win With E-Bike Regulation Law - Culver City Crossroads｜https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnRJUFpoUFBKRC1ORmxDLTFSVW9iRUN0ODNkZV9HeUtCOEx1WHA2cXlCOVEwMnU4TVlkeGVrZVhpbFI2cGcwOHh2Nl9UOEhrY0ZMeTdZZ1dKOEw2bG81YVM3c1JpelplWHNoNWlwa3RRZGZtRS15bzBtWU05SHVPT21ZMGl1MEJnQWstMG50Tks5alk3alYtbG1zNFlyNS1xQ1VRR1NLZVhRRmpVUkVEb0dueENoZw?oc=5｜擷取日 2026-10-20"
+      "citation": "Culver City Crossroads｜Tue, 13 Oct 2026 19:05:41 GMT｜Bike Culver City Celebrates Legal Win With E-Bike Regulation Law - Culver City Crossroads｜https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnRJUFpoUFBKRC1ORmxDLTFSVW9iRUN0ODNkZV9HeUtCOEx1WHA2cXlCOVEwMnU4TVlkeGVrZVhpbFI2cGcwOHh2Nl9UOEhrY0ZMeTdZZ1dKOEw2bG81YVM3c1JpelplWHNoNWlwa3RRZGZtRS15bzBtWU05SHVPT21ZMGl1MEJnQWstMG50Tks5alk3alYtbG1zNFlyNS1xQ1VRR1NLZVhRRmpVUkVEb0dueENoZw?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0MyRkI2RjFlWUdVYXZpN0QwZFhLNmg4M3VhRFc5VWk5OTBRSUEzeWhmdmNhMmtnYWZpMHVYSWxsNWhVSkdjX0xvWGpQc01RclkwNnNPbVpkVE80RnVaVXd0QjQ0ejhnb3ktRUkzYjZFSGxWX2NVX3JMdXpoREh5UjIyT3AydlJndGo1R1FqVFVCWUlT?oc=5",
@@ -5560,7 +5596,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0MyRkI2RjFlWUdVYXZpN0QwZFhLNmg4M3VhRFc5VWk5OTBRSUEzeWhmdmNhMmtnYWZpMHVYSWxsNWhVSkdjX0xvWGpQc01RclkwNnNPbVpkVE80RnVaVXd0QjQ0ejhnb3ktRUkzYjZFSGxWX2NVX3JMdXpoREh5UjIyT3AydlJndGo1R1FqVFVCWUlT?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "ClickOnDetroit | WDIV Local 4｜Tue, 13 Oct 2026 15:34:57 GMT｜LITD - Kajy Law (E-Bike Safety) - ClickOnDetroit | WDIV Local 4｜https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0MyRkI2RjFlWUdVYXZpN0QwZFhLNmg4M3VhRFc5VWk5OTBRSUEzeWhmdmNhMmtnYWZpMHVYSWxsNWhVSkdjX0xvWGpQc01RclkwNnNPbVpkVE80RnVaVXd0QjQ0ejhnb3ktRUkzYjZFSGxWX2NVX3JMdXpoREh5UjIyT3AydlJndGo1R1FqVFVCWUlT?oc=5｜擷取日 2026-10-20"
+      "citation": "ClickOnDetroit | WDIV Local 4｜Tue, 13 Oct 2026 15:34:57 GMT｜LITD - Kajy Law (E-Bike Safety) - ClickOnDetroit | WDIV Local 4｜https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0MyRkI2RjFlWUdVYXZpN0QwZFhLNmg4M3VhRFc5VWk5OTBRSUEzeWhmdmNhMmtnYWZpMHVYSWxsNWhVSkdjX0xvWGpQc01RclkwNnNPbVpkVE80RnVaVXd0QjQ0ejhnb3ktRUkzYjZFSGxWX2NVX3JMdXpoREh5UjIyT3AydlJndGo1R1FqVFVCWUlT?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMikgFBVV95cUxQUE9mTXNJYkUtM21pNjNiZHM0cy11QmYyWm5MUkpCRUs3WEVZOVJWWEJoWTFlWEkzVHFnamw2NmJsMDYwTXpoMVVKc1RTWlZpVmNqWHpKelV0T3NvT3lhMWxrakNCbkwwZlZKX2FjLTlCMTgzRHlwTVFwdnZFS1dtbGU4TTloRFhpTkkxYUFpUVJDdw?oc=5",
@@ -5578,7 +5614,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUE9mTXNJYkUtM21pNjNiZHM0cy11QmYyWm5MUkpCRUs3WEVZOVJWWEJoWTFlWEkzVHFnamw2NmJsMDYwTXpoMVVKc1RTWlZpVmNqWHpKelV0T3NvT3lhMWxrakNCbkwwZlZKX2FjLTlCMTgzRHlwTVFwdnZFS1dtbGU4TTloRFhpTkkxYUFpUVJDdw?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Taylorville Daily News｜Tue, 13 Oct 2026 11:30:32 GMT｜Taylorville Police Prepare for E-Bike Law Roll-Out - Taylorville Daily News｜https://news.google.com/rss/articles/CBMikgFBVV95cUxQUE9mTXNJYkUtM21pNjNiZHM0cy11QmYyWm5MUkpCRUs3WEVZOVJWWEJoWTFlWEkzVHFnamw2NmJsMDYwTXpoMVVKc1RTWlZpVmNqWHpKelV0T3NvT3lhMWxrakNCbkwwZlZKX2FjLTlCMTgzRHlwTVFwdnZFS1dtbGU4TTloRFhpTkkxYUFpUVJDdw?oc=5｜擷取日 2026-10-17"
+      "citation": "Taylorville Daily News｜Tue, 13 Oct 2026 11:30:32 GMT｜Taylorville Police Prepare for E-Bike Law Roll-Out - Taylorville Daily News｜https://news.google.com/rss/articles/CBMikgFBVV95cUxQUE9mTXNJYkUtM21pNjNiZHM0cy11QmYyWm5MUkpCRUs3WEVZOVJWWEJoWTFlWEkzVHFnamw2NmJsMDYwTXpoMVVKc1RTWlZpVmNqWHpKelV0T3NvT3lhMWxrakNCbkwwZlZKX2FjLTlCMTgzRHlwTVFwdnZFS1dtbGU4TTloRFhpTkkxYUFpUVJDdw?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTEVCZXJPMnNqNnEwSnFvMVFtYmZHT2phRmNybXgyTlpnbkduZ1MtS3Vta3RHdmo5UG93RVBmanNsdDk0YXJKMWtfXzJKU1ZHS0ZPZFhNVlhWMzRuSWZuM2tHSjgzR29Pdlp6OTdweFJNSk5HbGI4T0FCVlJLSFBTcE9XUjhpRUl3Y0YzaWRCbXNIMFRPd2dHcEhNTkE1V2J5ZjBzbnZDYm5RSmtTWThWTEVWWDdtckJUV3JZWlFDcjZtWW5lVW9aS0pJdlgzWm9qOWJxeTFVdkjSAd4BQVVfeXFMUGp5WmVxSGFSNlhVN2tpWmtvVmI2b3hSZ2JGT2NxYUVyZ0Y0N3RES3F5aWdCUXkycHNKUERSdWNzTTdyZXdjTHg2aGZNckpuVzdaNS00YUs5RWMyZk5QeUhFV1EydW5KRnJ0YV9TeFpydl8zaDNibm5Qbl9WSVRGMld0TkxlLTc0TWxLX1A2YUE4ZDB6dHpRVHBiemgyNXoySUh1a1I4MEVWb3ROUzJWRDRCWTFXU2xLNWo5cXRHYUJQdE1pZUZ6cUdDRTVPaU5zSzgtbmRrcnlqRUw3eE5R?oc=5",
@@ -5596,7 +5632,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTEVCZXJPMnNqNnEwSnFvMVFtYmZHT2phRmNybXgyTlpnbkduZ1MtS3Vta3RHdmo5UG93RVBmanNsdDk0YXJKMWtfXzJKU1ZHS0ZPZFhNVlhWMzRuSWZuM2tHSjgzR29Pdlp6OTdweFJNSk5HbGI4T0FCVlJLSFBTcE9XUjhpRUl3Y0YzaWRCbXNIMFRPd2dHcEhNTkE1V2J5ZjBzbnZDYm5RSmtTWThWTEVWWDdtckJUV3JZWlFDcjZtWW5lVW9aS0pJdlgzWm9qOWJxeTFVdkjSAd4BQVVfeXFMUGp5WmVxSGFSNlhVN2tpWmtvVmI2b3hSZ2JGT2NxYUVyZ0Y0N3RES3F5aWdCUXkycHNKUERSdWNzTTdyZXdjTHg2aGZNckpuVzdaNS00YUs5RWMyZk5QeUhFV1EydW5KRnJ0YV9TeFpydl8zaDNibm5Qbl9WSVRGMld0TkxlLTc0TWxLX1A2YUE4ZDB6dHpRVHBiemgyNXoySUh1a1I4MEVWb3ROUzJWRDRCWTFXU2xLNWo5cXRHYUJQdE1pZUZ6cUdDRTVPaU5zSzgtbmRrcnlqRUw3eE5R?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Livemint｜Fri, 09 Oct 2026 07:00:00 GMT｜VinFast takes on TVS, Bajaj and Ather as electric scooter launch plans advance in India - Livemint｜https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTEVCZXJPMnNqNnEwSnFvMVFtYmZHT2phRmNybXgyTlpnbkduZ1MtS3Vta3RHdmo5UG93RVBmanNsdDk0YXJKMWtfXzJKU1ZHS0ZPZFhNVlhWMzRuSWZuM2tHSjgzR29Pdlp6OTdweFJNSk5HbGI4T0FCVlJLSFBTcE9XUjhpRUl3Y0YzaWRCbXNIMFRPd2dHcEhNTkE1V2J5ZjBzbnZDYm5RSmtTWThWTEVWWDdtckJUV3JZWlFDcjZtWW5lVW9aS0pJdlgzWm9qOWJxeTFVdkjSAd4BQVVfeXFMUGp5WmVxSGFSNlhVN2tpWmtvVmI2b3hSZ2JGT2NxYUVyZ0Y0N3RES3F5aWdCUXkycHNKUERSdWNzTTdyZXdjTHg2aGZNckpuVzdaNS00YUs5RWMyZk5QeUhFV1EydW5KRnJ0YV9TeFpydl8zaDNibm5Qbl9WSVRGMld0TkxlLTc0TWxLX1A2YUE4ZDB6dHpRVHBiemgyNXoySUh1a1I4MEVWb3ROUzJWRDRCWTFXU2xLNWo5cXRHYUJQdE1pZUZ6cUdDRTVPaU5zSzgtbmRrcnlqRUw3eE5R?oc=5｜擷取日 2026-10-20"
+      "citation": "Livemint｜Fri, 09 Oct 2026 07:00:00 GMT｜VinFast takes on TVS, Bajaj and Ather as electric scooter launch plans advance in India - Livemint｜https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTEVCZXJPMnNqNnEwSnFvMVFtYmZHT2phRmNybXgyTlpnbkduZ1MtS3Vta3RHdmo5UG93RVBmanNsdDk0YXJKMWtfXzJKU1ZHS0ZPZFhNVlhWMzRuSWZuM2tHSjgzR29Pdlp6OTdweFJNSk5HbGI4T0FCVlJLSFBTcE9XUjhpRUl3Y0YzaWRCbXNIMFRPd2dHcEhNTkE1V2J5ZjBzbnZDYm5RSmtTWThWTEVWWDdtckJUV3JZWlFDcjZtWW5lVW9aS0pJdlgzWm9qOWJxeTFVdkjSAd4BQVVfeXFMUGp5WmVxSGFSNlhVN2tpWmtvVmI2b3hSZ2JGT2NxYUVyZ0Y0N3RES3F5aWdCUXkycHNKUERSdWNzTTdyZXdjTHg2aGZNckpuVzdaNS00YUs5RWMyZk5QeUhFV1EydW5KRnJ0YV9TeFpydl8zaDNibm5Qbl9WSVRGMld0TkxlLTc0TWxLX1A2YUE4ZDB6dHpRVHBiemgyNXoySUh1a1I4MEVWb3ROUzJWRDRCWTFXU2xLNWo5cXRHYUJQdE1pZUZ6cUdDRTVPaU5zSzgtbmRrcnlqRUw3eE5R?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUmMzX09fZzdhcEtteld2SVJZemtSVFdxbG1ydjZUV1RVVkVTR05lSmdndXFnNnFySlVranJVMi1rUE0tRC0yN09DaXFlZ0JpdlF3cFl4aDRla095alJCaHg1V0FWS29jVGNMcFlaWV9hc3ZTNnNsbE5uWDZ2M3R0TnExNWM0ZkdJc3VtVlFkd3haQ2c5Yk9sS3R2Sm5CZDYxcEpHOG5lZElROS1XbjVKWFh1UDJ5YVh0bUhfSXFBa1c5X2NPS2VUUVlKSTQ0Tldta0cxN3pUaGFlSmNhYXhWV0FDVHk?oc=5",
@@ -5632,7 +5668,7 @@
       "articleUrl": "https://electrek.co/2026/10/07/this-e-bike-fits-seven-riders-and-thats-not-even-the-craziest-thing-about-it/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/sixthreezerohead-1.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Wed, 07 Oct 2026 15:26:54 +0000｜This e-bike fits seven riders, and that’s not even the craziest thing about it｜https://electrek.co/2026/10/07/this-e-bike-fits-seven-riders-and-thats-not-even-the-craziest-thing-about-it/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Wed, 07 Oct 2026 15:26:54 +0000｜This e-bike fits seven riders, and that’s not even the craziest thing about it｜https://electrek.co/2026/10/07/this-e-bike-fits-seven-riders-and-thats-not-even-the-craziest-thing-about-it/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMixgFBVV95cUxOLXNhSEFvWkVPVVBSU0xOVU5NT0dTN0dWbXlUS0tIbkJHS2NEODMxUm0wWE1mV0d2eGxfVjBTMzk2S0N4RXMyZjJIU1hnZFh5dGo5Znowem04TTR1V3VmVnhseHdqVldfb1o3Y2p0dThEdXRIaGVVRUliSGRWLUgxVC1MWFpXbFpaa2djVnludTRseWVnTV92YXItX3NpNEFUcmdROFBlczdEa3g2VjU5bjJnZlBibzB5eFVwa0FoVVpCeXBvTFE?oc=5",
@@ -5650,7 +5686,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLXNhSEFvWkVPVVBSU0xOVU5NT0dTN0dWbXlUS0tIbkJHS2NEODMxUm0wWE1mV0d2eGxfVjBTMzk2S0N4RXMyZjJIU1hnZFh5dGo5Znowem04TTR1V3VmVnhseHdqVldfb1o3Y2p0dThEdXRIaGVVRUliSGRWLUgxVC1MWFpXbFpaa2djVnludTRseWVnTV92YXItX3NpNEFUcmdROFBlczdEa3g2VjU5bjJnZlBibzB5eFVwa0FoVVpCeXBvTFE?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Notebookcheck｜Wed, 07 Oct 2026 07:00:00 GMT｜2,200 W motor and 899 Wh battery: Segway unveils two new flagship electric scooters - Notebookcheck｜https://news.google.com/rss/articles/CBMixgFBVV95cUxOLXNhSEFvWkVPVVBSU0xOVU5NT0dTN0dWbXlUS0tIbkJHS2NEODMxUm0wWE1mV0d2eGxfVjBTMzk2S0N4RXMyZjJIU1hnZFh5dGo5Znowem04TTR1V3VmVnhseHdqVldfb1o3Y2p0dThEdXRIaGVVRUliSGRWLUgxVC1MWFpXbFpaa2djVnludTRseWVnTV92YXItX3NpNEFUcmdROFBlczdEa3g2VjU5bjJnZlBibzB5eFVwa0FoVVpCeXBvTFE?oc=5｜擷取日 2026-10-20"
+      "citation": "Notebookcheck｜Wed, 07 Oct 2026 07:00:00 GMT｜2,200 W motor and 899 Wh battery: Segway unveils two new flagship electric scooters - Notebookcheck｜https://news.google.com/rss/articles/CBMixgFBVV95cUxOLXNhSEFvWkVPVVBSU0xOVU5NT0dTN0dWbXlUS0tIbkJHS2NEODMxUm0wWE1mV0d2eGxfVjBTMzk2S0N4RXMyZjJIU1hnZFh5dGo5Znowem04TTR1V3VmVnhseHdqVldfb1o3Y2p0dThEdXRIaGVVRUliSGRWLUgxVC1MWFpXbFpaa2djVnludTRseWVnTV92YXItX3NpNEFUcmdROFBlczdEa3g2VjU5bjJnZlBibzB5eFVwa0FoVVpCeXBvTFE?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://electrek.co/2026/10/06/this-funky-solar-electric-scooter-could-handle-your-commute-without-ever-plugging-in/",
@@ -5668,7 +5704,7 @@
       "articleUrl": "https://electrek.co/2026/10/06/this-funky-solar-electric-scooter-could-handle-your-commute-without-ever-plugging-in/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/lightfoot-solar-scooter-head.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Tue, 06 Oct 2026 13:11:43 +0000｜This funky solar electric scooter could handle your commute without ever plugging in｜https://electrek.co/2026/10/06/this-funky-solar-electric-scooter-could-handle-your-commute-without-ever-plugging-in/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Tue, 06 Oct 2026 13:11:43 +0000｜This funky solar electric scooter could handle your commute without ever plugging in｜https://electrek.co/2026/10/06/this-funky-solar-electric-scooter-could-handle-your-commute-without-ever-plugging-in/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG1jZWVFbDctQ3dMNkMtenp2R2oxc0JKZTVCYXQ4WDA0SDViZlpOUGc2Sl9hU2dtbjBVWTRXOWhFbGc5RG9BSC11SG9lbjBrRklRT1JtZzU0eW1JVGJHNk1nekdoOEVhaENDMDFLMHpWcl93S1VBa3hYVzIxTUxWU2RKX0FvN3NqSTRlR1lTLWV3SjlZX0HSAZ4BQVVfeXFMTVdhRTNISk0tNnhQMWozeFE0ZHVXRVZpUm5Hd0FkX1Zoc3dGT01WY3hHT0V6Ul8yTXpPZjFxZFYyUEQzQklUMWc1VmFIUU9XWGd5T1JGLW95aGJVU2UwdXBaWTBjSFhsaUpZTnE1Z1RRdzU4SUkxaVBjMmw4ZE4tVGpOYjNPQ3Z3VmxOYTVpQVU0Sm1MSERseHNyQjRJcFE?oc=5",
@@ -5686,7 +5722,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG1jZWVFbDctQ3dMNkMtenp2R2oxc0JKZTVCYXQ4WDA0SDViZlpOUGc2Sl9hU2dtbjBVWTRXOWhFbGc5RG9BSC11SG9lbjBrRklRT1JtZzU0eW1JVGJHNk1nekdoOEVhaENDMDFLMHpWcl93S1VBa3hYVzIxTUxWU2RKX0FvN3NqSTRlR1lTLWV3SjlZX0HSAZ4BQVVfeXFMTVdhRTNISk0tNnhQMWozeFE0ZHVXRVZpUm5Hd0FkX1Zoc3dGT01WY3hHT0V6Ul8yTXpPZjFxZFYyUEQzQklUMWc1VmFIUU9XWGd5T1JGLW95aGJVU2UwdXBaWTBjSFhsaUpZTnE1Z1RRdzU4SUkxaVBjMmw4ZE4tVGpOYjNPQ3Z3VmxOYTVpQVU0Sm1MSERseHNyQjRJcFE?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Autocar Professional｜Wed, 07 Oct 2026 11:27:07 GMT｜e-SPRINTO to Launch G1 Electric Scooter on October 13 - Autocar Professional｜https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG1jZWVFbDctQ3dMNkMtenp2R2oxc0JKZTVCYXQ4WDA0SDViZlpOUGc2Sl9hU2dtbjBVWTRXOWhFbGc5RG9BSC11SG9lbjBrRklRT1JtZzU0eW1JVGJHNk1nekdoOEVhaENDMDFLMHpWcl93S1VBa3hYVzIxTUxWU2RKX0FvN3NqSTRlR1lTLWV3SjlZX0HSAZ4BQVVfeXFMTVdhRTNISk0tNnhQMWozeFE0ZHVXRVZpUm5Hd0FkX1Zoc3dGT01WY3hHT0V6Ul8yTXpPZjFxZFYyUEQzQklUMWc1VmFIUU9XWGd5T1JGLW95aGJVU2UwdXBaWTBjSFhsaUpZTnE1Z1RRdzU4SUkxaVBjMmw4ZE4tVGpOYjNPQ3Z3VmxOYTVpQVU0Sm1MSERseHNyQjRJcFE?oc=5｜擷取日 2026-10-20"
+      "citation": "Autocar Professional｜Wed, 07 Oct 2026 11:27:07 GMT｜e-SPRINTO to Launch G1 Electric Scooter on October 13 - Autocar Professional｜https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG1jZWVFbDctQ3dMNkMtenp2R2oxc0JKZTVCYXQ4WDA0SDViZlpOUGc2Sl9hU2dtbjBVWTRXOWhFbGc5RG9BSC11SG9lbjBrRklRT1JtZzU0eW1JVGJHNk1nekdoOEVhaENDMDFLMHpWcl93S1VBa3hYVzIxTUxWU2RKX0FvN3NqSTRlR1lTLWV3SjlZX0HSAZ4BQVVfeXFMTVdhRTNISk0tNnhQMWozeFE0ZHVXRVZpUm5Hd0FkX1Zoc3dGT01WY3hHT0V6Ul8yTXpPZjFxZFYyUEQzQklUMWc1VmFIUU9XWGd5T1JGLW95aGJVU2UwdXBaWTBjSFhsaUpZTnE1Z1RRdzU4SUkxaVBjMmw4ZE4tVGpOYjNPQ3Z3VmxOYTVpQVU0Sm1MSERseHNyQjRJcFE?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMijwFBVV95cUxPdF8xc3BfcHRaOXBPM052dk9jak81MTZKT25iMm9vejFvYk53ek83a1R4c1ZkUnB4M1JCNk9wQWw3YlBwNll5SlZNOHIzQnA4NUhwa29OT0tyR2pEeGsyX0l5Y1BiNkJoTnZ0clVTQ3ZVMDZQdUJYeXQ4ZzFrSk52cF9rbmRIQTFscjVPakJqQQ?oc=5",
@@ -5704,7 +5740,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdF8xc3BfcHRaOXBPM052dk9jak81MTZKT25iMm9vejFvYk53ek83a1R4c1ZkUnB4M1JCNk9wQWw3YlBwNll5SlZNOHIzQnA4NUhwa29OT0tyR2pEeGsyX0l5Y1BiNkJoTnZ0clVTQ3ZVMDZQdUJYeXQ4ZzFrSk52cF9rbmRIQTFscjVPakJqQQ?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "ACKO Drive｜Tue, 06 Oct 2026 06:13:01 GMT｜Ampere Nexus EX+ Electric Scooter Launched With 5 kW Motor - ACKO Drive｜https://news.google.com/rss/articles/CBMijwFBVV95cUxPdF8xc3BfcHRaOXBPM052dk9jak81MTZKT25iMm9vejFvYk53ek83a1R4c1ZkUnB4M1JCNk9wQWw3YlBwNll5SlZNOHIzQnA4NUhwa29OT0tyR2pEeGsyX0l5Y1BiNkJoTnZ0clVTQ3ZVMDZQdUJYeXQ4ZzFrSk52cF9rbmRIQTFscjVPakJqQQ?oc=5｜擷取日 2026-10-20"
+      "citation": "ACKO Drive｜Tue, 06 Oct 2026 06:13:01 GMT｜Ampere Nexus EX+ Electric Scooter Launched With 5 kW Motor - ACKO Drive｜https://news.google.com/rss/articles/CBMijwFBVV95cUxPdF8xc3BfcHRaOXBPM052dk9jak81MTZKT25iMm9vejFvYk53ek83a1R4c1ZkUnB4M1JCNk9wQWw3YlBwNll5SlZNOHIzQnA4NUhwa29OT0tyR2pEeGsyX0l5Y1BiNkJoTnZ0clVTQ3ZVMDZQdUJYeXQ4ZzFrSk52cF9rbmRIQTFscjVPakJqQQ?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmF4SUZqajU4M25kWHZsNWVZbEVNN3FqN0pPQ3JDZjZRNS1lOWxCcGl3RUJYT1ZZdC1sR2hKeDRiY21mem5lYXhGVklkUlZ4LW1uZTI1M2hZd2lIZGJWYzBsVFFRZ3lTZTFRZ2g1QWZiZElNaU5pd3RQeG16ZTJILTVzcXl1Mk54RUIxWmxPNGs?oc=5",
@@ -5794,7 +5830,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWF3R3JiVXRaR3FRZHVTdURiOXJfcFZvbTFud1pOcUJNUUNIeV9KalVyLS04ZHpBMzV5Q2JYOWNpOXhWMGp4M3p5QjdaUEJoRTlPU1RHM0EtVEEzb2FIRnVGbUpJNnJmVzlCalZZTE4xSFJ0V1dGblhfRHRvTEF5NnlodmVBb2NP?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "BikeAdvice｜Mon, 05 Oct 2026 07:00:00 GMT｜New Ampere Nexus EX+ Launch Price Rs 1.30 Lakh, 136 Km Range - BikeAdvice｜https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWF3R3JiVXRaR3FRZHVTdURiOXJfcFZvbTFud1pOcUJNUUNIeV9KalVyLS04ZHpBMzV5Q2JYOWNpOXhWMGp4M3p5QjdaUEJoRTlPU1RHM0EtVEEzb2FIRnVGbUpJNnJmVzlCalZZTE4xSFJ0V1dGblhfRHRvTEF5NnlodmVBb2NP?oc=5｜擷取日 2026-10-20"
+      "citation": "BikeAdvice｜Mon, 05 Oct 2026 07:00:00 GMT｜New Ampere Nexus EX+ Launch Price Rs 1.30 Lakh, 136 Km Range - BikeAdvice｜https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWF3R3JiVXRaR3FRZHVTdURiOXJfcFZvbTFud1pOcUJNUUNIeV9KalVyLS04ZHpBMzV5Q2JYOWNpOXhWMGp4M3p5QjdaUEJoRTlPU1RHM0EtVEEzb2FIRnVGbUpJNnJmVzlCalZZTE4xSFJ0V1dGblhfRHRvTEF5NnlodmVBb2NP?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMi7gJBVV95cUxOYWlWZnZJUDVsZHJVUVVrSW9vNi1XdnlMdTdfLTBPWnpXQVA5eU1NWFU4NXdwbXJjT0I4ckh3a3lwRDBMc0txVTUwdnVYdDFaRzVNelhTeDVBaTZWSjk2akpNXzZ1S0RDYWpURXI1UWNxcjlXT2lXM3JyU2QweEJsMVBvdkpDSlBybHl6Vk8wR3d3anFOZ1BKUE5Db3ZFN2tmRmNVTDMxaFhmNGNwdllvUG45UjVEWHQ2aEhmV0tTcW5hcUtvY0JObUhRMi1PNE51RmJRRVFBTFV5Nld6Tk4ta195NTQxSE9qSTVNdmFWcDdoamtSM1p6dFNpT1MzYzlVbUdlQkZGTzRBRG5Ddy1IRVlGd2h0SkxtYk5EeFAzOExjcUJzS1B3aHphM2dQTlROVWNCTVJSS0wyYk1LczdZYjF2dUNCWXNJZWJRUUxrcmNqRXVNaDBNUjdyWFRhNFNTTFlqNEdlX2tlcWdjVFE?oc=5",
@@ -5938,7 +5974,7 @@
       "articleUrl": "https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2023/09/ride1up-prodigy-v2-header.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Fri, 02 Oct 2026 11:16:00 +0000｜Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295｜https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Fri, 02 Oct 2026 11:16:00 +0000｜Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295｜https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://electrek.co/2026/10/03/i-took-the-budget-priced-ride1up-roadster-v3-e-bike-offroading-heres-what-happened-next/",
@@ -5956,7 +5992,7 @@
       "articleUrl": "https://electrek.co/2026/10/03/i-took-the-budget-priced-ride1up-roadster-v3-e-bike-offroading-heres-what-happened-next/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/ride1up-roadster-v3-offroad-e-bike-header-1.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Sat, 03 Oct 2026 13:26:52 +0000｜I tried taking the budget-priced Ride1Up Roadster V3 e-bike off-roading. Here’s what happened next｜https://electrek.co/2026/10/03/i-took-the-budget-priced-ride1up-roadster-v3-e-bike-offroading-heres-what-happened-next/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Sat, 03 Oct 2026 13:26:52 +0000｜I tried taking the budget-priced Ride1Up Roadster V3 e-bike off-roading. Here’s what happened next｜https://electrek.co/2026/10/03/i-took-the-budget-priced-ride1up-roadster-v3-e-bike-offroading-heres-what-happened-next/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMizwFBVV95cUxQNzNxZ3ptZU5QSDVKNEtZVzFSNGdId1VPNDZTd1A1U0lBUzZiUXg5R1V3OVBlRlV3ZmF0ZFRwOWtyREk2Rkk0cG1EV0lDRXFaampSdjFlbjlIVzlidmhKdmtjSlBvMVBkN3RkUlVaY2x3bHdhdFpjXy1NSklhSDhGXzlIc1haMV9IRzg5OWlFdi1oZDFPa1VmVXlucmdLalBnUjNkVFJuUHViUlVkNFR0eVVKQjhleEs5SWx0V3FYcFV5bWNsU2RxY1J4QS0yaEk?oc=5",
@@ -6046,7 +6082,7 @@
       "articleUrl": "https://electrek.co/2026/10/01/gazelle-just-made-its-premium-electric-bikes-a-lot-more-affordable/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/10/gazelle-header-e-bike-1.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Thu, 01 Oct 2026 12:38:11 +0000｜Gazelle just made its premium electric bikes a lot more affordable｜https://electrek.co/2026/10/01/gazelle-just-made-its-premium-electric-bikes-a-lot-more-affordable/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Thu, 01 Oct 2026 12:38:11 +0000｜Gazelle just made its premium electric bikes a lot more affordable｜https://electrek.co/2026/10/01/gazelle-just-made-its-premium-electric-bikes-a-lot-more-affordable/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0pFRVcxZW5fSGlrZjVNVzBmNE1mc2ZibnFnZlYzZERjTjF3LWh2SnJrLUFZQmhkTHFqdUdwaTZuRG9qZUFUSUVSUlR5VjZlc1Nxc2Z4RWhvNFRjbnhFQ05KRTJ6SllQU2xwWFlEVnpSQkMzcWx4bHIzQXNmTlZhWWx3dFZKbHZ0YmZzV1VoU3B1SzhvRnRuUHMycGhqWVcxSGxtdDR6ZE1TcC1Ed1FSWGlmYnhMQkxmX2lLeEVxeVZJTUI1RWotMnoyNDBvVmFtWUt5TjUxaF9HR3JhQURCQnNGNkdLRE5EWkl6WQ?oc=5",
@@ -6064,7 +6100,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0pFRVcxZW5fSGlrZjVNVzBmNE1mc2ZibnFnZlYzZERjTjF3LWh2SnJrLUFZQmhkTHFqdUdwaTZuRG9qZUFUSUVSUlR5VjZlc1Nxc2Z4RWhvNFRjbnhFQ05KRTJ6SllQU2xwWFlEVnpSQkMzcWx4bHIzQXNmTlZhWWx3dFZKbHZ0YmZzV1VoU3B1SzhvRnRuUHMycGhqWVcxSGxtdDR6ZE1TcC1Ed1FSWGlmYnhMQkxmX2lLeEVxeVZJTUI1RWotMnoyNDBvVmFtWUt5TjUxaF9HR3JhQURCQnNGNkdLRE5EWkl6WQ?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "SMN News｜Wed, 30 Sep 2026 07:00:00 GMT｜MP York presses Ministers on battery waste, electric scooter rules and school repair bills. - SMN News｜https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0pFRVcxZW5fSGlrZjVNVzBmNE1mc2ZibnFnZlYzZERjTjF3LWh2SnJrLUFZQmhkTHFqdUdwaTZuRG9qZUFUSUVSUlR5VjZlc1Nxc2Z4RWhvNFRjbnhFQ05KRTJ6SllQU2xwWFlEVnpSQkMzcWx4bHIzQXNmTlZhWWx3dFZKbHZ0YmZzV1VoU3B1SzhvRnRuUHMycGhqWVcxSGxtdDR6ZE1TcC1Ed1FSWGlmYnhMQkxmX2lLeEVxeVZJTUI1RWotMnoyNDBvVmFtWUt5TjUxaF9HR3JhQURCQnNGNkdLRE5EWkl6WQ?oc=5｜擷取日 2026-10-20"
+      "citation": "SMN News｜Wed, 30 Sep 2026 07:00:00 GMT｜MP York presses Ministers on battery waste, electric scooter rules and school repair bills. - SMN News｜https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd0pFRVcxZW5fSGlrZjVNVzBmNE1mc2ZibnFnZlYzZERjTjF3LWh2SnJrLUFZQmhkTHFqdUdwaTZuRG9qZUFUSUVSUlR5VjZlc1Nxc2Z4RWhvNFRjbnhFQ05KRTJ6SllQU2xwWFlEVnpSQkMzcWx4bHIzQXNmTlZhWWx3dFZKbHZ0YmZzV1VoU3B1SzhvRnRuUHMycGhqWVcxSGxtdDR6ZE1TcC1Ed1FSWGlmYnhMQkxmX2lLeEVxeVZJTUI1RWotMnoyNDBvVmFtWUt5TjUxaF9HR3JhQURCQnNGNkdLRE5EWkl6WQ?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmd6VkhzRjNCM0p3bVlfdXBVU3hwUlRyWVNieEZ6RVdUVjB0VHNNbWVqTTdNVUtIM21PLV8xdmIyaUI2NjJxOE1mbjlCVklDa3JiSHRHQ3BfZXFEQkZSOV93TXctVG55WTJqcmdfNGZXMXJXUjVPR1BucFBSTWNBTi1GOURHUXhKMnJRTTc1QUYwTUdNRWdV?oc=5",
@@ -6082,7 +6118,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmd6VkhzRjNCM0p3bVlfdXBVU3hwUlRyWVNieEZ6RVdUVjB0VHNNbWVqTTdNVUtIM21PLV8xdmIyaUI2NjJxOE1mbjlCVklDa3JiSHRHQ3BfZXFEQkZSOV93TXctVG55WTJqcmdfNGZXMXJXUjVPR1BucFBSTWNBTi1GOURHUXhKMnJRTTc1QUYwTUdNRWdV?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Machine Maker｜Thu, 01 Oct 2026 07:00:00 GMT｜e-SPRINTO to Launch High-Speed Electric Scooter in October - Machine Maker｜https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmd6VkhzRjNCM0p3bVlfdXBVU3hwUlRyWVNieEZ6RVdUVjB0VHNNbWVqTTdNVUtIM21PLV8xdmIyaUI2NjJxOE1mbjlCVklDa3JiSHRHQ3BfZXFEQkZSOV93TXctVG55WTJqcmdfNGZXMXJXUjVPR1BucFBSTWNBTi1GOURHUXhKMnJRTTc1QUYwTUdNRWdV?oc=5｜擷取日 2026-10-20"
+      "citation": "Machine Maker｜Thu, 01 Oct 2026 07:00:00 GMT｜e-SPRINTO to Launch High-Speed Electric Scooter in October - Machine Maker｜https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmd6VkhzRjNCM0p3bVlfdXBVU3hwUlRyWVNieEZ6RVdUVjB0VHNNbWVqTTdNVUtIM21PLV8xdmIyaUI2NjJxOE1mbjlCVklDa3JiSHRHQ3BfZXFEQkZSOV93TXctVG55WTJqcmdfNGZXMXJXUjVPR1BucFBSTWNBTi1GOURHUXhKMnJRTTc1QUYwTUdNRWdV?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://electrek.co/2026/09/29/we-dont-need-more-e-bike-laws-this-11-year-olds-ticket-shows-why/",
@@ -6100,7 +6136,7 @@
       "articleUrl": "https://electrek.co/2026/09/29/we-dont-need-more-e-bike-laws-this-11-year-olds-ticket-shows-why/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2023/07/sur-ron-header-police.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Tue, 29 Sep 2026 19:16:24 +0000｜We don’t need more e-bike laws. This 11-year-old’s ticket shows why｜https://electrek.co/2026/09/29/we-dont-need-more-e-bike-laws-this-11-year-olds-ticket-shows-why/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Tue, 29 Sep 2026 19:16:24 +0000｜We don’t need more e-bike laws. This 11-year-old’s ticket shows why｜https://electrek.co/2026/09/29/we-dont-need-more-e-bike-laws-this-11-year-olds-ticket-shows-why/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMia0FVX3lxTE55a0pYOVlSRzZjbzJQbmNqTjMwSE5qSmtLM3pkUC0zRV9GelE3dzhUdVg2akdKdEIxdEFwYnZZYlN1ZmZ6dUlSNWVpeVZQNFkwa2ZzSDVDLTZhaW0yelUyR3ZTRlhQU2VmWlVJ?oc=5",
@@ -6154,7 +6190,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMFJpdmRsX29UU1BLYURlNC1JSWYwZHRxYk80M1Z3NVcyWExFNlpyQ09VeGVVbFpmOERCTHBpWncydVJFcFgyY0E5dTdmOFBLVnkzeFBoVFAyaWg3S0h5d1BIYXhNM0Z5amRzdkxNR0c0eGhXZGJBYlpiRmxqNU1JM1dGN1pCMUFwbGljQjM0SkpfYjFwbWowMWVNbVY4UHo3R2MyaDRnWmhsUHVBa2NvT1o1MDM0TWI5UXlBaDIycTNlcklRVVZCSzk5SGxHRU9meVMtaDNyQm8yYVJ6SGxwc1BOcFZQZ3QybHU5cEhZVHdpZWZ0a2930gH8AUFVX3lxTE8wUmRzQm1fQ1VyVmlNaUdXcEVjTlZIdWJMVGJGV2UxQTZtcWIzTUlqTTk0QXV2cG5CQWdaRXRlZXVNVDdNempwYmRtMHV3enVrcktwVEZWdjBiNDEtZHB2NXRJNkdQOUxqLTQ2c0FJbGQzbk81VTM5QUQwaUVLWEd0bEtHOWExUmI1NTN3T2ZiSjk4am5oM0s3dGhBTjNMNWRHS0tBZWxqbTVwMmNPRnNNWG9DQU1YTUl3SkJGTFZEeFktRW9TSjN4clZGRXNsNzlTUGIyaktjQ01odVZjdWJlOFFCNnhHM3ItMjNIXzVvMkxiM1ctdWtvRkVnag?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "ET Auto｜Mon, 19 Oct 2026 06:31:22 GMT｜Piaggio to enter India’s mass-market electric scooter segment with new platform in 2027 - ET Auto｜https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMFJpdmRsX29UU1BLYURlNC1JSWYwZHRxYk80M1Z3NVcyWExFNlpyQ09VeGVVbFpmOERCTHBpWncydVJFcFgyY0E5dTdmOFBLVnkzeFBoVFAyaWg3S0h5d1BIYXhNM0Z5amRzdkxNR0c0eGhXZGJBYlpiRmxqNU1JM1dGN1pCMUFwbGljQjM0SkpfYjFwbWowMWVNbVY4UHo3R2MyaDRnWmhsUHVBa2NvT1o1MDM0TWI5UXlBaDIycTNlcklRVVZCSzk5SGxHRU9meVMtaDNyQm8yYVJ6SGxwc1BOcFZQZ3QybHU5cEhZVHdpZWZ0a2930gH8AUFVX3lxTE8wUmRzQm1fQ1VyVmlNaUdXcEVjTlZIdWJMVGJGV2UxQTZtcWIzTUlqTTk0QXV2cG5CQWdaRXRlZXVNVDdNempwYmRtMHV3enVrcktwVEZWdjBiNDEtZHB2NXRJNkdQOUxqLTQ2c0FJbGQzbk81VTM5QUQwaUVLWEd0bEtHOWExUmI1NTN3T2ZiSjk4am5oM0s3dGhBTjNMNWRHS0tBZWxqbTVwMmNPRnNNWG9DQU1YTUl3SkJGTFZEeFktRW9TSjN4clZGRXNsNzlTUGIyaktjQ01odVZjdWJlOFFCNnhHM3ItMjNIXzVvMkxiM1ctdWtvRkVnag?oc=5｜擷取日 2026-10-20"
+      "citation": "ET Auto｜Mon, 19 Oct 2026 06:31:22 GMT｜Piaggio to enter India’s mass-market electric scooter segment with new platform in 2027 - ET Auto｜https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMFJpdmRsX29UU1BLYURlNC1JSWYwZHRxYk80M1Z3NVcyWExFNlpyQ09VeGVVbFpmOERCTHBpWncydVJFcFgyY0E5dTdmOFBLVnkzeFBoVFAyaWg3S0h5d1BIYXhNM0Z5amRzdkxNR0c0eGhXZGJBYlpiRmxqNU1JM1dGN1pCMUFwbGljQjM0SkpfYjFwbWowMWVNbVY4UHo3R2MyaDRnWmhsUHVBa2NvT1o1MDM0TWI5UXlBaDIycTNlcklRVVZCSzk5SGxHRU9meVMtaDNyQm8yYVJ6SGxwc1BOcFZQZ3QybHU5cEhZVHdpZWZ0a2930gH8AUFVX3lxTE8wUmRzQm1fQ1VyVmlNaUdXcEVjTlZIdWJMVGJGV2UxQTZtcWIzTUlqTTk0QXV2cG5CQWdaRXRlZXVNVDdNempwYmRtMHV3enVrcktwVEZWdjBiNDEtZHB2NXRJNkdQOUxqLTQ2c0FJbGQzbk81VTM5QUQwaUVLWEd0bEtHOWExUmI1NTN3T2ZiSjk4am5oM0s3dGhBTjNMNWRHS0tBZWxqbTVwMmNPRnNNWG9DQU1YTUl3SkJGTFZEeFktRW9TSjN4clZGRXNsNzlTUGIyaktjQ01odVZjdWJlOFFCNnhHM3ItMjNIXzVvMkxiM1ctdWtvRkVnag?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDVlUktEN3pFckxFYk5zTVptcm0wWF9rOHZtMEFIVlRxbUJ5NlNwRjNWT0d5VmZwUDlTLWFGQ0xoZDdaUU5lYjhCbkhqZGZaVkk0ZWpKaFRySDFwTjdpVXE3VVpLWEhLZnRVbW5sbU1wc1gxOTJuMl9qVVN5d2pCQjk4WVNacUQxMF9qWkNESWFFbHUxN2M1N0VUUEx4QjBFMlE?oc=5",
@@ -6172,7 +6208,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDVlUktEN3pFckxFYk5zTVptcm0wWF9rOHZtMEFIVlRxbUJ5NlNwRjNWT0d5VmZwUDlTLWFGQ0xoZDdaUU5lYjhCbkhqZGZaVkk0ZWpKaFRySDFwTjdpVXE3VVpLWEhLZnRVbW5sbU1wc1gxOTJuMl9qVVN5d2pCQjk4WVNacUQxMF9qWkNESWFFbHUxN2M1N0VUUEx4QjBFMlE?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Manufacturing Today India｜Wed, 30 Sep 2026 11:04:00 GMT｜e-SPRINTO to launch 130 km-range electric scooter in October - Manufacturing Today India｜https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDVlUktEN3pFckxFYk5zTVptcm0wWF9rOHZtMEFIVlRxbUJ5NlNwRjNWT0d5VmZwUDlTLWFGQ0xoZDdaUU5lYjhCbkhqZGZaVkk0ZWpKaFRySDFwTjdpVXE3VVpLWEhLZnRVbW5sbU1wc1gxOTJuMl9qVVN5d2pCQjk4WVNacUQxMF9qWkNESWFFbHUxN2M1N0VUUEx4QjBFMlE?oc=5｜擷取日 2026-10-20"
+      "citation": "Manufacturing Today India｜Wed, 30 Sep 2026 11:04:00 GMT｜e-SPRINTO to launch 130 km-range electric scooter in October - Manufacturing Today India｜https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDVlUktEN3pFckxFYk5zTVptcm0wWF9rOHZtMEFIVlRxbUJ5NlNwRjNWT0d5VmZwUDlTLWFGQ0xoZDdaUU5lYjhCbkhqZGZaVkk0ZWpKaFRySDFwTjdpVXE3VVpLWEhLZnRVbW5sbU1wc1gxOTJuMl9qVVN5d2pCQjk4WVNacUQxMF9qWkNESWFFbHUxN2M1N0VUUEx4QjBFMlE?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0JZazdaTURkUTdiVy0xNnM4ZkFpT2E4RzlTYmV4NFFQMGhNdjlLMVExTWgtemUteXdkMjZGRzBWVnhpdnRuOG5fNDVrdkRtMlJCTmdTRWxtcEFRYm5TRkVNYjZVaUdpUWtvMmttZFE0SHktREZUT3JnVkx2XzhXMVhWY1EzcnRhRGZRY0RWMjZWcF9l?oc=5",
@@ -6190,43 +6226,7 @@
       "articleUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0JZazdaTURkUTdiVy0xNnM4ZkFpT2E4RzlTYmV4NFFQMGhNdjlLMVExTWgtemUteXdkMjZGRzBWVnhpdnRuOG5fNDVrdkRtMlJCTmdTRWxtcEFRYm5TRkVNYjZVaUdpUWtvMmttZFE0SHktREZUT3JnVkx2XzhXMVhWY1EzcnRhRGZRY0RWMjZWcF9l?oc=5",
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
-      "citation": "Motorcycles Data｜Mon, 19 Oct 2026 06:08:37 GMT｜Indian Electric Scooter & Motorcycles Market 2026 - Motorcycles Data｜https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0JZazdaTURkUTdiVy0xNnM4ZkFpT2E4RzlTYmV4NFFQMGhNdjlLMVExTWgtemUteXdkMjZGRzBWVnhpdnRuOG5fNDVrdkRtMlJCTmdTRWxtcEFRYm5TRkVNYjZVaUdpUWtvMmttZFE0SHktREZUT3JnVkx2XzhXMVhWY1EzcnRhRGZRY0RWMjZWcF9l?oc=5｜擷取日 2026-10-20"
-    },
-    {
-      "key": "url:https://news.google.com/rss/articles/CBMigwFBVV95cUxPbnBoR19sZ2kzYmxoWXNESzUwdzFpVkZfU3NsM0hFanVEZ3VXWVVtVktDcFFlYm0zVXZlZERuUEZqSmRJcjBqbHBMTUVCNFI4Z3RiWWdYUG93OGFLT3Y1SVhjbDBxZWlvNTdxOC1SLVpHQXkyQkx0bWJ4SnVxN0VYU0JkQQ?oc=5",
-      "firstSeenAt": "2026-10-04",
-      "publishedAt": "Sat, 03 Oct 2026 16:45:22 GMT",
-      "category": "法規更新",
-      "importance": "high",
-      "region": "全球",
-      "sourceName": "WRAL",
-      "sourceFeed": "Google News：法規與補助",
-      "title": "Apex seminar educates and calls for e-bike regulation - WRAL",
-      "titleZh": "",
-      "briefZh": "",
-      "summary": "Apex seminar educates and calls for e-bike regulation &nbsp;&nbsp; WRAL",
-      "articleUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbnBoR19sZ2kzYmxoWXNESzUwdzFpVkZfU3NsM0hFanVEZ3VXWVVtVktDcFFlYm0zVXZlZERuUEZqSmRJcjBqbHBMTUVCNFI4Z3RiWWdYUG93OGFLT3Y1SVhjbDBxZWlvNTdxOC1SLVpHQXkyQkx0bWJ4SnVxN0VYU0JkQQ?oc=5",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageCredit": "原始報導縮圖",
-      "citation": "WRAL｜Sat, 03 Oct 2026 16:45:22 GMT｜Apex seminar educates and calls for e-bike regulation - WRAL｜https://news.google.com/rss/articles/CBMigwFBVV95cUxPbnBoR19sZ2kzYmxoWXNESzUwdzFpVkZfU3NsM0hFanVEZ3VXWVVtVktDcFFlYm0zVXZlZERuUEZqSmRJcjBqbHBMTUVCNFI4Z3RiWWdYUG93OGFLT3Y1SVhjbDBxZWlvNTdxOC1SLVpHQXkyQkx0bWJ4SnVxN0VYU0JkQQ?oc=5｜擷取日 2026-10-09"
-    },
-    {
-      "key": "url:https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUlzNy01UW54YjhfTHF4Y2dFRkNrUzFULXVmT2NGSVl4YUIzclhNU3NOc3oyVGFsZmQ3a1hYazExQVFIV18yV09EWHlqTFBEaHFwZ2ZNMU9FbEQwWndJejZkVXIybV9HQzBWbWxWeGZoR1RralJPRWJHZ2xOamc2Mkc3SlR3M2xzV3dvczNQdzlJRTN0N0t4N3A0NjB4RE4wd2FrWW5vbHJlb3pybWRRTHln?oc=5",
-      "firstSeenAt": "2026-10-04",
-      "publishedAt": "Sat, 03 Oct 2026 10:02:19 GMT",
-      "category": "法規更新",
-      "importance": "high",
-      "region": "全球",
-      "sourceName": "WRNJ Radio",
-      "sourceFeed": "Google News：法規與補助",
-      "title": "State Sen. Jon Bramnick calls for statewide e-bike task force to assist NJ law enforcement - WRNJ Radio",
-      "titleZh": "",
-      "briefZh": "",
-      "summary": "State Sen. Jon Bramnick calls for statewide e-bike task force to assist NJ law enforcement &nbsp;&nbsp; WRNJ Radio",
-      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUlzNy01UW54YjhfTHF4Y2dFRkNrUzFULXVmT2NGSVl4YUIzclhNU3NOc3oyVGFsZmQ3a1hYazExQVFIV18yV09EWHlqTFBEaHFwZ2ZNMU9FbEQwWndJejZkVXIybV9HQzBWbWxWeGZoR1RralJPRWJHZ2xOamc2Mkc3SlR3M2xzV3dvczNQdzlJRTN0N0t4N3A0NjB4RE4wd2FrWW5vbHJlb3pybWRRTHln?oc=5",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageCredit": "原始報導縮圖",
-      "citation": "WRNJ Radio｜Sat, 03 Oct 2026 10:02:19 GMT｜State Sen. Jon Bramnick calls for statewide e-bike task force to assist NJ law enforcement - WRNJ Radio｜https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUlzNy01UW54YjhfTHF4Y2dFRkNrUzFULXVmT2NGSVl4YUIzclhNU3NOc3oyVGFsZmQ3a1hYazExQVFIV18yV09EWHlqTFBEaHFwZ2ZNMU9FbEQwWndJejZkVXIybV9HQzBWbWxWeGZoR1RralJPRWJHZ2xOamc2Mkc3SlR3M2xzV3dvczNQdzlJRTN0N0t4N3A0NjB4RE4wd2FrWW5vbHJlb3pybWRRTHln?oc=5｜擷取日 2026-10-08"
+      "citation": "Motorcycles Data｜Mon, 19 Oct 2026 06:08:37 GMT｜Indian Electric Scooter & Motorcycles Market 2026 - Motorcycles Data｜https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0JZazdaTURkUTdiVy0xNnM4ZkFpT2E4RzlTYmV4NFFQMGhNdjlLMVExTWgtemUteXdkMjZGRzBWVnhpdnRuOG5fNDVrdkRtMlJCTmdTRWxtcEFRYm5TRkVNYjZVaUdpUWtvMmttZFE0SHktREZUT3JnVkx2XzhXMVhWY1EzcnRhRGZRY0RWMjZWcF9l?oc=5｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNG1PdHpkeUtOa0FfbkNDSzFGYVQ2cTJQa0Q2enpUcUhjc2VKR1BaYVl5UktpZmZCRThRTFI3UlhHaktSZlItN1FnQzZkdjBBS2xKWXZwWkYzcFpmUF9xa2QwTmJid3FrNTZXdkZadmhHMDJwTnV2VGZmNUJnMHdiNkVXVnJfSnUwQzhob1B1V1RiMjc2Z2RtUU1rT0Y1VmxPODNQNk4wRTZOdk5Xc0RKUW5ZeHJfZWNpVnBVQ3dWeWdwUmVMOUZCU0RfdXIxV2V5aWcxTmJkbzRMZw?oc=5",
@@ -6245,42 +6245,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
       "citation": "Deccan Chronicle｜Mon, 28 Sep 2026 09:41:48 GMT｜Jagtial: Electric Scooter Catches Fire After Battery Explosion While Charging - Deccan Chronicle｜https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNG1PdHpkeUtOa0FfbkNDSzFGYVQ2cTJQa0Q2enpUcUhjc2VKR1BaYVl5UktpZmZCRThRTFI3UlhHaktSZlItN1FnQzZkdjBBS2xKWXZwWkYzcFpmUF9xa2QwTmJid3FrNTZXdkZadmhHMDJwTnV2VGZmNUJnMHdiNkVXVnJfSnUwQzhob1B1V1RiMjc2Z2RtUU1rT0Y1VmxPODNQNk4wRTZOdk5Xc0RKUW5ZeHJfZWNpVnBVQ3dWeWdwUmVMOUZCU0RfdXIxV2V5aWcxTmJkbzRMZw?oc=5｜擷取日 2026-09-29"
-    },
-    {
-      "key": "url:https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUExLVpWc1RQTHkwNWVJajFGWFVWLVBHUTVESnZSRFFSVVpfZEt4bkd3VkhkWkF1RlhrOXczSDluUC1ldGhPVS15dnR3VEZyTGJKX2hYNjNzM09fRXBHZWFlbk5yWnI5WGlScmFpMUhMaXV5V1NiNjVid1FuZmlFVTdkRm5UUEJ0SDFsWktXNlhLOWFJM1ZWbUNWcUFQYmtFanfSAacBQVVfeXFMUEk4bWpGRFQyNlJabU0tQWR3MHNsR0FoSm1pWnJ4eXFyWS00b0pLM0JYYmhCTkNJNHBSVk0wWFhlQWpTcDdTb1FYdXp5MUJDU0NzVnpHd0hJUGg0eEM3c0RkcEdCRDRyR0JWU1ZVMXdsdWszcHk5bDZHbWIxeVFNMkZOaTBBS3NubFFzUVpTa1NveDVMYXY0eDNtcTFWRjVJbXdoQ1RFa2M?oc=5",
-      "firstSeenAt": "2026-10-04",
-      "publishedAt": "Tue, 29 Sep 2026 09:39:33 GMT",
-      "category": "品牌新品",
-      "importance": "normal",
-      "region": "全球",
-      "sourceName": "BikeJunction",
-      "sourceFeed": "Google News：新車與新品",
-      "title": "Ultraviolette Shockwave to Launch in Q1 2027 With New 100V Architecture - BikeJunction",
-      "titleZh": "",
-      "briefZh": "",
-      "summary": "Ultraviolette Shockwave to Launch in Q1 2027 With New 100V Architecture &nbsp;&nbsp; BikeJunction",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUExLVpWc1RQTHkwNWVJajFGWFVWLVBHUTVESnZSRFFSVVpfZEt4bkd3VkhkWkF1RlhrOXczSDluUC1ldGhPVS15dnR3VEZyTGJKX2hYNjNzM09fRXBHZWFlbk5yWnI5WGlScmFpMUhMaXV5V1NiNjVid1FuZmlFVTdkRm5UUEJ0SDFsWktXNlhLOWFJM1ZWbUNWcUFQYmtFanfSAacBQVVfeXFMUEk4bWpGRFQyNlJabU0tQWR3MHNsR0FoSm1pWnJ4eXFyWS00b0pLM0JYYmhCTkNJNHBSVk0wWFhlQWpTcDdTb1FYdXp5MUJDU0NzVnpHd0hJUGg0eEM3c0RkcEdCRDRyR0JWU1ZVMXdsdWszcHk5bDZHbWIxeVFNMkZOaTBBS3NubFFzUVpTa1NveDVMYXY0eDNtcTFWRjVJbXdoQ1RFa2M?oc=5",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageCredit": "原始報導縮圖",
-      "citation": "BikeJunction｜Tue, 29 Sep 2026 09:39:33 GMT｜Ultraviolette Shockwave to Launch in Q1 2027 With New 100V Architecture - BikeJunction｜https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUExLVpWc1RQTHkwNWVJajFGWFVWLVBHUTVESnZSRFFSVVpfZEt4bkd3VkhkWkF1RlhrOXczSDluUC1ldGhPVS15dnR3VEZyTGJKX2hYNjNzM09fRXBHZWFlbk5yWnI5WGlScmFpMUhMaXV5V1NiNjVid1FuZmlFVTdkRm5UUEJ0SDFsWktXNlhLOWFJM1ZWbUNWcUFQYmtFanfSAacBQVVfeXFMUEk4bWpGRFQyNlJabU0tQWR3MHNsR0FoSm1pWnJ4eXFyWS00b0pLM0JYYmhCTkNJNHBSVk0wWFhlQWpTcDdTb1FYdXp5MUJDU0NzVnpHd0hJUGg0eEM3c0RkcEdCRDRyR0JWU1ZVMXdsdWszcHk5bDZHbWIxeVFNMkZOaTBBS3NubFFzUVpTa1NveDVMYXY0eDNtcTFWRjVJbXdoQ1RFa2M?oc=5｜擷取日 2026-10-05"
-    },
-    {
-      "key": "url:https://news.google.com/rss/articles/CBMidkFVX3lxTE50QVRuY0dYeXZqVFZJYkJLZjREbzRWbzZtX0lkZkgtS3BUdVhJd0d6QWxqaHplc2lmY1RaZThMbmNkb21IWkFWTHVDQmVTNjhlRVNMSnUtYUVuZ0JJWnRQUjJ6WFZyb2lCei15SmptLXhnUVVGZHc?oc=5",
-      "firstSeenAt": "2026-10-03",
-      "publishedAt": "Fri, 02 Oct 2026 23:31:46 GMT",
-      "category": "法規更新",
-      "importance": "high",
-      "region": "全球",
-      "sourceName": "RTE.ie",
-      "sourceFeed": "Google News：法規與補助",
-      "title": "Under-18 e-scooter ban welcome but Govt can do more - GRA - RTE.ie",
-      "titleZh": "",
-      "briefZh": "",
-      "summary": "Under-18 e-scooter ban welcome but Govt can do more - GRA &nbsp;&nbsp; RTE.ie",
-      "articleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50QVRuY0dYeXZqVFZJYkJLZjREbzRWbzZtX0lkZkgtS3BUdVhJd0d6QWxqaHplc2lmY1RaZThMbmNkb21IWkFWTHVDQmVTNjhlRVNMSnUtYUVuZ0JJWnRQUjJ6WFZyb2lCei15SmptLXhnUVVGZHc?oc=5",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageCredit": "原始報導縮圖",
-      "citation": "RTE.ie｜Fri, 02 Oct 2026 23:31:46 GMT｜Under-18 e-scooter ban welcome but Govt can do more - GRA - RTE.ie｜https://news.google.com/rss/articles/CBMidkFVX3lxTE50QVRuY0dYeXZqVFZJYkJLZjREbzRWbzZtX0lkZkgtS3BUdVhJd0d6QWxqaHplc2lmY1RaZThMbmNkb21IWkFWTHVDQmVTNjhlRVNMSnUtYUVuZ0JJWnRQUjJ6WFZyb2lCei15SmptLXhnUVVGZHc?oc=5｜擷取日 2026-10-08"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDJpbVlNaWhHX0xNZFc5TEtfeTd3QVcydGpiOGVpQW90R28wT2gyQkZmSEttMVBmTEpjUVB3VjBCOFFTMnRuM05IazF4cXRUYzJDRnVvUExnVE5OM0R2UjEzU3BBRGQ4RjZyVUJ4ZVJpdnJaT1B1NkcwV2JxUHJ3UjBMcVcwNDgteFI2MzJhNk5VWHVYZDY2UGpKYW9ZTVY0aHYyeXhUOHVJQUdhX0NyQmFBUXctNHRnWDJwWkJtc1IzQlo5NUtV?oc=5",
@@ -6568,7 +6532,7 @@
       "articleUrl": "https://electrek.co/2026/08/26/bafangs-new-electric-bike-motors-produce-8x-your-own-pedaling-power/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/08/bafang-motors-head-1.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Wed, 26 Aug 2026 15:12:04 +0000｜Bafang’s new electric bike motors produce 8x your own pedaling power｜https://electrek.co/2026/08/26/bafangs-new-electric-bike-motors-produce-8x-your-own-pedaling-power/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Wed, 26 Aug 2026 15:12:04 +0000｜Bafang’s new electric bike motors produce 8x your own pedaling power｜https://electrek.co/2026/08/26/bafangs-new-electric-bike-motors-produce-8x-your-own-pedaling-power/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMinwJBVV95cUxOVEsxbk42VWhLTkRrSEtRajVmSTNqUlVVaUt1ckhfMjBLMC12TE0ya2txanJKMjk5NTVmbGhEampoWldfc0VTaVlVdTBsQUJVRm5nM1ZIVndTWkxuOTM3UDI0bVAtaFd6emVnZFhCbUlIYVU0RnZHbFBBS2FWQjc4QVhXZ3p6Z0txNUV6eHotMjVYaG5HMzA2aVlXTWx2S2ZYRXJNck1PaTgxMzI1NnlJemx1Y1lCZ2x3cDM0WnoxeTNhWlhkZUZhcG41b0VWWllpVVJTRnQ1SUxDbDktdVBXNWVaaTZ5ODdiZFpFUEx0Yk5JdmNzbm9jb2dXaHpzMGZPY3YzQllwbmNaT2YzaXRXTDFLS21tdjd0ckQ4cHE4dw?oc=5",
@@ -7077,7 +7041,7 @@
       "articleUrl": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/07/aniioki-a9-head-1.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Mon, 03 Aug 2026 13:34:00 +0000｜Aniioki’s latest 6,000W dual-motor e-bike blurs past the line so much it’s basically an electric motorcycle｜https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Mon, 03 Aug 2026 13:34:00 +0000｜Aniioki’s latest 6,000W dual-motor e-bike blurs past the line so much it’s basically an electric motorcycle｜https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMizAFBVV95cUxQcVZiVk84LXlmTDRvQzFTcjJQMnNER1ViZ1NIRnhHY2ZVUGFKYkI2RGtQVmlGU25lY3A5dVFaLUdEZXdxdkprbmdRLXNmMUNIQnFVLXQxQlg3S2VDZ2lGSzdDdjM3QnotR3E3SWFNT0YyVGhXQmtYVkYtbVJEYmpsSnRITTZzeklxR0FYaFBVRS1JS1VtSkxpUUQ5aDl4T29GUkZCemRlMVRSd2swRDhYVFpJb0RHRlZPSkhSSVdwbmhiRlo0VXdmVWtuX2w?oc=5",
@@ -7131,7 +7095,7 @@
       "articleUrl": "https://electrek.co/2026/07/31/hmps-new-3999-electric-scooter-is-the-affordable-street-legal-commuter-the-us-needs/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/07/hmp-lightning-mkii-seated-scooter-header-1.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek electric scooters｜Fri, 31 Jul 2026 15:24:00 +0000｜HMP’s new $3,999 electric scooter is the affordable, street-legal commuter the US needs｜https://electrek.co/2026/07/31/hmps-new-3999-electric-scooter-is-the-affordable-street-legal-commuter-the-us-needs/｜擷取日 2026-10-20"
+      "citation": "Electrek electric scooters｜Fri, 31 Jul 2026 15:24:00 +0000｜HMP’s new $3,999 electric scooter is the affordable, street-legal commuter the US needs｜https://electrek.co/2026/07/31/hmps-new-3999-electric-scooter-is-the-affordable-street-legal-commuter-the-us-needs/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://electrek.co/2026/07/29/huffys-kids-e-bike-makes-a-compelling-case-for-pedal-assisted-riding/",
@@ -7149,7 +7113,79 @@
       "articleUrl": "https://electrek.co/2026/07/29/huffys-kids-e-bike-makes-a-compelling-case-for-pedal-assisted-riding/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/07/huffy-teen-ebike-head.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Wed, 29 Jul 2026 14:45:00 +0000｜Huffy’s kids’ e-bike makes a compelling case for pedal-assisted riding｜https://electrek.co/2026/07/29/huffys-kids-e-bike-makes-a-compelling-case-for-pedal-assisted-riding/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Wed, 29 Jul 2026 14:45:00 +0000｜Huffy’s kids’ e-bike makes a compelling case for pedal-assisted riding｜https://electrek.co/2026/07/29/huffys-kids-e-bike-makes-a-compelling-case-for-pedal-assisted-riding/｜擷取日 2026-10-21"
+    },
+    {
+      "key": "url:https://news.google.com/rss/articles/CBMigwFBVV95cUxPbnBoR19sZ2kzYmxoWXNESzUwdzFpVkZfU3NsM0hFanVEZ3VXWVVtVktDcFFlYm0zVXZlZERuUEZqSmRJcjBqbHBMTUVCNFI4Z3RiWWdYUG93OGFLT3Y1SVhjbDBxZWlvNTdxOC1SLVpHQXkyQkx0bWJ4SnVxN0VYU0JkQQ?oc=5",
+      "firstSeenAt": "2026-10-04",
+      "publishedAt": "Sat, 03 Oct 2026 16:45:22 GMT",
+      "category": "法規更新",
+      "importance": "high",
+      "region": "全球",
+      "sourceName": "WRAL",
+      "sourceFeed": "Google News：法規與補助",
+      "title": "Apex seminar educates and calls for e-bike regulation - WRAL",
+      "titleZh": "",
+      "briefZh": "",
+      "summary": "Apex seminar educates and calls for e-bike regulation &nbsp;&nbsp; WRAL",
+      "articleUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbnBoR19sZ2kzYmxoWXNESzUwdzFpVkZfU3NsM0hFanVEZ3VXWVVtVktDcFFlYm0zVXZlZERuUEZqSmRJcjBqbHBMTUVCNFI4Z3RiWWdYUG93OGFLT3Y1SVhjbDBxZWlvNTdxOC1SLVpHQXkyQkx0bWJ4SnVxN0VYU0JkQQ?oc=5",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageCredit": "原始報導縮圖",
+      "citation": "WRAL｜Sat, 03 Oct 2026 16:45:22 GMT｜Apex seminar educates and calls for e-bike regulation - WRAL｜https://news.google.com/rss/articles/CBMigwFBVV95cUxPbnBoR19sZ2kzYmxoWXNESzUwdzFpVkZfU3NsM0hFanVEZ3VXWVVtVktDcFFlYm0zVXZlZERuUEZqSmRJcjBqbHBMTUVCNFI4Z3RiWWdYUG93OGFLT3Y1SVhjbDBxZWlvNTdxOC1SLVpHQXkyQkx0bWJ4SnVxN0VYU0JkQQ?oc=5｜擷取日 2026-10-09"
+    },
+    {
+      "key": "url:https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUlzNy01UW54YjhfTHF4Y2dFRkNrUzFULXVmT2NGSVl4YUIzclhNU3NOc3oyVGFsZmQ3a1hYazExQVFIV18yV09EWHlqTFBEaHFwZ2ZNMU9FbEQwWndJejZkVXIybV9HQzBWbWxWeGZoR1RralJPRWJHZ2xOamc2Mkc3SlR3M2xzV3dvczNQdzlJRTN0N0t4N3A0NjB4RE4wd2FrWW5vbHJlb3pybWRRTHln?oc=5",
+      "firstSeenAt": "2026-10-04",
+      "publishedAt": "Sat, 03 Oct 2026 10:02:19 GMT",
+      "category": "法規更新",
+      "importance": "high",
+      "region": "全球",
+      "sourceName": "WRNJ Radio",
+      "sourceFeed": "Google News：法規與補助",
+      "title": "State Sen. Jon Bramnick calls for statewide e-bike task force to assist NJ law enforcement - WRNJ Radio",
+      "titleZh": "",
+      "briefZh": "",
+      "summary": "State Sen. Jon Bramnick calls for statewide e-bike task force to assist NJ law enforcement &nbsp;&nbsp; WRNJ Radio",
+      "articleUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUlzNy01UW54YjhfTHF4Y2dFRkNrUzFULXVmT2NGSVl4YUIzclhNU3NOc3oyVGFsZmQ3a1hYazExQVFIV18yV09EWHlqTFBEaHFwZ2ZNMU9FbEQwWndJejZkVXIybV9HQzBWbWxWeGZoR1RralJPRWJHZ2xOamc2Mkc3SlR3M2xzV3dvczNQdzlJRTN0N0t4N3A0NjB4RE4wd2FrWW5vbHJlb3pybWRRTHln?oc=5",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageCredit": "原始報導縮圖",
+      "citation": "WRNJ Radio｜Sat, 03 Oct 2026 10:02:19 GMT｜State Sen. Jon Bramnick calls for statewide e-bike task force to assist NJ law enforcement - WRNJ Radio｜https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUlzNy01UW54YjhfTHF4Y2dFRkNrUzFULXVmT2NGSVl4YUIzclhNU3NOc3oyVGFsZmQ3a1hYazExQVFIV18yV09EWHlqTFBEaHFwZ2ZNMU9FbEQwWndJejZkVXIybV9HQzBWbWxWeGZoR1RralJPRWJHZ2xOamc2Mkc3SlR3M2xzV3dvczNQdzlJRTN0N0t4N3A0NjB4RE4wd2FrWW5vbHJlb3pybWRRTHln?oc=5｜擷取日 2026-10-08"
+    },
+    {
+      "key": "url:https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUExLVpWc1RQTHkwNWVJajFGWFVWLVBHUTVESnZSRFFSVVpfZEt4bkd3VkhkWkF1RlhrOXczSDluUC1ldGhPVS15dnR3VEZyTGJKX2hYNjNzM09fRXBHZWFlbk5yWnI5WGlScmFpMUhMaXV5V1NiNjVid1FuZmlFVTdkRm5UUEJ0SDFsWktXNlhLOWFJM1ZWbUNWcUFQYmtFanfSAacBQVVfeXFMUEk4bWpGRFQyNlJabU0tQWR3MHNsR0FoSm1pWnJ4eXFyWS00b0pLM0JYYmhCTkNJNHBSVk0wWFhlQWpTcDdTb1FYdXp5MUJDU0NzVnpHd0hJUGg0eEM3c0RkcEdCRDRyR0JWU1ZVMXdsdWszcHk5bDZHbWIxeVFNMkZOaTBBS3NubFFzUVpTa1NveDVMYXY0eDNtcTFWRjVJbXdoQ1RFa2M?oc=5",
+      "firstSeenAt": "2026-10-04",
+      "publishedAt": "Tue, 29 Sep 2026 09:39:33 GMT",
+      "category": "品牌新品",
+      "importance": "normal",
+      "region": "全球",
+      "sourceName": "BikeJunction",
+      "sourceFeed": "Google News：新車與新品",
+      "title": "Ultraviolette Shockwave to Launch in Q1 2027 With New 100V Architecture - BikeJunction",
+      "titleZh": "",
+      "briefZh": "",
+      "summary": "Ultraviolette Shockwave to Launch in Q1 2027 With New 100V Architecture &nbsp;&nbsp; BikeJunction",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUExLVpWc1RQTHkwNWVJajFGWFVWLVBHUTVESnZSRFFSVVpfZEt4bkd3VkhkWkF1RlhrOXczSDluUC1ldGhPVS15dnR3VEZyTGJKX2hYNjNzM09fRXBHZWFlbk5yWnI5WGlScmFpMUhMaXV5V1NiNjVid1FuZmlFVTdkRm5UUEJ0SDFsWktXNlhLOWFJM1ZWbUNWcUFQYmtFanfSAacBQVVfeXFMUEk4bWpGRFQyNlJabU0tQWR3MHNsR0FoSm1pWnJ4eXFyWS00b0pLM0JYYmhCTkNJNHBSVk0wWFhlQWpTcDdTb1FYdXp5MUJDU0NzVnpHd0hJUGg0eEM3c0RkcEdCRDRyR0JWU1ZVMXdsdWszcHk5bDZHbWIxeVFNMkZOaTBBS3NubFFzUVpTa1NveDVMYXY0eDNtcTFWRjVJbXdoQ1RFa2M?oc=5",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageCredit": "原始報導縮圖",
+      "citation": "BikeJunction｜Tue, 29 Sep 2026 09:39:33 GMT｜Ultraviolette Shockwave to Launch in Q1 2027 With New 100V Architecture - BikeJunction｜https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUExLVpWc1RQTHkwNWVJajFGWFVWLVBHUTVESnZSRFFSVVpfZEt4bkd3VkhkWkF1RlhrOXczSDluUC1ldGhPVS15dnR3VEZyTGJKX2hYNjNzM09fRXBHZWFlbk5yWnI5WGlScmFpMUhMaXV5V1NiNjVid1FuZmlFVTdkRm5UUEJ0SDFsWktXNlhLOWFJM1ZWbUNWcUFQYmtFanfSAacBQVVfeXFMUEk4bWpGRFQyNlJabU0tQWR3MHNsR0FoSm1pWnJ4eXFyWS00b0pLM0JYYmhCTkNJNHBSVk0wWFhlQWpTcDdTb1FYdXp5MUJDU0NzVnpHd0hJUGg0eEM3c0RkcEdCRDRyR0JWU1ZVMXdsdWszcHk5bDZHbWIxeVFNMkZOaTBBS3NubFFzUVpTa1NveDVMYXY0eDNtcTFWRjVJbXdoQ1RFa2M?oc=5｜擷取日 2026-10-05"
+    },
+    {
+      "key": "url:https://news.google.com/rss/articles/CBMidkFVX3lxTE50QVRuY0dYeXZqVFZJYkJLZjREbzRWbzZtX0lkZkgtS3BUdVhJd0d6QWxqaHplc2lmY1RaZThMbmNkb21IWkFWTHVDQmVTNjhlRVNMSnUtYUVuZ0JJWnRQUjJ6WFZyb2lCei15SmptLXhnUVVGZHc?oc=5",
+      "firstSeenAt": "2026-10-03",
+      "publishedAt": "Fri, 02 Oct 2026 23:31:46 GMT",
+      "category": "法規更新",
+      "importance": "high",
+      "region": "全球",
+      "sourceName": "RTE.ie",
+      "sourceFeed": "Google News：法規與補助",
+      "title": "Under-18 e-scooter ban welcome but Govt can do more - GRA - RTE.ie",
+      "titleZh": "",
+      "briefZh": "",
+      "summary": "Under-18 e-scooter ban welcome but Govt can do more - GRA &nbsp;&nbsp; RTE.ie",
+      "articleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50QVRuY0dYeXZqVFZJYkJLZjREbzRWbzZtX0lkZkgtS3BUdVhJd0d6QWxqaHplc2lmY1RaZThMbmNkb21IWkFWTHVDQmVTNjhlRVNMSnUtYUVuZ0JJWnRQUjJ6WFZyb2lCei15SmptLXhnUVVGZHc?oc=5",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageCredit": "原始報導縮圖",
+      "citation": "RTE.ie｜Fri, 02 Oct 2026 23:31:46 GMT｜Under-18 e-scooter ban welcome but Govt can do more - GRA - RTE.ie｜https://news.google.com/rss/articles/CBMidkFVX3lxTE50QVRuY0dYeXZqVFZJYkJLZjREbzRWbzZtX0lkZkgtS3BUdVhJd0d6QWxqaHplc2lmY1RaZThMbmNkb21IWkFWTHVDQmVTNjhlRVNMSnUtYUVuZ0JJWnRQUjJ6WFZyb2lCei15SmptLXhnUVVGZHc?oc=5｜擷取日 2026-10-08"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMipwFBVV95cUxNTVFMeGJjekN5VVJKYlZXZm9ESlpueDh6RWtmVGRzZ0pBMEZ2M0thWDM2Vk45TnQ3NmJIUm9JYVRKVlRuaG0zMFV1WG9zOE9obVJ1SEwtcXpSbDB3MjZLUllGbEFfY1hmOWlEOFhRTlVIckU4elZOOFZQdVQ5UVJZV1g5UXJsak5jYU1EWnNkcHBQcFIwYnJKVGJLa0VqV3lqRlU1cEJnNA?oc=5",
@@ -7168,42 +7204,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "imageCredit": "原始報導縮圖",
       "citation": "SFist｜Fri, 02 Oct 2026 17:53:43 GMT｜New California E-Bike Laws Include Ban For San Mateo County Youth Under 12 - SFist｜https://news.google.com/rss/articles/CBMipwFBVV95cUxNTVFMeGJjekN5VVJKYlZXZm9ESlpueDh6RWtmVGRzZ0pBMEZ2M0thWDM2Vk45TnQ3NmJIUm9JYVRKVlRuaG0zMFV1WG9zOE9obVJ1SEwtcXpSbDB3MjZLUllGbEFfY1hmOWlEOFhRTlVIckU4elZOOFZQdVQ5UVJZV1g5UXJsak5jYU1EWnNkcHBQcFIwYnJKVGJLa0VqV3lqRlU1cEJnNA?oc=5｜擷取日 2026-10-07"
-    },
-    {
-      "key": "url:https://news.google.com/rss/articles/CBMiswFBVV95cUxPendhVXJ0TzN3cXo3dWl1YWk5UFVJLTV2TU1tc1ViY1NnOVpydVlIaUFQQlBUZGd2T0lwQVRWOVNBWnc1azFjS0VsTTZlcmpJUWJLUGhQajF5ZHgwRzdCRjc1V1lwbVhQU3R6N3RNRFJqLUJaYi1CWmk1d0pCTENWZTFJMHZIV0dxOHBtNV9XWlltVkRGR0d2aUJ6UTFkQ1RKNEtVU1B3bVdIeWFCMVhLaTR2OA?oc=5",
-      "firstSeenAt": "2026-10-03",
-      "publishedAt": "Fri, 02 Oct 2026 11:49:00 GMT",
-      "category": "法規更新",
-      "importance": "high",
-      "region": "全球",
-      "sourceName": "Warren County Record",
-      "sourceFeed": "Google News：法規與補助",
-      "title": "Warrenton to reconsider e-bike rules after citations questioned - Warren County Record",
-      "titleZh": "",
-      "briefZh": "",
-      "summary": "Warrenton to reconsider e-bike rules after citations questioned &nbsp;&nbsp; Warren County Record",
-      "articleUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPendhVXJ0TzN3cXo3dWl1YWk5UFVJLTV2TU1tc1ViY1NnOVpydVlIaUFQQlBUZGd2T0lwQVRWOVNBWnc1azFjS0VsTTZlcmpJUWJLUGhQajF5ZHgwRzdCRjc1V1lwbVhQU3R6N3RNRFJqLUJaYi1CWmk1d0pCTENWZTFJMHZIV0dxOHBtNV9XWlltVkRGR0d2aUJ6UTFkQ1RKNEtVU1B3bVdIeWFCMVhLaTR2OA?oc=5",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageCredit": "原始報導縮圖",
-      "citation": "Warren County Record｜Fri, 02 Oct 2026 11:49:00 GMT｜Warrenton to reconsider e-bike rules after citations questioned - Warren County Record｜https://news.google.com/rss/articles/CBMiswFBVV95cUxPendhVXJ0TzN3cXo3dWl1YWk5UFVJLTV2TU1tc1ViY1NnOVpydVlIaUFQQlBUZGd2T0lwQVRWOVNBWnc1azFjS0VsTTZlcmpJUWJLUGhQajF5ZHgwRzdCRjc1V1lwbVhQU3R6N3RNRFJqLUJaYi1CWmk1d0pCTENWZTFJMHZIV0dxOHBtNV9XWlltVkRGR0d2aUJ6UTFkQ1RKNEtVU1B3bVdIeWFCMVhLaTR2OA?oc=5｜擷取日 2026-10-07"
-    },
-    {
-      "key": "url:https://news.google.com/rss/articles/CBMidkFVX3lxTE1mYjZOWnVZMjBhMWoyWDFZamNnVndITlg1MTJ6bWJNX0pVTnRndF8xd0NsYUQ5ZFBjcDJkM3NfUWJ5c2hhbF92Q1ZXVzJnSUJjbS1ydUJjQ0ZQd2xYanhFRVFhUGRMX3ZVa0JuSGZIUHZnaDdFTEE?oc=5",
-      "firstSeenAt": "2026-10-02",
-      "publishedAt": "Fri, 02 Oct 2026 00:04:43 GMT",
-      "category": "法規更新",
-      "importance": "high",
-      "region": "全球",
-      "sourceName": "The Coast News",
-      "sourceFeed": "Google News：法規與補助",
-      "title": "Carlsbad Unified adopts new e-bike policy - The Coast News",
-      "titleZh": "",
-      "briefZh": "",
-      "summary": "Carlsbad Unified adopts new e-bike policy &nbsp;&nbsp; The Coast News",
-      "articleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mYjZOWnVZMjBhMWoyWDFZamNnVndITlg1MTJ6bWJNX0pVTnRndF8xd0NsYUQ5ZFBjcDJkM3NfUWJ5c2hhbF92Q1ZXVzJnSUJjbS1ydUJjQ0ZQd2xYanhFRVFhUGRMX3ZVa0JuSGZIUHZnaDdFTEE?oc=5",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageCredit": "原始報導縮圖",
-      "citation": "The Coast News｜Fri, 02 Oct 2026 00:04:43 GMT｜Carlsbad Unified adopts new e-bike policy - The Coast News｜https://news.google.com/rss/articles/CBMidkFVX3lxTE1mYjZOWnVZMjBhMWoyWDFZamNnVndITlg1MTJ6bWJNX0pVTnRndF8xd0NsYUQ5ZFBjcDJkM3NfUWJ5c2hhbF92Q1ZXVzJnSUJjbS1ydUJjQ0ZQd2xYanhFRVFhUGRMX3ZVa0JuSGZIUHZnaDdFTEE?oc=5｜擷取日 2026-10-07"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMia0FVX3lxTE92anZjV1E4NWUwakR0c0dXX0xHOUxRekNWTXdpZ2ZsVi1ybkRwcHMzYWlBbXNpeWhLdm1oZGFDdE9naU8yU3cyUDRnRUV0emlxT0dtOWhjSlpZTXp0UXQ3Q2ROTEVIMG1tUzd3?oc=5",
@@ -7311,7 +7311,7 @@
       "articleUrl": "https://electrek.co/2026/09/21/south-park-just-took-on-americas-e-bike-problem-and-surprisingly-nailed-a-lot-of-it/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/09/southparkebikehead-1.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Mon, 21 Sep 2026 14:14:31 +0000｜South Park just took on America’s e-bike problem – and surprisingly nailed a lot of it｜https://electrek.co/2026/09/21/south-park-just-took-on-americas-e-bike-problem-and-surprisingly-nailed-a-lot-of-it/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Mon, 21 Sep 2026 14:14:31 +0000｜South Park just took on America’s e-bike problem – and surprisingly nailed a lot of it｜https://electrek.co/2026/09/21/south-park-just-took-on-americas-e-bike-problem-and-surprisingly-nailed-a-lot-of-it/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMimwFBVV95cUxPdXFlVWRSVUJnb1F5NlFJUlBZbHVZeHFMVXVXdFVremdfY1hpc1lsMUJEY2pTOExsTVRyU0VWVFF2YVpUVXZxYlp3LUowSHpOc3pTRzNVV0JoNnVVQlR2OUpSTERNeWEzT1FaUFB1ZDhTdzl4OG9zZHoxeElyQ0xoeXlTRWVBeDhDQ3Ryd3phdUVwdEx5d0dDVGNqVQ?oc=5",
@@ -7419,7 +7419,7 @@
       "articleUrl": "https://electrek.co/2026/09/15/segways-new-28-mph-muxi-pro-cargo-e-bike-gets-automatic-shifting-and-regen-braking/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/09/segway-muxi-pro-cargo-e-bike-header.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Tue, 15 Sep 2026 13:00:00 +0000｜Segway’s new 28 MPH MUXI Pro cargo e-bike gets automatic shifting and regen braking｜https://electrek.co/2026/09/15/segways-new-28-mph-muxi-pro-cargo-e-bike-gets-automatic-shifting-and-regen-braking/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Tue, 15 Sep 2026 13:00:00 +0000｜Segway’s new 28 MPH MUXI Pro cargo e-bike gets automatic shifting and regen braking｜https://electrek.co/2026/09/15/segways-new-28-mph-muxi-pro-cargo-e-bike-gets-automatic-shifting-and-regen-braking/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMifEFVX3lxTE5nQnVwempxeWtpUzNwc3A1YXFtM2FYOGtmTGEzTHNSYy1YZ1Y3OXZQSFN1czltUGR1dTJsbEpjcmhxYXdDM3IxV2ZWTHBmNERvV3N1ZFVRd1M1eklOb1kzbWJicmpZV0VRYllXSUFoRE1kU2pudUd1ODJMQkE?oc=5",
@@ -7473,7 +7473,7 @@
       "articleUrl": "https://electrek.co/2026/09/08/engwes-new-e26-3-0-packs-dual-motors-full-suspension-and-tons-of-torque/",
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/09/engwe-E26-head.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
-      "citation": "Electrek e-bikes｜Tue, 08 Sep 2026 10:22:51 +0000｜ENGWE’s new E26 3.0 e-bike packs dual motors, full suspension, and half a deer｜https://electrek.co/2026/09/08/engwes-new-e26-3-0-packs-dual-motors-full-suspension-and-tons-of-torque/｜擷取日 2026-10-20"
+      "citation": "Electrek e-bikes｜Tue, 08 Sep 2026 10:22:51 +0000｜ENGWE’s new E26 3.0 e-bike packs dual motors, full suspension, and half a deer｜https://electrek.co/2026/09/08/engwes-new-e26-3-0-packs-dual-motors-full-suspension-and-tons-of-torque/｜擷取日 2026-10-21"
     },
     {
       "key": "url:https://electrek.co/2026/09/06/the-story-of-sondors-new-mystery-e-bike-just-got-even-weirder-with-just-two-words/",
@@ -8920,22 +8920,40 @@
       "citation": "Electrek e-bikes｜Fri, 24 Jul 2026 17:23:31 +0000｜Specialized just unveiled a new full-suspension e-bike, and here’s why it costs $13k｜https://electrek.co/2026/07/24/specialized-just-unveiled-a-new-full-suspension-e-bike-and-heres-why-it-costs-13k/｜擷取日 2026-09-27"
     },
     {
-      "key": "url:https://electrek.co/2026/07/22/exclusive-segway-teases-more-electric-bikes-including-a-street-legal-next-gen-xyber/",
-      "firstSeenAt": "2026-09-27",
-      "publishedAt": "Wed, 22 Jul 2026 13:00:00 +0000",
-      "category": "品牌新品",
-      "importance": "normal",
+      "key": "url:https://news.google.com/rss/articles/CBMiswFBVV95cUxPendhVXJ0TzN3cXo3dWl1YWk5UFVJLTV2TU1tc1ViY1NnOVpydVlIaUFQQlBUZGd2T0lwQVRWOVNBWnc1azFjS0VsTTZlcmpJUWJLUGhQajF5ZHgwRzdCRjc1V1lwbVhQU3R6N3RNRFJqLUJaYi1CWmk1d0pCTENWZTFJMHZIV0dxOHBtNV9XWlltVkRGR0d2aUJ6UTFkQ1RKNEtVU1B3bVdIeWFCMVhLaTR2OA?oc=5",
+      "firstSeenAt": "2026-10-03",
+      "publishedAt": "Fri, 02 Oct 2026 11:49:00 GMT",
+      "category": "法規更新",
+      "importance": "high",
       "region": "全球",
-      "sourceName": "Electrek e-bikes",
-      "sourceFeed": "Electrek e-bikes",
-      "title": "Exclusive: Segway teases more electric bikes, including a street-legal next-gen Xyber",
+      "sourceName": "Warren County Record",
+      "sourceFeed": "Google News：法規與補助",
+      "title": "Warrenton to reconsider e-bike rules after citations questioned - Warren County Record",
       "titleZh": "",
       "briefZh": "",
-      "summary": "Segway has made major strides in the e-bike space recently, but the company isn’t done expanding its electric bicycle lineup just yet. Following the launches of the Myon commuter e-bike and MUXI cargo bike earlier this year , the company has confirmed to Electrek that it plans to unveil two additional e-bike models before the end of 2026, with both expected to become available in the third quarter. more…",
-      "articleUrl": "https://electrek.co/2026/07/22/exclusive-segway-teases-more-electric-bikes-including-a-street-legal-next-gen-xyber/",
-      "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2026/07/segway-e-bike-header.webp?w=1600",
-      "imageCredit": "",
-      "citation": "Electrek e-bikes｜Wed, 22 Jul 2026 13:00:00 +0000｜Exclusive: Segway teases more electric bikes, including a street-legal next-gen Xyber｜https://electrek.co/2026/07/22/exclusive-segway-teases-more-electric-bikes-including-a-street-legal-next-gen-xyber/｜擷取日 2026-09-27"
+      "summary": "Warrenton to reconsider e-bike rules after citations questioned &nbsp;&nbsp; Warren County Record",
+      "articleUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPendhVXJ0TzN3cXo3dWl1YWk5UFVJLTV2TU1tc1ViY1NnOVpydVlIaUFQQlBUZGd2T0lwQVRWOVNBWnc1azFjS0VsTTZlcmpJUWJLUGhQajF5ZHgwRzdCRjc1V1lwbVhQU3R6N3RNRFJqLUJaYi1CWmk1d0pCTENWZTFJMHZIV0dxOHBtNV9XWlltVkRGR0d2aUJ6UTFkQ1RKNEtVU1B3bVdIeWFCMVhLaTR2OA?oc=5",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageCredit": "原始報導縮圖",
+      "citation": "Warren County Record｜Fri, 02 Oct 2026 11:49:00 GMT｜Warrenton to reconsider e-bike rules after citations questioned - Warren County Record｜https://news.google.com/rss/articles/CBMiswFBVV95cUxPendhVXJ0TzN3cXo3dWl1YWk5UFVJLTV2TU1tc1ViY1NnOVpydVlIaUFQQlBUZGd2T0lwQVRWOVNBWnc1azFjS0VsTTZlcmpJUWJLUGhQajF5ZHgwRzdCRjc1V1lwbVhQU3R6N3RNRFJqLUJaYi1CWmk1d0pCTENWZTFJMHZIV0dxOHBtNV9XWlltVkRGR0d2aUJ6UTFkQ1RKNEtVU1B3bVdIeWFCMVhLaTR2OA?oc=5｜擷取日 2026-10-07"
+    },
+    {
+      "key": "url:https://news.google.com/rss/articles/CBMidkFVX3lxTE1mYjZOWnVZMjBhMWoyWDFZamNnVndITlg1MTJ6bWJNX0pVTnRndF8xd0NsYUQ5ZFBjcDJkM3NfUWJ5c2hhbF92Q1ZXVzJnSUJjbS1ydUJjQ0ZQd2xYanhFRVFhUGRMX3ZVa0JuSGZIUHZnaDdFTEE?oc=5",
+      "firstSeenAt": "2026-10-02",
+      "publishedAt": "Fri, 02 Oct 2026 00:04:43 GMT",
+      "category": "法規更新",
+      "importance": "high",
+      "region": "全球",
+      "sourceName": "The Coast News",
+      "sourceFeed": "Google News：法規與補助",
+      "title": "Carlsbad Unified adopts new e-bike policy - The Coast News",
+      "titleZh": "",
+      "briefZh": "",
+      "summary": "Carlsbad Unified adopts new e-bike policy &nbsp;&nbsp; The Coast News",
+      "articleUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mYjZOWnVZMjBhMWoyWDFZamNnVndITlg1MTJ6bWJNX0pVTnRndF8xd0NsYUQ5ZFBjcDJkM3NfUWJ5c2hhbF92Q1ZXVzJnSUJjbS1ydUJjQ0ZQd2xYanhFRVFhUGRMX3ZVa0JuSGZIUHZnaDdFTEE?oc=5",
+      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "imageCredit": "原始報導縮圖",
+      "citation": "The Coast News｜Fri, 02 Oct 2026 00:04:43 GMT｜Carlsbad Unified adopts new e-bike policy - The Coast News｜https://news.google.com/rss/articles/CBMidkFVX3lxTE1mYjZOWnVZMjBhMWoyWDFZamNnVndITlg1MTJ6bWJNX0pVTnRndF8xd0NsYUQ5ZFBjcDJkM3NfUWJ5c2hhbF92Q1ZXVzJnSUJjbS1ydUJjQ0ZQd2xYanhFRVFhUGRMX3ZVa0JuSGZIUHZnaDdFTEE?oc=5｜擷取日 2026-10-07"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0lzamh1TE5OM09jZHlldzdfUHpvaXBGaXVmQW9hQkdwdk1xczdqWk5fWlVKR0s3S21zYW5uZklod3ktaW1CSWJaVEtzNVltcHZDbXMyQmlMVDJDT3drVlExV0I5X1BLU1d2WDdTbnJPMG5LMVRxQ2JyVDZFVGc5dE81clY1ZW96cnQ2YdIBkgFBVV95cUxPOWZ0WE1TVkVudjVXaHhPbWhrWXRkNDBiM0IwMmdfMnRKUFJMY2RManhQa0Rld1YxU010c3JCV3g3UEM2UTJaTmNZMXZ6ZzFQX0hxUXlZVVowcDVjZ3JrcHZQbEdyVjlrUGk5dUdTMU5iZUNKREdycExfTXZkN1dXNm0xNG80cmU5QmVRRmx1eGlCZw?oc=5",
@@ -9224,24 +9242,6 @@
       "imageUrl": "https://electrek.co/wp-content/uploads/sites/3/2025/07/NYC-bike-street-header.jpg?quality=82&strip=all&w=1600",
       "imageCredit": "",
       "citation": "Electrek e-bikes｜Mon, 28 Sep 2026 19:39:05 +0000｜New York considering 20+ new e-bike laws including outlawing Class 3 electric bikes｜https://electrek.co/2026/09/28/new-york-considering-20-new-e-bike-laws-including-outlawing-class-3-electric-bikes/｜擷取日 2026-10-01"
-    },
-    {
-      "key": "url:https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeGxVOHRSUzUzOWZackNOc1VraXVnSlQwMDdYMTVzeU84TlpSUlBvbmQwRTdaNVNWa042OU9NNE5WeFl6bnV5bVNwNncwQk1TaGZjSlVkWWJNNktDMG5yb3lwTHhkQlZOTjhiUXNwZFFaeGh5OWtkQnhlSXFvNHFtZ1NkelFBM1BvNXByNlhiX3hpbU9ZaWFIbmJmU2hHaEVRT2ItR1ozaGkzMDBWS0MyQ1k2YVhpZzBlQXVnR0FlLXRBd1gtRUVNYkNLQjhoZlNEd2tvb1FqS2xtRXV1MFIzVG1n0gHiAUFVX3lxTE54bFU4dFJTNTM5ZlpyQ05zVWtpdWdKVDAwN1gxNXN5TzhOWlJSUG9uZDBFN1o1U1ZrTjY5T000TlZ4WXpudXltU3A2dzBCTVNoZmNKVWRZYk02S0MwbnJveXBMeGRCVk5OOGJRc3BkUVp4aHk5a2RCeGVJcW80cW1nU2R6UUEzUG81cHI2WGJfeGltT1lpYUhuYmZTaEdoRVFPYi1HWjNoaTMwMFZLQzJDWTZhWGlnMGVBdWdHQWUtdEF3WC1FRU1iQ0tCOGhmU0R3a29vUWpLbG1FdXUwUjNUbWc?oc=5",
-      "firstSeenAt": "2026-10-14",
-      "publishedAt": "Tue, 13 Oct 2026 10:28:32 GMT",
-      "category": "產業趨勢",
-      "importance": "normal",
-      "region": "全球",
-      "sourceName": "ET Auto",
-      "sourceFeed": "Google News：供應鏈與市場",
-      "title": "e-Sprinto enters retail EV market with G1 electric scooter priced at ₹89,999 - ET Auto",
-      "titleZh": "",
-      "briefZh": "",
-      "summary": "e-Sprinto enters retail EV market with G1 electric scooter priced at ₹89,999 &nbsp;&nbsp; ET Auto",
-      "articleUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeGxVOHRSUzUzOWZackNOc1VraXVnSlQwMDdYMTVzeU84TlpSUlBvbmQwRTdaNVNWa042OU9NNE5WeFl6bnV5bVNwNncwQk1TaGZjSlVkWWJNNktDMG5yb3lwTHhkQlZOTjhiUXNwZFFaeGh5OWtkQnhlSXFvNHFtZ1NkelFBM1BvNXByNlhiX3hpbU9ZaWFIbmJmU2hHaEVRT2ItR1ozaGkzMDBWS0MyQ1k2YVhpZzBlQXVnR0FlLXRBd1gtRUVNYkNLQjhoZlNEd2tvb1FqS2xtRXV1MFIzVG1n0gHiAUFVX3lxTE54bFU4dFJTNTM5ZlpyQ05zVWtpdWdKVDAwN1gxNXN5TzhOWlJSUG9uZDBFN1o1U1ZrTjY5T000TlZ4WXpudXltU3A2dzBCTVNoZmNKVWRZYk02S0MwbnJveXBMeGRCVk5OOGJRc3BkUVp4aHk5a2RCeGVJcW80cW1nU2R6UUEzUG81cHI2WGJfeGltT1lpYUhuYmZTaEdoRVFPYi1HWjNoaTMwMFZLQzJDWTZhWGlnMGVBdWdHQWUtdEF3WC1FRU1iQ0tCOGhmU0R3a29vUWpLbG1FdXUwUjNUbWc?oc=5",
-      "imageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "imageCredit": "原始報導縮圖",
-      "citation": "ET Auto｜Tue, 13 Oct 2026 10:28:32 GMT｜e-Sprinto enters retail EV market with G1 electric scooter priced at ₹89,999 - ET Auto｜https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeGxVOHRSUzUzOWZackNOc1VraXVnSlQwMDdYMTVzeU84TlpSUlBvbmQwRTdaNVNWa042OU9NNE5WeFl6bnV5bVNwNncwQk1TaGZjSlVkWWJNNktDMG5yb3lwTHhkQlZOTjhiUXNwZFFaeGh5OWtkQnhlSXFvNHFtZ1NkelFBM1BvNXByNlhiX3hpbU9ZaWFIbmJmU2hHaEVRT2ItR1ozaGkzMDBWS0MyQ1k2YVhpZzBlQXVnR0FlLXRBd1gtRUVNYkNLQjhoZlNEd2tvb1FqS2xtRXV1MFIzVG1n0gHiAUFVX3lxTE54bFU4dFJTNTM5ZlpyQ05zVWtpdWdKVDAwN1gxNXN5TzhOWlJSUG9uZDBFN1o1U1ZrTjY5T000TlZ4WXpudXltU3A2dzBCTVNoZmNKVWRZYk02S0MwbnJveXBMeGRCVk5OOGJRc3BkUVp4aHk5a2RCeGVJcW80cW1nU2R6UUEzUG81cHI2WGJfeGltT1lpYUhuYmZTaEdoRVFPYi1HWjNoaTMwMFZLQzJDWTZhWGlnMGVBdWdHQWUtdEF3WC1FRU1iQ0tCOGhmU0R3a29vUWpLbG1FdXUwUjNUbWc?oc=5｜擷取日 2026-10-14"
     },
     {
       "key": "url:https://news.google.com/rss/articles/CBMirAFBVV95cUxNV0tPYl9xQjRWbWVTbWdNN1h2UFpVWDRuYWU0b1VWVlZzUWpQVHRXR1FONHZnM0ZiWEFqUG40SnpFbzVaOVh0Sm9od3pMX1J1NjNPR002SzNvSWhFLW5uX3dwN1lmUlZZMGJzbkdNNHN0bzVNMHUxR0RRNmZhWmVIdUpiVjl4U25melhZcG13X2ZraTNQbWxsc1dXRXdDOTRfNzZuT1BmU21BZWV3?oc=5",
