@@ -1,0 +1,153 @@
+# PowerPoint 素材候選｜2026-11-19
+
+## 1. VinFast Electric Scooters For India - Range, Specs, Battery, Details - RushLane
+
+- 分類：技術元件｜全球
+- 摘要：VinFast Electric Scooters For India - Range, Specs, Battery, Details &nbsp;&nbsp; RushLane
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[RushLane](https://news.google.com/rss/articles/CBMipAFBVV95cUxNQkJycGtmZklKNUtyRTM2MmZ5WXZNOFhkX2IxZ181RzM3RHFhbG5SWEdmYmlrcm1ZMXZiRUVyUEZUQ29FRDliZDFrZERTOXJUM19EWExjSV95X1ppdlFPaFp1LTk0WjBmb1RsUEtvektpM2JRSjA4bEVfX2pqNDV1Y3BEdnE0WUZIckRXQ3N0aDEzMHE0TUdNeU8wdmlobTFjbU5FLdIBpAFBVV95cUxNQkJycGtmZklKNUtyRTM2MmZ5WXZNOFhkX2IxZ181RzM3RHFhbG5SWEdmYmlrcm1ZMXZiRUVyUEZUQ29FRDliZDFrZERTOXJUM19EWExjSV95X1ppdlFPaFp1LTk0WjBmb1RsUEtvektpM2JRSjA4bEVfX2pqNDV1Y3BEdnE0WUZIckRXQ3N0aDEzMHE0TUdNeU8wdmlobTFjbU5FLQ?oc=5)
+- 引用：RushLane｜Wed, 18 Nov 2026 05:38:11 GMT｜VinFast Electric Scooters For India - Range, Specs, Battery, Details - RushLane｜https://news.google.com/rss/articles/CBMipAFBVV95cUxNQkJycGtmZklKNUtyRTM2MmZ5WXZNOFhkX2IxZ181RzM3RHFhbG5SWEdmYmlrcm1ZMXZiRUVyUEZUQ29FRDliZDFrZERTOXJUM19EWExjSV95X1ppdlFPaFp1LTk0WjBmb1RsUEtvektpM2JRSjA4bEVfX2pqNDV1Y3BEdnE0WUZIckRXQ3N0aDEzMHE0TUdNeU8wdmlobTFjbU5FLdIBpAFBVV95cUxNQkJycGtmZklKNUtyRTM2MmZ5WXZNOFhkX2IxZ181RzM3RHFhbG5SWEdmYmlrcm1ZMXZiRUVyUEZUQ29FRDliZDFrZERTOXJUM19EWExjSV95X1ppdlFPaFp1LTk0WjBmb1RsUEtvektpM2JRSjA4bEVfX2pqNDV1Y3BEdnE0WUZIckRXQ3N0aDEzMHE0TUdNeU8wdmlobTFjbU5FLQ?oc=5｜擷取日 2026-11-19
+
+## 2. River RX02 Electric Scooter Spied Testing in Bengaluru; Launch Expected in Q1 2027 - Sangri Today
+
+- 分類：品牌新品｜全球
+- 摘要：River RX02 Electric Scooter Spied Testing in Bengaluru; Launch Expected in Q1 2027 &nbsp;&nbsp; Sangri Today
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Sangri Today](https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHJZc2lNd3RmVzc0T1hiUmtCbHA2N1Y1d2NfQ0JHbzF5Q183SzR1cXFaT1NEV2ROQXMybUJHT2x0SXd4alVUczIwVDEwNENOaWZubVY1NElQR0VhV0JrN0RPdTJFRUpPNjN0ajduM2lZWTMybUlPREUtWXRBTnMzUDg3TS1uNnpqeUNEOExOYVFhLWk1ZGgxNjNkUUlmbGR1Ukh2QjJ5UjA5U1F3R1ktb3VYV1NNUl9uY3dHcFZrQld1OE92SUxpd3J30gHPAUFVX3lxTFB6MDhNYktZSGUzLUZFOFViR0x4RkVBOHIzVHRpMnU1b21jVTJCRlM2eEdVTGdaby1QcVMySkR2Smg1VjJwN1ltLUIzMGx5azY5dGZkWDM3YTZkU2FtZWJDZklsT2FOazdTQkItOVAtZkhxa1dYRzFMR2JKOVVUbnFNZUdKVURzeFNhSWlnS3d1R2RIeEVHdmFmemtMQ3ZldGhsS2tPRUtHRkxrOFZyUEFFNEpTNlVDeDBqR0hmSkQ3NnZVVDRjQV9hUmxwclg5OA?oc=5)
+- 引用：Sangri Today｜Wed, 18 Nov 2026 17:41:42 GMT｜River RX02 Electric Scooter Spied Testing in Bengaluru; Launch Expected in Q1 2027 - Sangri Today｜https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHJZc2lNd3RmVzc0T1hiUmtCbHA2N1Y1d2NfQ0JHbzF5Q183SzR1cXFaT1NEV2ROQXMybUJHT2x0SXd4alVUczIwVDEwNENOaWZubVY1NElQR0VhV0JrN0RPdTJFRUpPNjN0ajduM2lZWTMybUlPREUtWXRBTnMzUDg3TS1uNnpqeUNEOExOYVFhLWk1ZGgxNjNkUUlmbGR1Ukh2QjJ5UjA5U1F3R1ktb3VYV1NNUl9uY3dHcFZrQld1OE92SUxpd3J30gHPAUFVX3lxTFB6MDhNYktZSGUzLUZFOFViR0x4RkVBOHIzVHRpMnU1b21jVTJCRlM2eEdVTGdaby1QcVMySkR2Smg1VjJwN1ltLUIzMGx5azY5dGZkWDM3YTZkU2FtZWJDZklsT2FOazdTQkItOVAtZkhxa1dYRzFMR2JKOVVUbnFNZUdKVURzeFNhSWlnS3d1R2RIeEVHdmFmemtMQ3ZldGhsS2tPRUtHRkxrOFZyUEFFNEpTNlVDeDBqR0hmSkQ3NnZVVDRjQV9hUmxwclg5OA?oc=5｜擷取日 2026-11-19
+
+## 3. Rivian’s ALSO pauses high-tech e-bike deliveries over ‘software issues’ that we saw coming
+
+- 分類：品牌新品｜全球
+- 摘要：Rivian’s new electric bike spinoff, ALSO, has hit another speed bump. The company has announced that it is temporarily halting deliveries of its TM-B electric bicycles after discovering software-related problems affecting some bikes, including issues with charging behavior. more…
+- 圖片（先確認授權）：[原始報導縮圖](https://electrek.co/wp-content/uploads/sites/3/2026/10/also-e-bike-rivian-tm-b-header.jpg?quality=82&strip=all&w=1600)
+- 原文：[Electrek e-bikes](https://electrek.co/2026/11/18/rivians-also-pauses-high-tech-e-bike-deliveries-over-software-issues-that-we-saw-coming/)
+- 引用：Electrek e-bikes｜Wed, 18 Nov 2026 17:23:00 +0000｜Rivian’s ALSO pauses high-tech e-bike deliveries over ‘software issues’ that we saw coming｜https://electrek.co/2026/11/18/rivians-also-pauses-high-tech-e-bike-deliveries-over-software-issues-that-we-saw-coming/｜擷取日 2026-11-19
+
+## 4. VinFast Electric Scooters For India – Range, Specs, Battery & Launch Details - Autopunditz
+
+- 分類：品牌新品｜全球
+- 摘要：VinFast Electric Scooters For India – Range, Specs, Battery & Launch Details &nbsp;&nbsp; Autopunditz
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Autopunditz](https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2FQb2ZtdElIUWp3Z05JVnJKSkNlUksxVzlVSUxtak1tZXJsSFBhT2s5T1hiYWZfdXVYTlBUMFVYM1RhQXg4a0haMXRXNlBvcGl5QTFkLXJkdDNCQ29oZGhRT3lBcDRZQy1USW5wd2tuSUJ6MlRVYjBqLUlyWWxXY1YxajhuN05hc3k5QTV0NUhrTlk?oc=5)
+- 引用：Autopunditz｜Wed, 18 Nov 2026 14:27:32 GMT｜VinFast Electric Scooters For India – Range, Specs, Battery & Launch Details - Autopunditz｜https://news.google.com/rss/articles/CBMikwFBVV95cUxPc2FQb2ZtdElIUWp3Z05JVnJKSkNlUksxVzlVSUxtak1tZXJsSFBhT2s5T1hiYWZfdXVYTlBUMFVYM1RhQXg4a0haMXRXNlBvcGl5QTFkLXJkdDNCQ29oZGhRT3lBcDRZQy1USW5wd2tuSUJ6MlRVYjBqLUlyWWxXY1YxajhuN05hc3k5QTV0NUhrTlk?oc=5｜擷取日 2026-11-19
+
+## 5. Ampere Reo VYB Electric Scooter Launched: 80km Range, LFP Battery and Price Revealed - UdaipurTimes.com
+
+- 分類：品牌新品｜全球
+- 摘要：Ampere Reo VYB Electric Scooter Launched: 80km Range, LFP Battery and Price Revealed &nbsp;&nbsp; UdaipurTimes.com
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[UdaipurTimes.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxQay11bnZLZmdTN0UtandrQ2tmYmFBU2djWlM1MEx2X2cyNDV1d0xSU3hYS2E5UG0zMm5FNGtTYlQtMkpDZGJOd2pMbHVxa2gxUHZITFoyMlJDdFdGemc0SGdiOGVyTDRnc1BGOXY5S3VRTG5fWXRpTkNXalBjX2xnTGYwYlhGaVVvTkxMd0lrTXZyMWd0YTItVWZ5Y2N5dGVpc0JveEV3ZURyTnc3V05J?oc=5)
+- 引用：UdaipurTimes.com｜Wed, 18 Nov 2026 14:01:50 GMT｜Ampere Reo VYB Electric Scooter Launched: 80km Range, LFP Battery and Price Revealed - UdaipurTimes.com｜https://news.google.com/rss/articles/CBMirwFBVV95cUxQay11bnZLZmdTN0UtandrQ2tmYmFBU2djWlM1MEx2X2cyNDV1d0xSU3hYS2E5UG0zMm5FNGtTYlQtMkpDZGJOd2pMbHVxa2gxUHZITFoyMlJDdFdGemc0SGdiOGVyTDRnc1BGOXY5S3VRTG5fWXRpTkNXalBjX2xnTGYwYlhGaVVvTkxMd0lrTXZyMWd0YTItVWZ5Y2N5dGVpc0JveEV3ZURyTnc3V05J?oc=5｜擷取日 2026-11-19
+
+## 6. VinFast to Launch Three Electric Scooters in India Next Year - Udaipur Kiran
+
+- 分類：品牌新品｜全球
+- 摘要：VinFast to Launch Three Electric Scooters in India Next Year &nbsp;&nbsp; Udaipur Kiran
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Udaipur Kiran](https://news.google.com/rss/articles/CBMijwFBVV95cUxQcHR1QXcyTmJYZkZtN291cndWM2JTNTdncHhJNGhHcVNueWJtaXowelZDZ3J5Yks5LWdMLXZjdXAwSm5wV2treEdEYXBwckZ3UExucERxNkRLbThlUVZScWdFdTlMQWg3ekhsX0hfajd1cTJ1OGZtdWFIU3NjekxMZVY1Nk9kT1Mwb2oxaVZxUQ?oc=5)
+- 引用：Udaipur Kiran｜Wed, 18 Nov 2026 11:03:35 GMT｜VinFast to Launch Three Electric Scooters in India Next Year - Udaipur Kiran｜https://news.google.com/rss/articles/CBMijwFBVV95cUxQcHR1QXcyTmJYZkZtN291cndWM2JTNTdncHhJNGhHcVNueWJtaXowelZDZ3J5Yks5LWdMLXZjdXAwSm5wV2treEdEYXBwckZ3UExucERxNkRLbThlUVZScWdFdTlMQWg3ekhsX0hfajd1cTJ1OGZtdWFIU3NjekxMZVY1Nk9kT1Mwb2oxaVZxUQ?oc=5｜擷取日 2026-11-19
+
+## 7. Elderly Florida man leads police on wild 16 mph e-bike chase. Thank goodness they caught him
+
+- 分類：品牌新品｜全球
+- 摘要：Residents of New Smyrna Beach, Florida, can finally breathe a sigh of relief. A dangerous menace to society has been taken off the streets after police apprehended a 75-year-old man accused of leading deputies on a high-stakes electric bike chase at speeds reaching a blistering 16 mph (26 km/h). more…
+- 圖片（先確認授權）：[原始報導縮圖](https://electrek.co/wp-content/uploads/sites/3/2026/11/coptruckvolusiasheriff.jpg?quality=82&strip=all&w=1600)
+- 原文：[Electrek e-bikes](https://electrek.co/2026/11/17/elderly-florida-man-leads-police-on-wild-16-mph-e-bike-chase-thank-goodness-they-caught-him/)
+- 引用：Electrek e-bikes｜Wed, 18 Nov 2026 06:51:50 +0000｜Elderly Florida man leads police on wild 16 mph e-bike chase. Thank goodness they caught him｜https://electrek.co/2026/11/17/elderly-florida-man-leads-police-on-wild-16-mph-e-bike-chase-thank-goodness-they-caught-him/｜擷取日 2026-11-19
+
+## 8. VinFast to launch 3 made-for-India electric scooters in 2027: Evo, Kyo and Kinet-based models explained - Livemint
+
+- 分類：品牌新品｜全球
+- 摘要：VinFast to launch 3 made-for-India electric scooters in 2027: Evo, Kyo and Kinet-based models explained &nbsp;&nbsp; Livemint
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Livemint](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUU1CMXdkU0UzaE1ncWxIeEFTbHVtZzNlMkdxeE1vcnhlVW1hN3lueUdMWEtUbllxNUJ1NHJvbXVadnVHdlVhd1B1VkdxeDZxLUtBZTdYbW9VZ0hsR1VwcmRmX0FkOWtoWmFjbDNYVldBUWxBNjVJMjhlb19NODV1QVBYSjV1V0ZjWENHei01Z0FNejF0VVJER0ZWUGtwV2xQbVkyV0V5azM1cFhjQzMwTFg2SzhaUENBZnhiX0x5dk5GOXY3Rjl1clk5X3JSZEpCWi1oaGd0VUxLbkVwNzRUTWhHaVVuTmxoeHZMX9IB8gFBVV95cUxPVlpGbFhSajNmSk84ZUdHMng1MjNNNnlJcjBVUUd6cTBWQkNxNDU4Nk50ZHVHYmpERWVtNjluMEpnZFphOTRIcDBQRzIwaGtXZldndTRRY3RsVDdweE0tZTIwdlh6RmVMNGRtQko3NVYwVUV1TTV6WVZsX0g1TFVZdk4wWWdGQWZxZ0hfVmpvYlNVU1RCd2gyY1dRWklkUmtJRmZraGNyY01fWXp0OEZJR3o3b1BmOEFXN015SDNHbzF6NEJlTEQ5LXlxN2xMVzFMREhIUTI1elBzblExX242Z3Z5SnNfa29uU242UVVMR0tYQQ?oc=5)
+- 引用：Livemint｜Wed, 18 Nov 2026 04:13:59 GMT｜VinFast to launch 3 made-for-India electric scooters in 2027: Evo, Kyo and Kinet-based models explained - Livemint｜https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUU1CMXdkU0UzaE1ncWxIeEFTbHVtZzNlMkdxeE1vcnhlVW1hN3lueUdMWEtUbllxNUJ1NHJvbXVadnVHdlVhd1B1VkdxeDZxLUtBZTdYbW9VZ0hsR1VwcmRmX0FkOWtoWmFjbDNYVldBUWxBNjVJMjhlb19NODV1QVBYSjV1V0ZjWENHei01Z0FNejF0VVJER0ZWUGtwV2xQbVkyV0V5azM1cFhjQzMwTFg2SzhaUENBZnhiX0x5dk5GOXY3Rjl1clk5X3JSZEpCWi1oaGd0VUxLbkVwNzRUTWhHaVVuTmxoeHZMX9IB8gFBVV95cUxPVlpGbFhSajNmSk84ZUdHMng1MjNNNnlJcjBVUUd6cTBWQkNxNDU4Nk50ZHVHYmpERWVtNjluMEpnZFphOTRIcDBQRzIwaGtXZldndTRRY3RsVDdweE0tZTIwdlh6RmVMNGRtQko3NVYwVUV1TTV6WVZsX0g1TFVZdk4wWWdGQWZxZ0hfVmpvYlNVU1RCd2gyY1dRWklkUmtJRmZraGNyY01fWXp0OEZJR3o3b1BmOEFXN015SDNHbzF6NEJlTEQ5LXlxN2xMVzFMREhIUTI1elBzblExX242Z3Z5SnNfa29uU242UVVMR0tYQQ?oc=5｜擷取日 2026-11-19
+
+## 9. Border Officials Just Banned E-Bikes From Vehicle Lanes, So What Are Lubbock's Rules? - 93.1 KISS FM
+
+- 分類：法規更新｜全球
+- 摘要：Border Officials Just Banned E-Bikes From Vehicle Lanes, So What Are Lubbock's Rules? &nbsp;&nbsp; 93.1 KISS FM
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[93.1 KISS FM](https://news.google.com/rss/articles/CBMidEFVX3lxTFBDR0wzVjdZYURfZTNOajFCeHMyX1ZtVko2ZVUtRklBam9OOGhwTTNYNzZFdnpvTXYyRWhuTXQ4aEdRYTRPTWp2eFBTLVYwUTI2bTBoV08wTGF4cERseHF5cS1GSnVZdU5tQmxFR2xNc3c3NmY5?oc=5)
+- 引用：93.1 KISS FM｜Thu, 19 Nov 2026 00:30:38 GMT｜Border Officials Just Banned E-Bikes From Vehicle Lanes, So What Are Lubbock's Rules? - 93.1 KISS FM｜https://news.google.com/rss/articles/CBMidEFVX3lxTFBDR0wzVjdZYURfZTNOajFCeHMyX1ZtVko2ZVUtRklBam9OOGhwTTNYNzZFdnpvTXYyRWhuTXQ4aEdRYTRPTWp2eFBTLVYwUTI2bTBoV08wTGF4cERseHF5cS1GSnVZdU5tQmxFR2xNc3c3NmY5?oc=5｜擷取日 2026-11-19
+
+## 10. NC needs an e-bike safety law, NC task force members say - NC Newsline
+
+- 分類：法規更新｜全球
+- 摘要：NC needs an e-bike safety law, NC task force members say &nbsp;&nbsp; NC Newsline
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[NC Newsline](https://news.google.com/rss/articles/CBMilAFBVV95cUxQZDBuZHU1a25GNTNhOXBzMzRXUDQzV0gyU0hpaGF2cHJaTHBVSl9pc2NvVFpVcFB6eUhpX0R5LXJvcWVMdkZRTTVsN19lYlAydjFVb295WFJBdXNoSkRjTHNFTjNuZHRzOVJVSWgyZUpjNlRZMi0yNlZSb1AxN1dUWkNyRmhnY0RIZlZITHZEa1RqaFVE?oc=5)
+- 引用：NC Newsline｜Wed, 18 Nov 2026 22:52:30 GMT｜NC needs an e-bike safety law, NC task force members say - NC Newsline｜https://news.google.com/rss/articles/CBMilAFBVV95cUxQZDBuZHU1a25GNTNhOXBzMzRXUDQzV0gyU0hpaGF2cHJaTHBVSl9pc2NvVFpVcFB6eUhpX0R5LXJvcWVMdkZRTTVsN19lYlAydjFVb295WFJBdXNoSkRjTHNFTjNuZHRzOVJVSWgyZUpjNlRZMi0yNlZSb1AxN1dUWkNyRmhnY0RIZlZITHZEa1RqaFVE?oc=5｜擷取日 2026-11-19
+
+## 11. Illinois’ New E-Bike Safety Rules Take Effect Jan. 1, 2027 - RiverBender.com
+
+- 分類：法規更新｜全球
+- 摘要：Illinois’ New E-Bike Safety Rules Take Effect Jan. 1, 2027 &nbsp;&nbsp; RiverBender.com
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[RiverBender.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXVVTzY1MG5nRUgzVk41dTJsQTlfbmprV1RnMXJaaGJZNmVRNjVRelBXT0dYUy03eWpNSXI3OGdzUVFNbXpKSnFnRHJMWDc1ZHlOSXJ3R3B1TGNVejU2Wk8yV0dpdzZKN0NJeXl1WkU3ZGhpa1ZVMXZtYTg5aHlsZzlDWF9mQUpxVm13UU5QMmpnUjRvZ05YYmdiX05lM2FMcWR3WXdhOTU?oc=5)
+- 引用：RiverBender.com｜Wed, 18 Nov 2026 19:33:00 GMT｜Illinois’ New E-Bike Safety Rules Take Effect Jan. 1, 2027 - RiverBender.com｜https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXVVTzY1MG5nRUgzVk41dTJsQTlfbmprV1RnMXJaaGJZNmVRNjVRelBXT0dYUy03eWpNSXI3OGdzUVFNbXpKSnFnRHJMWDc1ZHlOSXJ3R3B1TGNVejU2Wk8yV0dpdzZKN0NJeXl1WkU3ZGhpa1ZVMXZtYTg5aHlsZzlDWF9mQUpxVm13UU5QMmpnUjRvZ05YYmdiX05lM2FMcWR3WXdhOTU?oc=5｜擷取日 2026-11-19
+
+## 12. Illinois enacts new e-bike safety law starting Jan. 1 - KHQA
+
+- 分類：法規更新｜全球
+- 摘要：Illinois enacts new e-bike safety law starting Jan. 1 &nbsp;&nbsp; KHQA
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[KHQA](https://news.google.com/rss/articles/CBMizwFBVV95cUxNVGY1djBJUDVCeUw1N0ZhN3hsUVlmQ2tBa29uUjM3V3RGRXctNnJUY2lTRmpWcmxMdnc3OE10T052bHBHcmczaEE0NjRud0lqNldLTjFSTFcyNU5oRjNKQ0VSaUZKVTAtS2o3NGUtcU1jSkNoUEo4QnJpNkFTNFIzZHhlLWNuS3RKWnhWVFRiRzQyQnFqTk9IS2xMb2FVYjhSWHZLelpGQ3MtU0plSzNTWHZUYURuS2h4SVU4YlFGb0ZaRkZjQkptUm50bkd4MlE?oc=5)
+- 引用：KHQA｜Wed, 18 Nov 2026 14:53:00 GMT｜Illinois enacts new e-bike safety law starting Jan. 1 - KHQA｜https://news.google.com/rss/articles/CBMizwFBVV95cUxNVGY1djBJUDVCeUw1N0ZhN3hsUVlmQ2tBa29uUjM3V3RGRXctNnJUY2lTRmpWcmxMdnc3OE10T052bHBHcmczaEE0NjRud0lqNldLTjFSTFcyNU5oRjNKQ0VSaUZKVTAtS2o3NGUtcU1jSkNoUEo4QnJpNkFTNFIzZHhlLWNuS3RKWnhWVFRiRzQyQnFqTk9IS2xMb2FVYjhSWHZLelpGQ3MtU0plSzNTWHZUYURuS2h4SVU4YlFGb0ZaRkZjQkptUm50bkd4MlE?oc=5｜擷取日 2026-11-19
+
+## 13. What parents should know about new Illinois e-bike law - Yahoo
+
+- 分類：法規更新｜全球
+- 摘要：What parents should know about new Illinois e-bike law &nbsp;&nbsp; Yahoo
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Yahoo](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzktT0t5UFFsOU1YdC02UnQwTXZvUWh1U2lHaGJ6cE1jU2dONE1kTS1LekZFM2FWamhkVVlDdXVpT2dzY2FDSlpDLWkzeXZrMWlTam1GckRqdU5GR0ZVbjZ6aEhUTGZWUDA5RVZGUm0wUWdTZUNXVEc4YUhVLTR4NXZqTQ?oc=5)
+- 引用：Yahoo｜Wed, 18 Nov 2026 14:19:18 GMT｜What parents should know about new Illinois e-bike law - Yahoo｜https://news.google.com/rss/articles/CBMigwFBVV95cUxNUzktT0t5UFFsOU1YdC02UnQwTXZvUWh1U2lHaGJ6cE1jU2dONE1kTS1LekZFM2FWamhkVVlDdXVpT2dzY2FDSlpDLWkzeXZrMWlTam1GckRqdU5GR0ZVbjZ6aEhUTGZWUDA5RVZGUm0wUWdTZUNXVEc4YUhVLTR4NXZqTQ?oc=5｜擷取日 2026-11-19
+
+## 14. San Diego Unified board approves new e-bike safety policy - San Diego Union-Tribune
+
+- 分類：法規更新｜全球
+- 摘要：San Diego Unified board approves new e-bike safety policy &nbsp;&nbsp; San Diego Union-Tribune
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[San Diego Union-Tribune](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGowSWNWZXozX2hVUnBCRFY0NDJOSDRUWW9QaS1hLWVZNEdJYmlULXdrTWk2aFREdDYwRUJGWDJzVVhUUjBXTThLVzkySVZzaG5CLWlwNmtDNll3RnBuWXZ5ckxrVWtqcVcyVlc4Skw4YlU1blcxN05oQlV0dDgxZUNTUHAxcjg4eXFmVWlRb1UtazJadGxOMzNfX0tlcDBTUktaVGVRM0lKWnpka2NZ?oc=5)
+- 引用：San Diego Union-Tribune｜Wed, 18 Nov 2026 09:25:40 GMT｜San Diego Unified board approves new e-bike safety policy - San Diego Union-Tribune｜https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGowSWNWZXozX2hVUnBCRFY0NDJOSDRUWW9QaS1hLWVZNEdJYmlULXdrTWk2aFREdDYwRUJGWDJzVVhUUjBXTThLVzkySVZzaG5CLWlwNmtDNll3RnBuWXZ5ckxrVWtqcVcyVlc4Skw4YlU1blcxN05oQlV0dDgxZUNTUHAxcjg4eXFmVWlRb1UtazJadGxOMzNfX0tlcDBTUktaVGVRM0lKWnpka2NZ?oc=5｜擷取日 2026-11-19
+
+## 15. New SDUSD e-bike safety policy to be considered | San Diego News Daily - NBC 7 San Diego
+
+- 分類：法規更新｜全球
+- 摘要：New SDUSD e-bike safety policy to be considered | San Diego News Daily &nbsp;&nbsp; NBC 7 San Diego
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[NBC 7 San Diego](https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzVRNUFQYWVsZmdGOWNzV3F5REh1WWJsTXV2WUlVSC1VZHJHQ1FhLUtBdXFfMWxDZzc5LTJ6enJJZVhYeDFuNVZmTy1lVmFiS0NzazBsSWVfVWF5MU1qY3ZHSmt1eHE1Ny1jdk1XZ3liNVZTSEd2ZDVmV1NYZmhfb28yaExIbC12MG5VVzlaaFhUa3h2eDVFb2k1NXc2dmhsd29JN0h0M2hIdnZqdUxtN0oyRzk3SzlpTmfSAcIBQVVfeXFMTmZGd19JTXdlZlVjNEFneGdmSzdxUThjNHU2V1ZrQXptREpQNExxajk5d202TEFfYk5qWE9hNU5nZkQyeEhXWk1Yb1ZZLTl3ZUtrRTZxcWhHZ2pFTS1FMHBnU3pDTExnNzEtLUo3d1ZtVkdOcDlYX181MkxnTThRMmpSUVFvSGpjVy01S2Itdk9NWVpYdEFTQnpENFJBOU5zSEQ4S1JNaUdKVG03dVk1VjEyZS1iWGhNemtITmd2R2pKQ2c?oc=5)
+- 引用：NBC 7 San Diego｜Tue, 17 Nov 2026 20:42:53 GMT｜New SDUSD e-bike safety policy to be considered | San Diego News Daily - NBC 7 San Diego｜https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzVRNUFQYWVsZmdGOWNzV3F5REh1WWJsTXV2WUlVSC1VZHJHQ1FhLUtBdXFfMWxDZzc5LTJ6enJJZVhYeDFuNVZmTy1lVmFiS0NzazBsSWVfVWF5MU1qY3ZHSmt1eHE1Ny1jdk1XZ3liNVZTSEd2ZDVmV1NYZmhfb28yaExIbC12MG5VVzlaaFhUa3h2eDVFb2k1NXc2dmhsd29JN0h0M2hIdnZqdUxtN0oyRzk3SzlpTmfSAcIBQVVfeXFMTmZGd19JTXdlZlVjNEFneGdmSzdxUThjNHU2V1ZrQXptREpQNExxajk5d202TEFfYk5qWE9hNU5nZkQyeEhXWk1Yb1ZZLTl3ZUtrRTZxcWhHZ2pFTS1FMHBnU3pDTExnNzEtLUo3d1ZtVkdOcDlYX181MkxnTThRMmpSUVFvSGpjVy01S2Itdk9NWVpYdEFTQnpENFJBOU5zSEQ4S1JNaUdKVG03dVk1VjEyZS1iWGhNemtITmd2R2pKQ2c?oc=5｜擷取日 2026-11-19
+
+## 16. 'I panicked and left': Man admits to being a 'coward' after mowing down 15-year-old Boy Scout on e-bike and fleeing - Law and Crime News
+
+- 分類：法規更新｜全球
+- 摘要：'I panicked and left': Man admits to being a 'coward' after mowing down 15-year-old Boy Scout on e-bike and fleeing &nbsp;&nbsp; Law and Crime News
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[Law and Crime News](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0FMcHdEY0ktb3pGZ3NZS3NEMTdxbFF2ZGVkYkVSS3RWZHdCOXFES2lNUTRqb0xFVWpTTGJURTBGR0pjRDl0MFhFMklzOGluRXhqQW1YRGlnUFlKT3dNbmdEdldiRnhjdUp3WVFSelJTR1I4NmlVNFpfSHRqNW1ESU0wak9TZnZPVF9PZGFOWUZfbWtiSDByV0lyMVJ6MWl1OElyN0ZENzk0bDZ6dEgwZDM2UUt5c01odjRYUTMxZV9VSXBiVUhNY0dPWHQxZjZsTGpzU2E4RFNyVEdy?oc=5)
+- 引用：Law and Crime News｜Tue, 17 Nov 2026 16:48:00 GMT｜'I panicked and left': Man admits to being a 'coward' after mowing down 15-year-old Boy Scout on e-bike and fleeing - Law and Crime News｜https://news.google.com/rss/articles/CBMi3AFBVV95cUxPM0FMcHdEY0ktb3pGZ3NZS3NEMTdxbFF2ZGVkYkVSS3RWZHdCOXFES2lNUTRqb0xFVWpTTGJURTBGR0pjRDl0MFhFMklzOGluRXhqQW1YRGlnUFlKT3dNbmdEdldiRnhjdUp3WVFSelJTR1I4NmlVNFpfSHRqNW1ESU0wak9TZnZPVF9PZGFOWUZfbWtiSDByV0lyMVJ6MWl1OElyN0ZENzk0bDZ6dEgwZDM2UUt5c01odjRYUTMxZV9VSXBiVUhNY0dPWHQxZjZsTGpzU2E4RFNyVEdy?oc=5｜擷取日 2026-11-19
+
+## 17. San Diego Unified School District voting on new e-bike policy on Tuesday - cbs8.com
+
+- 分類：法規更新｜全球
+- 摘要：San Diego Unified School District voting on new e-bike policy on Tuesday &nbsp;&nbsp; cbs8.com
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[cbs8.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcWRFMkNvNkZuTDdyTWR4ckY0MUNtRkdCc1Z1TGM5WW9NTmdzQUpPQzc4MjN1bjZJanAzd1ZkREJEZ0pzZ2xuWC1WRHFZTFhYV083XzhlQ0Z4S2NrQWxMVk8yb3o4ZmRJak9HMTZWVDNvR1YwWXdPWmttRl9pVTB4dk01aUNNb204TmFQMC03S0RqdkRnNVYwTm1nN1U2ekZZZGJ6NUdkUGc4Qm9IMm1fZ296NldRZHhwZG0yWDlJRVUwc2Nkc1ZoQmNWN0EzeVhCVmNhZ3Y2T3YtRW8yd195SGdNSkx3ZWlacVpn?oc=5)
+- 引用：cbs8.com｜Tue, 17 Nov 2026 15:58:00 GMT｜San Diego Unified School District voting on new e-bike policy on Tuesday - cbs8.com｜https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcWRFMkNvNkZuTDdyTWR4ckY0MUNtRkdCc1Z1TGM5WW9NTmdzQUpPQzc4MjN1bjZJanAzd1ZkREJEZ0pzZ2xuWC1WRHFZTFhYV083XzhlQ0Z4S2NrQWxMVk8yb3o4ZmRJak9HMTZWVDNvR1YwWXdPWmttRl9pVTB4dk01aUNNb204TmFQMC03S0RqdkRnNVYwTm1nN1U2ekZZZGJ6NUdkUGc4Qm9IMm1fZ296NldRZHhwZG0yWDlJRVUwc2Nkc1ZoQmNWN0EzeVhCVmNhZ3Y2T3YtRW8yd195SGdNSkx3ZWlacVpn?oc=5｜擷取日 2026-11-19
+
+## 18. Coronado schools adopt a new e-bike policy requiring student permits - The Coronado News
+
+- 分類：法規更新｜全球
+- 摘要：Coronado schools adopt a new e-bike policy requiring student permits &nbsp;&nbsp; The Coronado News
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[The Coronado News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3EzUi0xX3ctUm1vXzNWTmVRWmdhcHRSRXZOYWY3YlZ6Z2g1TURNNXo2Yk5CSDVVc0hlTVlxYU9Ic3NQSVhldm42a2s4Smd3Vm1MQ1pXNVdtTlJpcUlMc05zek15a0gtYzE1VWRqWEVRUmRNTlZZeVM2eVI2QnFnc0Z1MUE0cE41aDhrRHpzc1RzcDZDZDVzRlRTNlZyYkxwcHBOQkMyOE8?oc=5)
+- 引用：The Coronado News｜Mon, 16 Nov 2026 18:49:08 GMT｜Coronado schools adopt a new e-bike policy requiring student permits - The Coronado News｜https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM3EzUi0xX3ctUm1vXzNWTmVRWmdhcHRSRXZOYWY3YlZ6Z2g1TURNNXo2Yk5CSDVVc0hlTVlxYU9Ic3NQSVhldm42a2s4Smd3Vm1MQ1pXNVdtTlJpcUlMc05zek15a0gtYzE1VWRqWEVRUmRNTlZZeVM2eVI2QnFnc0Z1MUE0cE41aDhrRHpzc1RzcDZDZDVzRlRTNlZyYkxwcHBOQkMyOE8?oc=5｜擷取日 2026-11-19
+
+## 19. Suzuki Could Launch an Electric Scooter in 2021 - webBikeWorld
+
+- 分類：品牌新品｜全球
+- 摘要：Suzuki Could Launch an Electric Scooter in 2021 &nbsp;&nbsp; webBikeWorld
+- 圖片（先確認授權）：[原始報導縮圖](https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300)
+- 原文：[webBikeWorld](https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWg1c0NnaTdKNy1PcHBTNXpVcDVyRXJ2bWx0LXlSYWlrYld0MXRwZG9meVUtQ3RZbHFHWDBiS2ZUZ1hXbHRsSHh4emRTaE0wSTBwQmxyRkVZNWM2X0djQlk5eHpFaW9TMHVFaGtKNUJBN2hGeThkSU9UUGN1MmFvNVV1Yw?oc=5)
+- 引用：webBikeWorld｜Tue, 03 Nov 2026 08:00:00 GMT｜Suzuki Could Launch an Electric Scooter in 2021 - webBikeWorld｜https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWg1c0NnaTdKNy1PcHBTNXpVcDVyRXJ2bWx0LXlSYWlrYld0MXRwZG9meVUtQ3RZbHFHWDBiS2ZUZ1hXbHRsSHh4emRTaE0wSTBwQmxyRkVZNWM2X0djQlk5eHpFaW9TMHVFaGtKNUJBN2hGeThkSU9UUGN1MmFvNVV1Yw?oc=5｜擷取日 2026-11-19
