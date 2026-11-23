@@ -1,0 +1,29 @@
+# 電動微型移動每日情報｜2026-11-23
+
+本次新增 **6** 項。
+
+## 技術元件
+
+- **[Sodium-Ion Electric Scooters Enter Battery Trials - Urban Acres](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTWxITGQ2M2xOYkxOWWFqY1djdmpjY0d0ejlOMW9sTDRPcGNQMm9IdXE0MzZ1RC1odUVfaU9SNU1TZm5nWTFmZEVHMS1BczdPcGdVblBHcDZHZ29LcW9UZGc1UXJUNHpwc1pUZHpfLU4zSVQ1MVZIcDNOMjVUQ0VUVzdpaFFQS0t2WWZPcGtGTXQ1TE96ejMxXzI0eEgzOTFUcVE?oc=5)**｜Urban Acres｜Sun, 22 Nov 2026 06:40:31 GMT  
+  Sodium-Ion Electric Scooters Enter Battery Trials &nbsp;&nbsp; Urban Acres
+
+## 品牌新品
+
+- **[VinFast plans early 2027 launch for e-scooters in India; eyes 1 million-unit annual capacity - ET Auto](https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWTRSVUNhTVBLNjRkUmFRbGJmcDNlSmNFSXk1SVE2VXNwcnhxTlJSdkJacEt1aXlSS3luQ0NTWFhOeEg3YVhlVkdWM0dOc0Jmd2tHbHBMRGJQcXJ2WFpoRGZzQTlWWDVvdzZfOGs2emFqWnJ1NElqUTlJMFdsZjIxX0tPNERFNEczQmZubl9XUUM5Y3FZQVY2U1JjQTluZWxMV19ubkV2ZnZMSUhDSlpEQmNMTVlTei1QekxjMVFhRHp0TkdIcmdsM2hadk5ReGV0MXVjTkIzU0xuZ2FUZmRUQlVEZHZUQVdfNWlSSi1KdXF5Z1HSAfcBQVVfeXFMT0M4M0pMRG1mYjZ4Vk9PanNvSFdxU0RGc2ZCa1Z4TWtlRTEtZUZpZUdMRVBZcF9hcXV5bVl3bVV1SFJ1VlRkUnNsWXdLMWVHLXBhWVllX2hWbUw1aTJ6WFlaWnd4ZUJOY2ZUWDJwSDJwNVgtUUZZWWFqc0kwOGdXOWdpdEt5czQ0ZUNMX2RtOUdNblBxenVvbEh2ckMwR01IZmttZ0xQWTBlV08tMk1CN0prZEh6WDJMcThnR09ISUdFbXJyZUFIeWc0M2dxeUhta0ptSjluM0kzbFdhRUxkTG04bjRBZWxLSHIweFJYWGFLY0NLS09uZw?oc=5)**｜ET Auto｜Mon, 23 Nov 2026 03:08:30 GMT  
+  VinFast plans early 2027 launch for e-scooters in India; eyes 1 million-unit annual capacity &nbsp;&nbsp; ET Auto
+- **[VinFast plans to launch two electric scooters in India in 2027, expand Tamil Nadu manufacturing - Storyboard18](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN1ZhaVp6c080VnlQR3A4dlFNZzJOdVpuNkFFYXVVX3RaRHEzc2Rta3d2R1lYaVJqOVJkN0RvNG9zbldDblQ2aTdkeUU0eE9TeXgtTnUxUjVPMG83ZXZCLVlZYmdyY3ZRX2d2Q1c5emZiLUsweVYya1dBTmRVNWJVXzdjaGYxZ1pSQnRXZ0JhV0tGcG1Yek9XY0tDMjllSUo4S1lOQ3hja1JlaDZlYmpNVjlhSVBrcS01c0JJQzd0REZwNjh1WV84ZGtTNTZNQkNfWkhWUzBsTFl2U1R0SnlVTUcxY3rSAeoBQVVfeXFMUFNjRkJ0bUxPY19FVUk2blNIaHIybFVNd2dScFRCb0Rqc1NFaTVoRzl6NWdRZzMzY09NTXJ0RmpSUDNyNkpxTUZEU1hHX1pWNG9oZzFEbGxyYVU1a1U1LXR6Z1FQdEgzX1VGZDFpQmdDQnhhTTFKdXQ0NlNiMDQ5WEdHUXlpa3ZwVUR1WmoxcjJGbV9oQlVIX2g5d2hNSVNXcDYycHcwWHNvWG5EVmVWM0dtTVZ6NEhydW52aDFpaGRWNlM5eW1HWkxFb04yQVZ0ZjhRZUx0TFR0Yl9naFlSam10SDRxRW93Qm5R?oc=5)**｜Storyboard18｜Sun, 22 Nov 2026 11:01:02 GMT  
+  VinFast plans to launch two electric scooters in India in 2027, expand Tamil Nadu manufacturing &nbsp;&nbsp; Storyboard18
+- **[River RX02 Electric Scooter Spotted Testing, India Launch Expected In 2027 - BikeAdvice](https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjdlcmI4el9BLWZzemVBYngxQkxWTWVqY00yVG1obTN6d3BNMWhqZEszSnVGRGZJNDluS3E0MUdiNDMtQ25iMlQ2Vm1EbTNpZVJhQ2M0dzlEdjhWNk1uWFMyRHU5am5mb1ZpN3ltMjhQVGdUSlp6SGVUUk1vMzFRLTVlc19Zbld0VUlnTkkyaVBQcXZkdUMxQ1ZMUWk?oc=5)**｜BikeAdvice｜Sun, 22 Nov 2026 03:30:18 GMT  
+  River RX02 Electric Scooter Spotted Testing, India Launch Expected In 2027 &nbsp;&nbsp; BikeAdvice
+
+## 產業趨勢
+
+- **[VinFast plans India e-scooter entry in 2027, eyes bigger share of EV market - Moneycontrol.com](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2UteXVYZzhSb3dmVTdaRTJab3RCWmo1MDdfVjBxLVg5TjRHRXotMFB2bU5KTkFnVkIyWW1WWTQwWEhoaVE1TFpELTViZG1fNUprZnFCN0lNSm9vX1Z3SEkza01JVjdBNUxfM3JsTVVNWnIyYjdVTW1jcGpuQlpSVzd2Smc5Q0lxY0l6dHliQXk2YmlxaEFwNG1zWVQxQ3JzMGVzcDhQT2dnaE05QUdLT0tCTzU0LWkxRnloNTR4dFZhQlZEdW9aeENsLVlBYUFiT2UwRFVCeXXSAd4BQVVfeXFMUE9tOEVKM2tfdXJEUjAzVkQzM1BGTVFFeGw3TmdJRUNMUnVHU2ZpR3pHUGJzZW9SRzV2b21ZSlpRQmhid01EOWgwMERQWUhiblE5X3Z5ODl4cDFIa1gzaFFqc0xzV1dRejVUcUM4R2NzOEp0ekRPT2s3OUptRWx4WjNuTXMybnNoUjU2ZDFNWlBGSGtXRjJzMUhyQl9QQWswOXNxSGNsWU9JU0tYdHozWExBMnNfc3dseFY2SGczcFFyUTllb2NrWXF0bGQ1a2xBVXVGVnlKeEVZWmYxRzRn?oc=5)**｜Moneycontrol.com｜Sun, 22 Nov 2026 09:26:34 GMT  
+  VinFast plans India e-scooter entry in 2027, eyes bigger share of EV market &nbsp;&nbsp; Moneycontrol.com
+- **[India Electric Scooter Market Size, Share, Forecast 2035 - Market Research Future](https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFMxa3AtREN1LTI1UEEtU3owWDdwWmFfOHZINjRrUG9ZRTdmak1RMHBYV29Cem9OaVVHLWNqYWs5cU4zU0JQNDlyOFAwZU1NOVZkYkxlWG1id0R3Nlo0aVdPajdGRlk2VEpDNDY2NkVhamdSb2hIWTl1ZDlkaGNiTlNhbU83cXM?oc=5)**｜Market Research Future｜Tue, 10 Nov 2026 08:00:00 GMT  
+  India Electric Scooter Market Size, Share, Forecast 2035 &nbsp;&nbsp; Market Research Future
+
+## 使用提醒
+
+- 繁中摘要由 AI 依原文標題與摘要整理；法規、規格、維修與召回請回到原文確認。
+- 圖片若有提供，對外使用前請確認原始網站的授權。
